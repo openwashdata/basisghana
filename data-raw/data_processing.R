@@ -60,11 +60,63 @@ page01 <- df01_district |>
   left_join(df01)
 
 
+# page 02 to page 06 -----------------------------------------------------------
+
+vector_area0206 <- c(50, 90, 600, 1000)
+
+m0206_list <- extract_tables(basisghana_pdf,
+                             pages = 2:6,
+                             guess = FALSE,
+                             # (top, left, bottom, right)
+                             area = c(
+                               list(c(110, 100, 600, 1000)),
+                               lapply(1:4, function(x) vector_area0206)
+                             ))
+
+m0206_df <- lapply(m0206_list, as.data.frame)
+
+m0206_df[[4]] <- m0206_df[[4]] |>
+  mutate(V8 = NA_character_)
+
+df0206 <- do.call(rbind, m0206_df) |>
+  mutate(no = seq(1:n())) |>
+  relocate(no) |>
+  as_tibble() |>
+  mutate(across(V4:V8, as.numeric))
+
+# define column names
+names(df0206) <- col_names
+
+# define area to extract data from. only use columns No. and District
+
+m0206_district <- extract_tables(basisghana_pdf,
+               pages = 2:6,
+               guess = FALSE,
+               # (top,left,bottom,right)
+               area = list(c(100, 0, 400, 100)))
+
+
+m0206_district_df <- lapply(m0206_district, as.data.frame)
+m0206_district_df <- do.call(rbind, m0206_district_df)
+
+# wrangle data get a complete dataframe for no. and district
+
+df0206_district <- m0206_district_df |>
+  as_tibble() |>
+  mutate(no = stringr::str_split(V1, "\\s", n = 2)) |>
+  unnest_wider(col = no, names_sep = "_") |>
+  select(no = no_1, district = no_2) |>
+  fill(district, .direction = "down") |>
+  mutate(no = as.numeric(no))
+
+page0206 <- df0206_district |>
+  left_join(df0206)
 
 
 # export final dataframe --------------------------------------------------
 
-basisghana <- page01
+basisghana <- bind_rows(page01,
+                        page0206)
 
 usethis::use_data(basisghana, overwrite = TRUE)
 fs::dir_create(here::here("inst", "extdata"))
