@@ -323,3 +323,235 @@ no,district,area_council,partner,community_name,population,households,toilets,hw
 188,Garu Tempane,Bugri,GOG-UNICEF,Kukose,118,12,10,NA,NA
 189,Garu Tempane,Kugri,GOG-UNICEF,Tankpasi-Busanteng,231,12,11,NA,NA
 190,Garu Tempane,Garu,GOG-UNICEF,Benguri No.1,125,10,8,NA,NA
+1,Daffiama Bussie Iss,Issa,GOG-UNICEF,Vietor,110,9,8,8,37
+2,Daffiama Bussie Iss,Issa,GOG-UNICEF,Sazie,669,68,62,62,NA
+3,Daffiama Bussie Iss,Issa,GOG-UNICEF,Samanbo,589,38,34,38,NA
+4,Daffiama Bussie Iss,Issa,GOG-UNICEF,Bulbaa,203,31,30,30,NA
+5,Daffiama Bussie Iss,Issa,GOG-UNICEF,Suluguo,213,32,32,30,NA
+6,Daffiama Bussie Iss,Daffiama,GOG-UNICEF,Dakyenaayiri,162,16,16,15,NA
+7,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Nyori,408,21,20,20,NA
+8,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Pulbaah,528,51,46,45,NA
+9,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Kandayiri,29,10,9,9,NA
+10,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Salee,522,110,46,44,NA
+11,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Kamahegu,597,39,39,39,NA
+12,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Buoyiri,479,52,44,50,NA
+13,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Chebaa,278,41,38,41,NA
+14,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Dagubaa,218,58,41,53,NA
+15,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Moyiri,149,14,12,14,NA
+16,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Tangazu,60,22,17,22,NA
+17,Daffiama Bussie Iss,Daffiama,GOG-UNICEF,Balirgbee,151,20,19,18,NA
+18,Daffiama Bussie Iss,Daffiama,GOG-UNICEF,Dakpaa,539,73,38,38,NA
+19,Daffiama Bussie Iss,Daffiama,GOG-UNICEF,Kanni,268,30,30,30,NA
+20,Daffiama Bussie Iss,Daffiama,GOG-UNICEF,Toyenpari,158,16,16,13,NA
+21,Daffiama Bussie Iss,Daffiama,GOG-UNICEF,Worbare,312,33,31,30,NA
+22,Daffiama Bussie Iss,Issa,GOG-UNICEF,Jempensi,427,22,21,0,NA
+23,Daffiama Bussie Iss,Issa,GOG-UNICEF,Jempensi,138,16,16,20,NA
+24,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Jempensi,602,42,42,0,NA
+25,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Jempensi,97,11,10,0,NA
+26,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Jempensi,104,13,12,0,NA
+27,Daffiama Bussie Iss,DAFFIAMA,GOG-UNICEF,DAKYIE,175,21,21,32,NA
+28,Daffiama Bussie Iss,DAFFIAMA,GOG-UNICEF,WUCHE,82,10,10,10,NA
+29,Daffiama Bussie Iss,DAFFIAMA,GOG-UNICEF,TUOLADENGYIRI,71,8,8,8,NA
+30,Daffiama Bussie Iss,BUSSIE,GOG-UNICEF,ZINGBERIDIRI,79,10,10,10,NA
+31,Daffiama Bussie Iss,ISSA,GOG-UNICEF,SABOGU,126,18,18,28,NA
+32,Daffiama Bussie Iss,ISSA,GOG-UNICEF,CHALLA,384,60,49,30,NA
+33,Daffiama Bussie Iss,ISSA,GOG-UNICEF,DAGONGA,96,12,12,12,NA
+34,Daffiama Bussie Iss,ISSA,GOG-UNICEF,KENKELE,364,28,28,52,NA
+35,Daffiama Bussie Iss,ISSA,GOG-UNICEF,BANOUYIRI,238,34,34,34,NA
+36,Daffiama Bussie Iss,,GOG-UNICEF,Tozie,35,7,7,14,NA
+37,Daffiama Bussie Iss,ISSA,GOG-UNICEF,Lambure,NA,40,39,39,NA
+38,Jirapa,Tuggo,GOG-UNICEF,Orifani,771,28,24,22,8
+39,Jirapa,Tuggo,GOG-UNICEF,Tuoluong,1596,87,48,30,NA
+40,Jirapa,Tizza,GOG-UNICEF,Naibong,338,26,24,5,NA
+41,Jirapa,Duori,GOG-UNICEF,Duori-Guri (Guri),128,17,15,6,NA
+42,Jirapa,Tuggo,GOG-UNICEF,Gbertuori,343,25,24,8,NA
+43,Jirapa,Sabuli,GOG-UNICEF,Balantaa,300,29,25,12,NA
+44,Jirapa,Hain,GOG-UNICEF,Puokangbo,131,16,12,10,NA
+45,Jirapa,Sabuli,GOG-UNICEF,Somboro,264,44,25,20,NA
+46,Lawra,Lawra,GOG-UNICEF,Bagri,1850,120,103,45,5
+47,Lawra,Lawra,GOG-UNICEF,Dikpe,344,91,78,18,NA
+48,Lawra,Lawra,GOG-UNICEF,Kalsegra,524,84,71,55,NA
+49,Lawra,Babile,GOG-UNICEF,Tanchera,253,43,35,22,NA
+50,Lawra,Babile,GOG-UNICEF,Birifoh-char,338,76,68,52,NA
+51,Nadowli Kaleo,Takpo,GOG-UNICEF,Zupiiri,382,33,9,10,34
+52,Nadowli Kaleo,Takpo,GOG-UNICEF,Siiru,243,31,29,26,NA
+53,Nadowli Kaleo,Charikpong,GOG-UNICEF,Baase,500,29,27,25,NA
+54,Nadowli Kaleo,Takpo,GOG-UNICEF,Gudouri,175,10,10,10,NA
+55,Nadowli Kaleo,Takpo,GOG-UNICEF,Meguo,452,15,15,11,NA
+56,Nadowli Kaleo,Takpo,GOG-UNICEF,Mantari,154,28,32,28,NA
+57,Nadowli Kaleo,Nadowli,GOG-UNICEF,Naribu,191,25,23,10,NA
+58,Nadowli Kaleo,Charikpong,GOG-UNICEF,Yaali,766,21,18,14,NA
+59,Nadowli Kaleo,Charikpong,GOG-UNICEF,Sabaala Yeruu,349,23,19,12,NA
+60,Nadowli Kaleo,Charikpong,GOG-UNICEF,Lutangu,104,20,16,10,NA
+61,Nadowli Kaleo,Charikpong,GOG-UNICEF,Biire,250,35,35,0,NA
+62,Nadowli Kaleo,Charikpong,GOG-UNICEF,Charisombo,993,55,55,70,NA
+63,Nadowli Kaleo,Charikpong,GOG-UNICEF,Dassiga,80,7,7,6,NA
+64,Nadowli Kaleo,Charikpong,GOG-UNICEF,Musama,189,11,11,9,NA
+65,Nadowli Kaleo,Kaleo,GOG-UNICEF,Paali,119,10,10,20,NA
+66,Nadowli Kaleo,Nadowli,GOG-UNICEF,Diboro,235,20,20,17,NA
+67,Nadowli Kaleo,Nadowli,GOG-UNICEF,Duuronpari,78,10,10,10,NA
+68,Nadowli Kaleo,Nadowli,GOG-UNICEF,Gbogyiri,178,9,10,9,NA
+69,Nadowli Kaleo,Nadowli,GOG-UNICEF,Gonpare,66,7,9,9,NA
+70,Nadowli Kaleo,Nadowli,GOG-UNICEF,Kpateriyiri,100,11,11,10,NA
+71,Nadowli Kaleo,Nadowli,GOG-UNICEF,Kpazie Muolo,345,27,27,27,NA
+72,Nadowli Kaleo,Nadowli,GOG-UNICEF,Kuntaali,550,46,46,46,NA
+73,Nadowli Kaleo,Nadowli,GOG-UNICEF,Mojan,185,21,21,15,NA
+74,Nadowli Kaleo,Nadowli,GOG-UNICEF,Sigidouri,72,9,10,10,NA
+75,Nadowli Kaleo,Nadowli,GOG-UNICEF,Toyaga,360,37,30,40,NA
+76,Nadowli Kaleo,Nadowli,GOG-UNICEF,Zongo,148,8,9,12,NA
+77,Nadowli Kaleo,Sombo,GOG-UNICEF,Guure,456,33,33,25,NA
+78,Nadowli Kaleo,Takpo,GOG-UNICEF,Botile,42,9,9,1,NA
+79,Nadowli Kaleo,Sombo,GOG-UNICEF,Donjan,98,14,14,15,NA
+80,Nadowli Kaleo,Bussie,GOG-UNICEF,Gbierung,328,32,31,20,NA
+81,Nadowli Kaleo,Nadowli,GOG-UNICEF,Kankanzie,92,13,13,10,NA
+82,Nadowli Kaleo,Charikpong,GOG-UNICEF,Baadabuo,495,26,26,32,NA
+83,Nadowli Kaleo,Nadowli,GOG-UNICEF,Piirung-Yiri,93,13,15,21,NA
+84,Nadowli Kaleo,Nadowli,GOG-UNICEF,Kpazie-Takpo,169,13,13,7,NA
+85,Nandom,Baseble,GOG-UNICEF,Venne,58,6,5,8,8
+86,Nandom,Baseble,GOG-UNICEF,Sonner,296,57,52,30,NA
+87,Nandom,Puffien,GOG-UNICEF,Guri,357,51,50,32,NA
+88,Nandom,Puffien,GOG-UNICEF,Tantuo,530,62,67,26,NA
+89,Nandom,Puffien,GOG-UNICEF,Ketuo,957,72,62,46,NA
+90,Nandom,Puffien,GOG-UNICEF,Dagbateng,654,56,69,38,NA
+91,Nandom,Nandom,GOG-UNICEF,Na-Imwine,238,19,18,18,NA
+92,Nandom,Nandom,GOG-UNICEF,Nabugagn,596,106,100,45,NA
+93,Sissala West,Fielmua,GOG-UNICEF,Chetu,485,84,32,32,19
+94,Sissala West,Fielmua,GOG-UNICEF,Foliteng,419,23,20,18,NA
+95,Sissala West,Gwollu,GOG-UNICEF,Kunni,113,12,20,15,NA
+96,Sissala West,Pulima,GOG-UNICEF,Kandia,668,46,23,20,NA
+97,Sissala West,Pulma,GOG-UNICEF,Limmiere,48,12,15,10,NA
+98,Sissala West,Zini,GOG-UNICEF,Du West,208,35,15,12,NA
+99,Sissala West,Zini,GOG-UNICEF,Sangbaga 1&2,386,26,28,26,NA
+100,Sissala West,Gwollu,GOG-UNICEF,Dajan,75,13,10,5,NA
+101,Sissala West,Gwollu,GOG-UNICEF,Gbal,720,26,30,15,NA
+102,Sissala West,Zini,GOG-UNICEF,Dakuma,729,78,12,12,NA
+103,Sissala West,Zini,GOG-UNICEF,Fatchu,1022,113,30,25,NA
+104,Sissala West,Zini,GOG-UNICEF,Hiel,504,32,23,20,NA
+105,Sissala West,Zini,GOG-UNICEF,Nyentie,660,99,33,30,NA
+106,Sissala West,Zini,GOG-UNICEF,Nyeviel,407,33,25,20,NA
+107,Sissala West,Gwollu,GOG-UNICEF,Kwala,720,78,28,20,NA
+108,Sissala West,Zini,GOG-UNICEF,Lulo,192,48,20,12,NA
+109,Sissala West,Fielmua,GOG-UNICEF,Mosiire,45,6,1,6,NA
+110,Sissala West,Zini,GOG-UNICEF,Lierom Buo,518,35,29,10,NA
+111,Sissala West,Zini,GOG-UNICEF,Pipelime,320,122,21,18,NA
+112,Wa East,Funsi,GOG-UNICEF,Yayonyiri,573,115,42,30,19
+113,Wa East,Bulenga,GOG-UNICEF,Sahe,213,48,15,12,NA
+114,Wa East,Bulenga,GOG-UNICEF,Goh,389,98,25,25,NA
+115,Wa East,Bulenga,GOG-UNICEF,Kakalapuo,165,27,26,25,NA
+116,Wa East,Bulenga,GOG-UNICEF,Viaha,426,37,25,19,NA
+117,Wa East,Funsi,GOG-UNICEF,Sawuobe,347,147,27,16,NA
+118,Wa East,Bulenga,GOG-UNICEF,Bilin-Un,130,15,23,15,NA
+119,Wa East,Funsi,GOG-UNICEF,Jellu,126,16,27,20,NA
+120,Wa East,Funsi,GOG-UNICEF,Manpie Yiri,108,12,11,11,NA
+121,Wa East,Funsi,GOG-UNICEF,Tambilipuo,248,31,42,20,NA
+122,Wa East,Bulenga,GOG-UNICEF,Bulezu,224,21,10,NA,NA
+123,Wa East,Bulenga,GOG-UNICEF,Gohpaani,35,7,5,NA,NA
+124,Wa East,Funsi,GOG-UNICEF,Morni Yiri,31,15,13,NA,NA
+125,Wa East,Funsi,GOG-UNICEF,Nafuriyiri,131,15,13,NA,NA
+126,Wa East,Funsi,GOG-UNICEF,Sampuoyrir,210,41,23,NA,NA
+127,Wa East,Funsi,GOG-UNICEF,Zang-Kura,311,58,40,30,NA
+128,Wa East,Funsi,GOG-UNICEF,Zinye,499,30,19,NA,NA
+129,Wa East,Funsi,GOG-UNICEF,Zinye Kunasiyiri,35,6,5,NA,NA
+130,Wa East,,GOG-UNICEF,Bule No. 2,341,26,22,22,NA
+131,Wa West,Dorimon,GOG-UNICEF,Jambusi,456,53,53,45,85
+132,Wa West,Dorimon,GOG-UNICEF,Mwabasi,730,61,60,50,NA
+133,Wa West,Dorimon,GOG-UNICEF,Gongoglo,264,27,35,20,NA
+134,Wa West,Dorimon,GOG-UNICEF,Cheatanga,309,31,34,25,NA
+135,Wa West,Ga,GOG-UNICEF,Bawa,835,59,54,35,NA
+136,Wa West,Veri,GOG-UNICEF,Ladaateng,306,55,54,35,NA
+137,Wa West,Dorimon,GOG-UNICEF,Nurikuteng,475,88,82,42,NA
+138,Wa West,Gurungu,GOG-UNICEF,Kpenateng,900,84,81,92,NA
+139,Wa West,Gurungu,GOG-UNICEF,Tanziri,94,34,31,25,NA
+140,Wa West,Gurungu,GOG-UNICEF,Dakari,166,25,33,25,NA
+141,Wa West,Gurungu,GOG-UNICEF,Dapilayiri,303,61,61,46,NA
+142,Wa West,Gurungu,GOG-UNICEF,Mwinberateng,116,14,14,12,NA
+143,Wa West,Gurungu,GOG-UNICEF,Motori,1649,68,60,45,NA
+144,Wa West,Gurungu,GOG-UNICEF,Tame,36,5,4,4,NA
+145,Wa West,Gurungu,GOG-UNICEF,Metti,844,82,77,56,NA
+146,Wa West,Gurungu,GOG-UNICEF,Gurungu,1159,148,125,45,NA
+147,Wa West,Gurungu,GOG-UNICEF,Tawoncheli No. 2,423,43,43,43,NA
+148,Wa West,Gurungu,GOG-UNICEF,Solekura,112,9,9,NA,NA
+149,Wa West,Gurungu,GOG-UNICEF,Jagluu,622,73,68,61,NA
+150,Wa West,Gurungu,GOG-UNICEF,Yorbokura,395,38,38,NA,NA
+151,Wa West,Wechiau,GOG-UNICEF,Saaru,200,22,22,NA,NA
+152,Wa West,Dorimon,GOG-UNICEF,Kolungu,300,47,27,5,NA
+153,Wa West,Dorimon,GOG-UNICEF,Dole,237,28,27,27,NA
+154,Wa West,Dorimon,GOG-UNICEF,Guomaali,203,27,26,23,NA
+155,Wa West,Dorimon,GOG-UNICEF,Tamaara,128,20,22,22,NA
+156,Wa West,Dorimon,GOG-UNICEF,Zogli,120,15,17,9,NA
+157,Wa West,Gurungu,GOG-UNICEF,Anyourakura,388,42,42,50,NA
+158,Wa West,Gurungu,GOG-UNICEF,Ba-Orjon,202,34,31,10,NA
+159,Wa West,Gurungu,GOG-UNICEF,Batonuriyiri,505,44,44,3,NA
+160,Wa West,Gurungu,GOG-UNICEF,Dakaarayiri,111,7,13,13,NA
+161,Wa West,Gurungu,GOG-UNICEF,Kapilayiri,96,10,9,3,NA
+162,Wa West,Gurungu,GOG-UNICEF,Nuobakiyereyiri,91,36,36,42,NA
+163,Wa West,Gurungu,GOG-UNICEF,Tawoncheli No. 1,478,56,54,60,NA
+164,Wa West,Gurungu,GOG-UNICEF,Tie-Yiri,154,15,15,9,NA
+165,Wa West,Gurungu,GOG-UNICEF,Yasoyiri,203,34,34,34,NA
+166,Wa West,Gurungu,GOG-UNICEF,Yuonuuri,970,144,122,60,NA
+167,Wa West,Dorimon,GOG-UNICEF,Kogle,159,31,23,31,NA
+168,Wa West,Ga,GOG-UNICEF,Gadi,150,NA,NA,NA,NA
+169,Wa West,Ga,GOG-UNICEF,Pituo,60,NA,NA,NA,NA
+170,Wa West,Gurungu,GOG-UNICEF,Gbaalwob,807,74,61,59,NA
+171,Wa West,Gurungu,GOG-UNICEF,Jorkpetey-Yiri,198,12,12,12,NA
+172,Wa West,Gurungu,GOG-UNICEF,Solinbo,276,NA,NA,NA,NA
+173,Wa West,Vieri,GOG-UNICEF,Pigbengben,193,NA,NA,NA,NA
+174,Wa West,Wechau,GOG-UNICEF,Dochera,145,NA,NA,NA,NA
+175,Wa West,Wechau,GOG-UNICEF,Dompie,128,13,13,2,NA
+176,Wa West,,GOG-UNICEF,Junuokura,204,NA,NA,NA,NA
+177,Wa West,,GOG-UNICEF,Konduoni,188,NA,NA,NA,NA
+178,Wa West,,GOG-UNICEF,Siala,156,NA,NA,NA,NA
+179,Wa West,Wechiau,GOG-UNICEF,Bienye,535,67,63,50,NA
+180,Wa West,Dorimon,GOG-UNICEF,Dassaayiri,33,NA,3,3,NA
+181,Wa West,Dorimon,GOG-UNICEF,Kukpali,530,20,10,5,NA
+182,Wa West,Dorimon,GOG-UNICEF,Mwantanga,225,NA,24,24,NA
+183,Wa West,Ga,GOG-UNICEF,Daribateng,208,34,45,45,NA
+184,Wa West,Ga,GOG-UNICEF,Dolinguo,205,22,37,28,NA
+185,Wa West,Ga,GOG-UNICEF,Maanyeyiri,263,26,27,26,NA
+186,Wa West,Ga,GOG-UNICEF,Nakor,363,NA,38,37,NA
+187,Wa West,Ga,GOG-UNICEF,Olloteng,321,NA,30,30,NA
+188,Wa West,Ga,GOG-UNICEF,Simpuoyiri,157,20,19,19,NA
+189,Wa West,Ga,GOG-UNICEF,Sanuori,264,29,43,37,NA
+190,Wa West,Ga,GOG-UNICEF,Sooereyiri,195,14,17,17,NA
+191,Wa West,Ga,GOG-UNICEF,Tambile,245,26,33,25,NA
+192,Wa West,Ga,GOG-UNICEF,Wechiaubor,516,64,63,25,NA
+193,Wa West,Ga,GOG-UNICEF,Wekaba,307,NA,34,34,NA
+194,Wa West,Gurungu,GOG-UNICEF,Dagmaayiri,108,25,21,0,NA
+195,Wa West,Gurungu,GOG-UNICEF,Mgmemberayiri,101,NA,10,0,NA
+196,Wa West,Gurungu,GOG-UNICEF,Nakaarayiri,207,NA,18,11,NA
+197,Wa West,Vieri,GOG-UNICEF,Bakurateng,173,NA,18,18,NA
+198,Wa West,Vieri,GOG-UNICEF,Daboziiri,115,NA,19,19,NA
+199,Wa West,Vieri,GOG-UNICEF,Donko,370,29,30,15,NA
+200,Wa West,Vieri,GOG-UNICEF,Kapuu,108,10,10,10,NA
+201,Wa West,Vieri,GOG-UNICEF,Kuunyenteng,120,NA,10,10,NA
+202,Wa West,Vieri,GOG-UNICEF,Lassiabile,109,NA,8,8,NA
+203,Wa West,Vieri,GOG-UNICEF,Mepkaa,351,20,38,20,NA
+204,Wa West,Vieri,GOG-UNICEF,Piiriteng,119,14,27,5,NA
+205,Wa West,Wechiau,GOG-UNICEF,Bunikye,234,22,21,22,NA
+206,Wa West,Wechiau,GOG-UNICEF,Daloyiri,86,14,12,4,NA
+207,Wa West,Wechiau,GOG-UNICEF,Damwateng,128,NA,20,9,NA
+208,Wa West,Wechiau,GOG-UNICEF,Dariyiri,138,12,14,1,NA
+209,Wa West,Wechiau,GOG-UNICEF,Jelleriyiri,254,NA,25,23,NA
+210,Wa West,Wechiau,GOG-UNICEF,Mekpa,51,7,6,3,NA
+211,Wa West,Wechiau,GOG-UNICEF,Tagdo,74,NA,12,12,NA
+212,Wa West,Ga,GOG-UNICEF,Weleyiri,247,21,18,4,NA
+213,Wa West,Wechiau,GOG-UNICEF,Mwalayiri,105,10,10,5,NA
+214,Wa West,,GOG-UNICEF,Balisery,94,37,32,30,NA
+215,Wa West,Dorimon,GOG-UNICEF,Gbongo,NA,31,29,27,NA
+216,Lambussie Karni,Karni,GOG-UNICEF,Laabilziri,275,19,18,18,17
+217,Lambussie Karni,Lambusie,GOG-UNICEF,Kelfinsi,240,30,27,25,NA
+218,Lambussie Karni,Lambusie,GOG-UNICEF,Kokoligu,291,27,25,20,NA
+219,Lambussie Karni,Samoa,GOG-UNICEF,Dindee,755,49,40,38,NA
+220,Lambussie Karni,Samoa,GOG-UNICEF,Kontawii,214,18,15,16,NA
+221,Lambussie Karni,Lambussie,GOG-UNICEF,Hachagangn,371,43,35,30,NA
+222,Lambussie Karni,Samoa,GOG-UNICEF,Bognuo,882,82,81,62,NA
+223,Lambussie Karni,Samoa,GOG-UNICEF,Konsi,410,65,54,32,NA
+224,Lambussie Karni,Hamile,GOG-UNICEF,Duragan,340,23,20,18,NA
+225,Lambussie Karni,Hamile,GOG-UNICEF,Kpanagan,234,24,20,15,NA
+226,Lambussie Karni,Lambussie,GOG-UNICEF,Nyubule,280,20,18,18,NA
+227,Lambussie Karni,Samoa,GOG-UNICEF,Hineteng,695,81,68,71,NA
+228,Lambussie Karni,Hamile,GOG-UNICEF,Chetu,360,39,36,35,NA
+229,Lambussie Karni,Karni,GOG-UNICEF,Girigan,493,32,29,29,NA
+230,Lambussie Karni,Lambussie,GOG-UNICEF,Kelegan,717,63,52,52,NA
+231,Lambussie Karni,Lambussie,GOG-UNICEF,Tubergan,390,44,36,35,NA
+232,Lambussie Karni,Lambussie,GOG-UNICEF,Nyangor,113,11,9,12,NA
