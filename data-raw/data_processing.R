@@ -1007,8 +1007,17 @@ odfs <- basisghana_complete |>
   select(region, district, odfs) |>
   drop_na()
 
-basisghana <- basisghana_complete |>
-  select(-odfs)
+# manipulation: check what empty fields are
+
+basisghana
+
+basisghana_complete |>
+  select(-odfs) |>
+  mutate(area_council = na_if(area_council, ""))
+  filter(is.na(area_council))
+  mutate_all(~na_if(.x, " "))
+
+
 
 # export data -------------------------------------------------------------
 
