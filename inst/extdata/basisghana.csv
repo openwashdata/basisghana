@@ -1,557 +1,1619 @@
-no,district,area_council,partner,community_name,population,households,toilets,hwf,odfs
-1,Abura Asebu Kwamankes,Abakrampa,GOG-UNICEF,Okwesikrom,158,23,19,19,2
-2,Abura Asebu Kwamankes,Abakrampa,GOG-UNICEF,Apaakrom,48,8,7,7,NA
-3,Ajumako Enyan Essiam,Besiase,GOG-UNICEF,Okontomire,48,5,4,4,4
-4,Ajumako Enyan Essiam,Ajumako,GOG-UNICEF,Omanso,150,13,11,11,NA
-5,Ajumako Enyan Essiam,Bisease,GOG-UNICEF,Esupafie,65,5,5,5,NA
-6,Ajumako Enyan Essiam,Etsi Sonkwa,GOG-UNICEF,Eboakrua,77,3,3,3,NA
-7,Asikuma Odoben Brakwa,Odoben,GOG-UNICEF,Kramokwaa,31,6,5,0,3
-8,Asikuma Odoben Brakwa,Jamra,GOG-UNICEF,Ahenkrom,26,5,5,0,NA
-9,Asikuma Odoben Brakwa,Jamera,GOG-UNICEF,New Proprokyer,82,14,17,0,NA
-10,Assin South,Nyankumase,GOG-UNICEF,Afaw,89,20,22,20,2
-11,Assin South,Nyankumase Ahenkro,GOG-UNICEF,Saaman,85,22,18,10,NA
-12,Gomoa East,Afransi,GOG-UNICEF,Dadsonkwaa,27,6,6,NA,4
-13,Gomoa East,Afransi,GOG-UNICEF,Mmofrafaadwen,36,5,4,4,NA
-14,Gomoa East,Dominase,GOG-UNICEF,Mafikope,32,4,4,4,NA
-15,Gomoa East,Dominase,GOG-UNICEF,Bokor,44,8,8,8,NA
-1,Adaklu,WAYA,GOG-UNICEF,Akpakope,73,15,12,13,5
-2,Adaklu,WAYA,GOG-UNICEF,Koklonyikope,23,4,3,4,NA
-3,Adaklu,WAYA,GOG-UNICEF,Agortoe,9,1,1,1,NA
-4,Adaklu,WAYA,GOG-UNICEF,Akakpokope,73,10,8,8,NA
-5,Adaklu,TSREFE,GOG-UNICEF,Wuve,12,2,2,2,NA
-6,Akatsi North,Ave-Dakpa,GOG-UNICEF,Ave Nyive,32,8,7,7,7
-7,Akatsi North,Avevi,GOG-UNICEF,Vorsakofe,81,14,14,14,NA
-8,Akatsi North,Ave-Dakpa,GOG-UNICEF,Agbokope,17,3,3,3,NA
-9,Akatsi North,Ashiagborvi,GOG-UNICEF,Akolikope,75,10,10,10,NA
-10,Akatsi North,Ave-Dakpa,GOG-UNICEF,Aglagokope,8,2,2,2,NA
-11,Akatsi North,,GOG-UNICEF,Agbogbokofe,36,5,5,5,NA
-12,Akatsi North,Ave-Dakpa,GOG-UNICEF,Ashikortor,21,4,4,4,NA
-13,Akatsi South,Gafia,GOG-UNICEF,Asafotsi Dzogbekope,120,22,21,18,6
-14,Akatsi South,Gafia,GOG-UNICEF,Asafotsi Amenorpekope,96,18,16,16,NA
-15,Akatsi South,Agbedrafor,GOG-UNICEF,Live- Kpoyiadzi,68,15,16,15,NA
-16,Akatsi South,Agbedrafor,GOG-UNICEF,Live Dzivorkope,63,15,13,13,NA
-17,Akatsi South,Avenorpeme,GOG-UNICEF,Badikope,66,17,16,16,NA
-18,Akatsi South,Wute,GOG-UNICEF,Dodzikope,44,6,6,6,NA
-19,Biakoye,NKONYA,GOG-UNICEF,Messiah Healing Community,87,12,13,13,17
-20,Biakoye,NKONYA,GOG-UNICEF,Odormitor No.1,101,23,23,23,NA
-21,Biakoye,NKONYA,GOG-UNICEF,Korfikope,56,8,17,14,NA
-22,Biakoye,NKONYA,GOG-UNICEF,Avenorkope,42,8,9,7,NA
-23,Biakoye,TAPA,GOG-UNICEF,Bompaso,12,2,2,2,NA
-24,Biakoye,TAPA,GOG-UNICEF,Basarikura No.I,24,3,3,3,NA
-25,Biakoye,TAPA,GOG-UNICEF,Basarikura No.2,21,2,2,2,NA
-41,Biakoye,Dutasor,GOG-UNICEF,Matse Lowcost,120,12,13,11,NA
-42,Ho West,Yingor,GOG-UNICEF,Dodome Teleafenu,610,84,80,84,10
-43,Ho West,Yingor,GOG-UNICEF,Amedikukofe,10,3,3,3,NA
-44,Ho West,Anyirawase,GOG-UNICEF,Sekekofe,90,10,10,10,NA
-45,Ho West,Anyirawase,GOG-UNICEF,Abalakpe,24,3,3,3,NA
-46,Ho West,Weto-Xedzefe,GOG-UNICEF,Anfoeta Habitat,53,20,20,20,NA
-47,Ho West,Weto-Xedzefe,GOG-UNICEF,Kpale Xorse,572,112,67,90,NA
-48,Ho West,Yingor,GOG-UNICEF,Agudavikope,25,4,4,4,NA
-49,Ho West,Holuta/Aflakpe,GOG-UNICEF,Asifiafe,106,17,14,5,NA
-50,Ho West,Tsito,GOG-UNICEF,Agbawukorfe,38,10,9,8,NA
-51,Ho West,Yingor,GOG-UNICEF,Gbedekope,17,4,5,5,NA
-52,Hohoe,Hohoe,GOG-UNICEF,Dzenana,122,14,16,14,13
-53,Hohoe,Agumatsa,GOG-UNICEF,Fodome Ando # 1,72,12,13,8,NA
-54,Hohoe,Agumatsa,GOG-UNICEF,Fodome Biletorle,13,1,2,2,NA
-55,Hohoe,Agumatsa,GOG-UNICEF,Fodome Lormnava,28,6,7,7,NA
-56,Hohoe,Sanko/Akpafu,GOG-UNICEF,Akpafu Sokpo,150,28,23,23,NA
-57,Hohoe,Agumatsa,GOG-UNICEF,Alufakorfe,10,2,2,2,NA
-58,Hohoe,Agumatsa,GOG-UNICEF,Torgbadza,29,8,8,9,NA
-59,Hohoe,Agumatsa,GOG-UNICEF,Dorgbefukorfe,16,2,2,2,NA
-60,Hohoe,Hohoe,GOG-UNICEF,Gbi Torlenu,20,4,4,5,NA
-61,Hohoe,Hohoe,GOG-UNICEF,Tonglo,34,6,6,8,NA
-62,Hohoe,Likpe,GOG-UNICEF,Agbodzikorfe,17,2,2,2,NA
-63,Hohoe,Likpe,GOG-UNICEF,Ahedorkorfe,23,5,4,4,NA
-64,Hohoe,Agumatsa,GOG-UNICEF,Atikorpe,32,5,4,5,NA
-65,Keta,Anyanui/ Shime,GOG-UNICEF,Gblipe,102,18,15,18,15
-66,Keta,Atiavi,GOG-UNICEF,Agboletekope,15,3,3,3,NA
-67,Keta,Atiavi,GOG-UNICEF,Gallekope,15,3,3,3,NA
-68,Keta,Keta,GOG-UNICEF,Vodza Newtown,238,57,49,49,NA
-84,Keta,Penyi,GOG-UNICEF,Amaglokope,66,13,11,11,NA
-85,Keta,Penyi,GOG-UNICEF,Zukpe- Dawubokope,87,16,14,14,NA
-86,Keta,Weta,GOG-UNICEF,Akpadzrakofe,26,5,5,4,NA
-87,Keta,Afife,GOG-UNICEF,Abotsikope,19,4,4,4,NA
-88,Keta,Dzodze,GOG-UNICEF,Volu-Gavorkope,45,5,5,0,NA
-89,Keta,Penyi,GOG-UNICEF,Zukpe-Senagbekope,25,5,4,4,NA
-90,Keta,Penyi,GOG-UNICEF,Zukpe-Kortokope,24,4,4,4,NA
-91,Keta,Dzodze,GOG-UNICEF,Dzikusedekope,30,5,5,5,NA
-92,Keta,Weta,GOG-UNICEF,Tugeykope,34,5,4,5,NA
-93,Kpando Muni,nicipalGBEFI,GOG-UNICEF,Gbortsua Kope,14,4,4,4,19
-94,Kpando Muni,KPANDO,GOG-UNICEF,Adope,300,38,32,28,NA
-95,Kpando Muni,KPANDO,GOG-UNICEF,Fulanikope,71,8,7,8,NA
-96,Kpando Muni,KPANDO,GOG-UNICEF,Hevikope,24,5,5,5,NA
-97,Kpando Muni,KPANDO,GOG-UNICEF,Gborpe,200,26,23,12,NA
-98,Kpando Muni,KPANDO,GOG-UNICEF,Ganyakope,22,6,6,6,NA
-99,Kpando Muni,SOVIE,GOG-UNICEF,Dzawulame,151,39,38,29,NA
-100,Kpando Muni,SOVIE,GOG-UNICEF,Kudzra Ando,116,15,15,12,NA
-101,Kpando Muni,GBEFI,GOG-UNICEF,Dorm Kope,13,3,3,2,NA
-102,Kpando Muni,GBEFI,GOG-UNICEF,Melevevio,164,5,2,5,NA
-103,Kpando Muni,KPANDO,GOG-UNICEF,Gadza,1861,38,30,20,NA
-104,Kpando Muni,KPANDO,GOG-UNICEF,Debidebi,354,15,10,4,NA
-105,Kpando Muni,KPANDO,GOG-UNICEF,Avega,123,13,9,2,NA
-106,Kpando Muni,SOVIE,GOG-UNICEF,Avagakope,24,4,3,3,NA
-107,Kpando Muni,SOVIE,GOG-UNICEF,Korkodzi,160,3,4,1,NA
-108,Kpando Muni,SOVIE,GOG-UNICEF,Sikakrom,96,10,10,10,NA
-109,Kpando Muni,KPANDO,GOG-UNICEF,Torkor Gasikakope,21,5,5,5,NA
-110,Kpando Muni,SOVIE,GOG-UNICEF,Atsame,138,23,18,18,NA
-111,Kpando Muni,KPANDO,GOG-UNICEF,Sedzrokope,78,13,11,11,NA
-128,Kpando Muni,Asato,GOG-UNICEF,Ketepi,165,25,20,16,NA
-129,Kpando Muni,Asato,GOG-UNICEF,Wawaso,468,54,47,50,NA
-130,Kpando Muni,Dodi,GOG-UNICEF,Soviekodzi,112,15,14,14,NA
-131,Kpando Muni,Dodi,GOG-UNICEF,Asuboe,336,48,38,38,NA
-132,Kpando Muni,Dodi,GOG-UNICEF,Aboabo,102,14,12,12,NA
-133,Kpando Muni,Dodo,GOG-UNICEF,Kokotikope,48,9,8,6,NA
-134,Kpando Muni,Dodo,GOG-UNICEF,Pepesu Zongo,98,21,23,21,NA
-135,Kpando Muni,Kadjebi,GOG-UNICEF,Agbokodzi,272,57,38,46,NA
-136,Kpando Muni,Kadjebi,GOG-UNICEF,Breketekope,65,14,12,14,NA
-137,Kpando Muni,Ahamansu,GOG-UNICEF,Kpandokope,120,17,14,14,NA
-138,Kpando Muni,Asato,GOG-UNICEF,Kosamba,115,22,19,18,NA
-139,Kpando Muni,Asato,GOG-UNICEF,Kordibenum Nyarko,565,32,25,25,NA
-140,Kpando Muni,Dodi,GOG-UNICEF,Asowoe,48,7,6,6,NA
-141,Kpando Muni,Dodi,GOG-UNICEF,Dodi Papase Junction,130,18,15,15,NA
-142,Kpando Muni,Dodo,GOG-UNICEF,Borlorkope,32,11,9,5,NA
-143,Kpando Muni,Kadjebi,GOG-UNICEF,Konsu,73,6,5,5,NA
-144,Kpando Muni,Kadjebi,GOG-UNICEF,Dunyokope,154,23,18,18,NA
-145,Kpando Muni,Kadjebi,GOG-UNICEF,Gideonkope,66,16,13,5,NA
-146,Kpando Muni,Ahamansu,GOG-UNICEF,Mangoase,74,10,9,8,NA
-147,Kpando Muni,Asato,GOG-UNICEF,Adaklukope,68,11,10,10,NA
-148,Kpando Muni,Dodi,GOG-UNICEF,Kpomkpa,173,33,29,28,NA
-149,Kpando Muni,Dodo,GOG-UNICEF,Dompa Sekor,115,23,20,19,NA
-150,Kpando Muni,Ahamansu,GOG-UNICEF,Tsikata,600,NA,7,7,NA
-151,Kpando Muni,Ahamansu,GOG-UNICEF,Haleluyakope,100,25,3,3,NA
-152,Kpando Muni,Ahamansu,GOG-UNICEF,Kpalime,250,63,14,12,NA
-153,Kpando Muni,Ahamansu,GOG-UNICEF,Anani,120,30,7,8,NA
-154,Kpando Muni,Ahamansu,GOG-UNICEF,Naley,150,NA,8,8,NA
-155,Kpando Muni,Ahamansu,GOG-UNICEF,Borhor Junction,96,24,5,5,NA
-174,Kpando Muni,Dodi,GOG-UNICEF,Atakofi Newtown,98,12,10,10,NA
-175,Ketu South,Aflao Wego,GOG-UNICEF,Kpanokope,78,14,14,12,3
-176,Ketu South,Aflao Wego,GOG-UNICEF,Seyemekope,74,23,23,20,NA
-177,Ketu South,Somey Wego,GOG-UNICEF,Govinakope (Benkofe),102,17,14,14,NA
-178,South Dayi,Kpalime Tongor,GOG-UNICEF,Glah Fredkorpe,17,4,4,4,6
-179,South Dayi,Kpalime Tongor,GOG-UNICEF,Dziwornu Korpe,8,1,1,1,NA
-180,South Dayi,Kpalime Tongor,GOG-UNICEF,Bedzokorpe/Soevi Ayivi Korpe,29,7,7,7,NA
-181,South Dayi,Kpalime Tongor,GOG-UNICEF,Headmankorpe,16,3,3,3,NA
-182,South Dayi,Kpalime Tongor,GOG-UNICEF,Wugbadzi No 1,86,16,16,14,NA
-183,South Dayi,Peki Town Council,GOG-UNICEF,Anyensu Peki,NA,NA,6,6,NA
-1,Bawku,Kuka Zabugu,GOG-UNICEF,Narang,197,20,20,29,15
-2,Bawku,Kuka Zabugu,GOG-UNICEF,Zeeri,143,18,18,18,NA
-3,Bawku,Kuka,GOG-UNICEF,Terago,316,41,41,15,NA
-4,Bawku,Zabugu,GOG-UNICEF,Anamda-Borin,149,22,22,22,NA
-5,Bawku,Zabugu,GOG-UNICEF,Lamkok,214,30,30,30,NA
-6,Bawku,Zabugu,GOG-UNICEF,Lamnatinga,220,28,28,28,NA
-7,Bawku,Zabugu,GOG-UNICEF,Nadbuda,335,40,40,39,NA
-8,Bawku,Zabugu,GOG-UNICEF,Yakut- Natinga,235,32,0,30,NA
-9,Bawku,Mognori Area Council,GOG-UNICEF,Baribari,NA,57,55,55,NA
-10,Bawku,Mognori Area Council,GOG-UNICEF,Gumakutare,NA,67,67,67,NA
-11,Bawku,Kuka Zabugu,GOG-UNICEF,Yumboko Area Council,208,39,38,38,NA
-12,Bawku,Kuka Zabugu,GOG-UNICEF,Yomboko Nating,480,NA,NA,NA,NA
-13,Bawku,Zorsi,GOG-UNICEF,Widan-Nating (Binduri),386,NA,NA,NA,NA
-14,Bawku,Kuka,GOG-UNICEF,Seegol,205,29,0,NA,NA
-15,Bawku,Yomboko,GOG-UNICEF,Yomboko Area Council,208,39,0,1,NA
-16,Bawku West,Sapeliga,GOG-UNICEF,Galaka,153,15,15,15,6
-17,Bawku West,Sapeliga,GOG-UNICEF,Salpiiga,500,42,47,47,NA
-18,Bawku West,Sapeliga,GOG-UNICEF,Googo,470,41,41,41,NA
-19,Bawku West,Tilli Widnada,GOG-UNICEF,Tilli (Azupupunga),490,26,22,25,NA
-20,Bawku West,Sapeliga,GOG-UNICEF,Yapala,128,18,18,18,NA
-21,Bawku West,Sapeliga,GOG-UNICEF,Samboliga,326,18,17,18,NA
-22,Binduri,Bazua,GOG-UNICEF,Aporinzua,460,41,41,41,29
-23,Binduri,Bazua,GOG-UNICEF,Koloko Gumbo,387,32,32,32,NA
-24,Binduri,Bazua,GOG-UNICEF,Kuloko Tengri,644,82,82,82,NA
-25,Binduri,Bazua,GOG-UNICEF,Koloko/Aweego,577,63,62,63,NA
-26,Binduri,Bazua,GOG-UNICEF,Widan-Bugri,349,52,52,52,NA
-27,Binduri,Bazua,GOG-UNICEF,Yalugu/Mognori,876,70,70,70,NA
-28,Binduri,Bazua,GOG-UNICEF,Zaago Bissa,457,19,19,19,NA
-29,Binduri,Binduri,GOG-UNICEF,Azum-sapeliga Lower,451,43,43,43,NA
-30,Binduri,Binduri,GOG-UNICEF,Bulugu,324,42,42,42,NA
-31,Binduri,Binduri,GOG-UNICEF,Ninsako,501,103,103,103,NA
-32,Binduri,Binduri,GOG-UNICEF,Poyamire,519,56,56,56,NA
-33,Binduri,Kaadi,GOG-UNICEF,Kulavai,380,100,100,100,NA
-34,Binduri,Kaadi,GOG-UNICEF,Tambiigu 2,998,185,185,185,NA
-35,Binduri,Kaadi,GOG-UNICEF,Tansia-Zeego,665,44,44,44,NA
-36,Binduri,Kaadi,GOG-UNICEF,Avoasi,218,26,26,26,NA
-37,Binduri,Kaadi,GOG-UNICEF,Atuba Mognori,207,54,54,54,NA
-38,Binduri,Kaadi,GOG-UNICEF,Agoldbod,220,27,27,27,NA
-39,Binduri,Kaadi,GOG-UNICEF,Tetauku-Tempeln,656,130,130,130,NA
-40,Binduri,Bazua,GOG-UNICEF,Badaboga-Tengbeogo,400,67,67,67,NA
-41,Binduri,Zawse/Bansi,GOG-UNICEF,Yalungugu Asikuni,381,23,23,23,NA
-42,Binduri,Kaadi,GOG-UNICEF,Nafkoliga,796,109,109,109,NA
-43,Binduri,Kaadi,GOG-UNICEF,Sakpari,1660,102,102,102,NA
-44,Binduri,Kaadi,GOG-UNICEF,Zuatempelug,450,48,48,48,NA
-45,Binduri,Kaadi,GOG-UNICEF,Zamballa,335,68,68,68,NA
-46,Binduri,Bazua,GOG-UNICEF,Kolog - Arabok,203,10,10,10,NA
-47,Binduri,Binduri,GOG-UNICEF,Azum-sapeliga Upper,945,183,183,183,NA
-48,Binduri,Binduri,GOG-UNICEF,Barabogo,400,134,134,134,NA
-49,Binduri,,GOG-UNICEF,Asaliga-Zaago,NA,NA,NA,NA,NA
-50,Binduri,,GOG-UNICEF,Wiespego,NA,NA,NA,NA,NA
-51,Bongo,Soe,GOG-UNICEF,Ayugte,150,34,34,34,13
-52,Bongo,Beo,GOG-UNICEF,Dunfoli - Yikeni,140,15,15,15,NA
-53,Bongo,Bongo,GOG-UNICEF,Zemasa,170,19,19,19,NA
-54,Bongo,Namoo,GOG-UNICEF,Abungu,163,36,36,36,NA
-55,Bongo,Namoo,GOG-UNICEF,Akinkalga-Doone,211,24,7,0,NA
-56,Bongo,Zorko,GOG-UNICEF,Ayuabisi,87,24,24,24,NA
-57,Bongo,Zorko,GOG-UNICEF,Azangabisi,234,NA,4,NA,NA
-58,Bongo,Beo,GOG-UNICEF,Akutabongo Central,150,20,20,20,NA
-59,Bongo,Soe,GOG-UNICEF,Aniakunkua,184,24,24,24,NA
-60,Bongo,Balungu,GOG-UNICEF,Apumbem,295,23,23,23,NA
-61,Bongo,Zorko,GOG-UNICEF,Tarongo Kunkua,171,32,18,32,NA
-62,Bongo,,GOG-UNICEF,Akanserlinga C,215,20,20,20,NA
-63,Bongo,,GOG-UNICEF,Akanserlinga A,234,17,17,17,NA
-64,Builsa North,Chuchuliga,GOG-UNICEF,Akpari-yeri,171,44,44,44,13
-65,Builsa North,Sandema,GOG-UNICEF,Deborinsa,321,27,27,27,NA
-66,Builsa North,Sandema,GOG-UNICEF,Asanabiisi,104,20,19,18,NA
-67,Builsa North,Sandema,GOG-UNICEF,Sanwaasa,391,26,26,23,NA
-68,Builsa North,Siniensa,GOG-UNICEF,Dawarinsa,214,19,19,19,NA
-69,Builsa North,Siniensa,GOG-UNICEF,Yangsa,248,21,21,19,NA
-70,Builsa North,Siniensa,GOG-UNICEF,Zundema,888,115,115,115,NA
-71,Builsa North,Siniensi,GOG-UNICEF,Anarisa-yeri,123,11,11,11,NA
-72,Builsa North,Siniensi,GOG-UNICEF,Nankrisa,121,17,17,17,NA
-73,Builsa North,Siniensi,GOG-UNICEF,Abiisa-yeri,385,25,25,23,NA
-74,Builsa North,Siniesi,GOG-UNICEF,Naasa,274,NA,NA,NA,NA
-75,Builsa North,Siniensa,GOG-UNICEF,Ninvinsa,142,20,20,20,NA
-76,Builsa North,Sandema,GOG-UNICEF,Banimonsa,124,17,17,17,NA
-77,Builsa South,Chensa / Zamsa,GOG-UNICEF,Champolinsa,156,13,20,18,11
-78,Builsa South,Chensa / Zamsa,GOG-UNICEF,Pindema,260,12,11,0,NA
-79,Builsa South,Kanjarga.,GOG-UNICEF,Farinsa,335,45,45,17,NA
-80,Builsa South,Doninga / Bachonsa,GOG-UNICEF,Naverensa,494,39,39,19,NA
-81,Builsa South,Kanjarga,GOG-UNICEF,Kalaasa,328,22,22,0,NA
-82,Builsa South,Fumbisi,GOG-UNICEF,Luisa,449,27,24,0,NA
-83,Builsa South,Kanjarga,GOG-UNICEF,Musidema 2,187,25,28,0,NA
-84,Builsa South,Kanjarga,GOG-UNICEF,Sikabsa,99,14,14,14,NA
-85,Builsa South,Chensa/Zamsa,GOG-UNICEF,Kambangsa,332,27,29,29,NA
-86,Builsa South,Doninga / Bachonsa,GOG-UNICEF,Nyambisa,196,25,28,28,NA
-87,Builsa South,Fumbisi,GOG-UNICEF,Naadem Yipala,462,11,12,12,NA
-88,Kassena Nankana,Kandiga,GOG-UNICEF,Aduradoone,136,13,11,11,40
-89,Kassena Nankana,Kandiga,GOG-UNICEF,Alaskadoone,138,8,9,9,NA
-90,Kassena Nankana,Kandiga,GOG-UNICEF,Dapoori No.1,483,47,44,44,NA
-91,Kassena Nankana,Kandiga,GOG-UNICEF,Dapoori No. 2,146,36,36,36,NA
-92,Kassena Nankana,Kandiga,GOG-UNICEF,Doctor-Nurom,138,26,26,26,NA
-93,Kassena Nankana,Kandiga,GOG-UNICEF,Guuson,211,18,18,18,NA
-94,Kassena Nankana,Kandiga,GOG-UNICEF,Pogteengo,153,22,22,22,NA
-95,Kassena Nankana,Chiana,GOG-UNICEF,Apera-Bia,236,17,17,16,NA
-96,Kassena Nankana,Chiana,GOG-UNICEF,Alonia,170,13,13,13,NA
-97,Kassena Nankana,Chiana,GOG-UNICEF,Ayanabia Gugoro,153,9,9,9,NA
-98,Kassena Nankana,Katiu,GOG-UNICEF,Bayao,583,57,57,57,NA
-99,Kassena Nankana,Katiu,GOG-UNICEF,Saboro,478,37,37,37,NA
-100,Kassena Nankana,Katiu,GOG-UNICEF,Tampusongo,258,26,26,26,NA
-101,Kassena Nankana,Wurunia Yidania,GOG-UNICEF,Kajenwala,112,7,7,7,NA
-102,Kassena Nankana,Wurunia Yidania,GOG-UNICEF,Sazona,398,32,32,32,NA
-103,Kassena Nankana,Sirigu,GOG-UNICEF,Amutanga,716,18,18,18,NA
-104,Kassena Nankana,Buru/Nakol/Navor,GOG-UNICEF,Kasile,330,37,36,36,NA
-105,Kassena Nankana,Buru/Nakol/Navor,GOG-UNICEF,Nakolo Kampwolo,350,26,26,26,NA
-106,Kassena Nankana,Chaina,GOG-UNICEF,Asunia,245,NA,7,NA,NA
-107,Kassena Nankana,Sirigu,GOG-UNICEF,Dazongo Aturadoone A,380,20,20,20,NA
-108,Kassena Nankana,Chiana,GOG-UNICEF,Soganania,314,17,17,17,NA
-109,Kassena Nankana,Kandiga,GOG-UNICEF,Alabredoone,36,6,6,6,NA
-110,Kassena Nankana,Kandiga,GOG-UNICEF,LongoTindoogo,608,50,50,50,NA
-111,Kassena Nankana,Kandiga,GOG-UNICEF,Kumogladoone,382,46,46,46,NA
-112,Kassena Nankana,Kandiga,GOG-UNICEF,Anisoore,536,67,67,67,NA
-113,Kassena Nankana,Kandiga,GOG-UNICEF,Ayuuribisi,340,24,24,24,NA
-114,Kassena Nankana,Kandiga,GOG-UNICEF,Aworbokam,189,44,44,44,NA
-115,Kassena Nankana,Kandiga,GOG-UNICEF,Atibabiisi-Mogchaka,432,45,45,45,NA
-116,Kassena Nankana,Mirugu,GOG-UNICEF,Atangadoone,194,19,19,19,NA
-117,Kassena Nankana,,GOG-UNICEF,Adasongo,265,14,14,14,NA
-118,Kassena Nankana,,GOG-UNICEF,Nakolo Kasile,402,44,44,44,NA
-119,Kassena Nankana,,GOG-UNICEF,Zunko,460,17,17,16,NA
-120,Kassena Nankana,,GOG-UNICEF,Anyanabia,153,9,9,9,NA
-121,Kassena Nankana,Kandiga,GOG-UNICEF,Fulungu,250,9,9,17,NA
-122,Kassena Nankana,Kandiga,GOG-UNICEF,Lenzongu,225,25,25,23,NA
-123,Kassena Nankana,Kandiga,GOG-UNICEF,Atosale,954,48,48,48,NA
-124,Kassena Nankana,Yidania,GOG-UNICEF,Yidania Kinkania,695,35,35,34,NA
-125,Kassena Nankana,,GOG-UNICEF,Kadognia,NA,NA,NA,NA,NA
-126,Kassena Nankana,,GOG-UNICEF,Atia-Kadania,NA,NA,NA,NA,NA
-127,Kassena Nankana,,GOG-UNICEF,Agoliyadoone,NA,NA,NA,NA,NA
-128,Pusiga,Nakom/Zuobuliga,GOG-UNICEF,Dabia Lalsaa,150,23,23,23,12
-129,Pusiga,Nakom/Zuobuliga,GOG-UNICEF,Dabia Zullugu,250,16,16,16,NA
-130,Pusiga,Nakom/Zuobuliga,GOG-UNICEF,Naranin,310,15,15,15,NA
-131,Pusiga,Nakom/Zuobuliga,GOG-UNICEF,Yaranatinga,116,13,13,13,NA
-132,Pusiga,Pusiga,GOG-UNICEF,Madgu,811,186,15,45,NA
-133,Pusiga,Sugudi/Zong-Natiga,GOG-UNICEF,Moshin,175,23,23,23,NA
-134,Pusiga,Sugudi/Zong-Natiga,GOG-UNICEF,Poanaba,950,125,125,125,NA
-135,Pusiga,Widana,GOG-UNICEF,Yariga 2,709,42,42,42,NA
-136,Pusiga,Zong - Natinga,GOG-UNICEF,Sugudi-Simi Natinga,841,46,46,46,NA
-137,Pusiga,Kulungugu,GOG-UNICEF,Kultamise Nware,1007,89,19,NA,NA
-138,Pusiga,Kulungugu,GOG-UNICEF,Sangabuli,519,45,45,45,NA
-139,Pusiga,Zong - Natinga,GOG-UNICEF,Tambiogo,328,37,37,37,NA
-140,Garu Tempane,Kpikpira,GOG-UNICEF,Nambina 2,395,NA,NA,NA,51
-141,Garu Tempane,Worikambo,GOG-UNICEF,Kugraogo,385,NA,NA,NA,NA
-142,Garu Tempane,Kpikpira,GOG-UNICEF,Gotulsi,219,NA,NA,NA,NA
-143,Garu Tempane,Denugu,GOG-UNICEF,Ankadiri,197,32,32,0,NA
-144,Garu Tempane,Worikambo,GOG-UNICEF,Bantafarugu,290,30,18,0,NA
-145,Garu Tempane,Denugu,GOG-UNICEF,Beantis,193,24,23,0,NA
-146,Garu Tempane,Denugu,GOG-UNICEF,Bugrikwan/Yapala,232,39,15,0,NA
-147,Garu Tempane,Denugu,GOG-UNICEF,Jabdawur,53,6,6,0,NA
-148,Garu Tempane,Denugu,GOG-UNICEF,Jankwan,279,37,37,0,NA
-149,Garu Tempane,Denugu,GOG-UNICEF,Kabakwan,679,47,9,0,NA
-150,Garu Tempane,Denugu,GOG-UNICEF,Kanbongankwan,502,36,9,0,NA
-151,Garu Tempane,Denugu,GOG-UNICEF,Kukbulig,285,22,22,10,NA
-152,Garu Tempane,Worikambo,GOG-UNICEF,Sunakwan,324,32,12,0,NA
-153,Garu Tempane,Denugu,GOG-UNICEF,Tondankwan,423,36,36,0,NA
-154,Garu Tempane,Denugu,GOG-UNICEF,Tubong,569,62,62,36,NA
-155,Garu Tempane,Kugri,GOG-UNICEF,Atamodabod,253,57,4,0,NA
-156,Garu Tempane,Kugri,GOG-UNICEF,Atampuudabod,206,21,21,21,NA
-157,Garu Tempane,Kugri,GOG-UNICEF,Gbangranteng,223,20,20,20,NA
-158,Garu Tempane,Kugri,GOG-UNICEF,Getuasig,547,68,68,68,NA
-159,Garu Tempane,Kugri,GOG-UNICEF,Kpatua 1,279,26,26,26,NA
-160,Garu Tempane,Kugri,GOG-UNICEF,Malgaboug,215,42,42,42,NA
-161,Garu Tempane,Kugri,GOG-UNICEF,Nate,220,49,49,49,NA
-162,Garu Tempane,Kugri,GOG-UNICEF,Sinyua,299,40,40,40,NA
-163,Garu Tempane,Denugu,GOG-UNICEF,Siisi-Nadigri,405,60,60,60,NA
-164,Garu Tempane,Kugri,GOG-UNICEF,Tankpasi,993,72,72,72,NA
-165,Garu Tempane,Denugu,GOG-UNICEF,Siisi,531,60,60,60,NA
-166,Garu Tempane,Kugri,GOG-UNICEF,Waskukwa,270,54,54,54,NA
-167,Garu Tempane,Worikambo,GOG-UNICEF,Namore,374,NA,NA,NA,NA
-168,Garu Tempane,Worikambo,GOG-UNICEF,Zaazua,313,NA,NA,NA,NA
-169,Garu Tempane,Gagbiri,GOG-UNICEF,Kugaseigu,430,47,46,47,NA
-170,Garu Tempane,,GOG-UNICEF,Kariyata,NA,NA,NA,NA,NA
-171,Garu Tempane,Kugri,GOG-UNICEF,Pilogo-Malanten,300,34,34,34,NA
-172,Garu Tempane,,GOG-UNICEF,Tubong,569,62,62,62,NA
-173,Garu Tempane,,GOG-UNICEF,Siisi-Nadigri,405,60,60,60,NA
-174,Garu Tempane,,GOG-UNICEF,Gbangranteng,223,20,20,20,NA
-175,Garu Tempane,,GOG-UNICEF,Ankadiri,197,32,32,32,NA
-176,Garu Tempane,,GOG-UNICEF,Siisi,531,60,60,60,NA
-177,Garu Tempane,,GOG-UNICEF,Jankwan,279,37,37,37,NA
-178,Garu Tempane,Bugri,GOG-UNICEF,Sakpanateng,290,NA,NA,NA,NA
-179,Garu Tempane,Bugri,GOG-UNICEF,Zumandiga No.1,237,NA,NA,NA,NA
-180,Garu Tempane,Kugri,GOG-UNICEF,Gbetusig,547,NA,NA,NA,NA
-181,Garu Tempane,Kugri,GOG-UNICEF,Melgabod,215,NA,NA,NA,NA
-182,Garu Tempane,Kugri,GOG-UNICEF,Vambara,284,NA,NA,NA,NA
-183,Garu Tempane,Kugri,GOG-UNICEF,Ngmaadug,567,NA,NA,NA,NA
-184,Garu Tempane,,GOG-UNICEF,Zumadiga A,NA,NA,NA,NA,NA
-185,Garu Tempane,Denugu,GOG-UNICEF,Laarikwan,330,NA,NA,NA,NA
-186,Garu Tempane,Kpikpira,GOG-UNICEF,Tambona No. 1,324,25,23,NA,NA
-187,Garu Tempane,Kpikpira,GOG-UNICEF,Sukrokoun,125,14,14,NA,NA
-188,Garu Tempane,Bugri,GOG-UNICEF,Kukose,118,12,10,NA,NA
-189,Garu Tempane,Kugri,GOG-UNICEF,Tankpasi-Busanteng,231,12,11,NA,NA
-190,Garu Tempane,Garu,GOG-UNICEF,Benguri No.1,125,10,8,NA,NA
-1,Daffiama Bussie Iss,Issa,GOG-UNICEF,Vietor,110,9,8,8,37
-2,Daffiama Bussie Iss,Issa,GOG-UNICEF,Sazie,669,68,62,62,NA
-3,Daffiama Bussie Iss,Issa,GOG-UNICEF,Samanbo,589,38,34,38,NA
-4,Daffiama Bussie Iss,Issa,GOG-UNICEF,Bulbaa,203,31,30,30,NA
-5,Daffiama Bussie Iss,Issa,GOG-UNICEF,Suluguo,213,32,32,30,NA
-6,Daffiama Bussie Iss,Daffiama,GOG-UNICEF,Dakyenaayiri,162,16,16,15,NA
-7,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Nyori,408,21,20,20,NA
-8,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Pulbaah,528,51,46,45,NA
-9,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Kandayiri,29,10,9,9,NA
-10,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Salee,522,110,46,44,NA
-11,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Kamahegu,597,39,39,39,NA
-12,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Buoyiri,479,52,44,50,NA
-13,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Chebaa,278,41,38,41,NA
-14,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Dagubaa,218,58,41,53,NA
-15,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Moyiri,149,14,12,14,NA
-16,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Tangazu,60,22,17,22,NA
-17,Daffiama Bussie Iss,Daffiama,GOG-UNICEF,Balirgbee,151,20,19,18,NA
-18,Daffiama Bussie Iss,Daffiama,GOG-UNICEF,Dakpaa,539,73,38,38,NA
-19,Daffiama Bussie Iss,Daffiama,GOG-UNICEF,Kanni,268,30,30,30,NA
-20,Daffiama Bussie Iss,Daffiama,GOG-UNICEF,Toyenpari,158,16,16,13,NA
-21,Daffiama Bussie Iss,Daffiama,GOG-UNICEF,Worbare,312,33,31,30,NA
-22,Daffiama Bussie Iss,Issa,GOG-UNICEF,Jempensi,427,22,21,0,NA
-23,Daffiama Bussie Iss,Issa,GOG-UNICEF,Jempensi,138,16,16,20,NA
-24,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Jempensi,602,42,42,0,NA
-25,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Jempensi,97,11,10,0,NA
-26,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Jempensi,104,13,12,0,NA
-27,Daffiama Bussie Iss,DAFFIAMA,GOG-UNICEF,DAKYIE,175,21,21,32,NA
-28,Daffiama Bussie Iss,DAFFIAMA,GOG-UNICEF,WUCHE,82,10,10,10,NA
-29,Daffiama Bussie Iss,DAFFIAMA,GOG-UNICEF,TUOLADENGYIRI,71,8,8,8,NA
-30,Daffiama Bussie Iss,BUSSIE,GOG-UNICEF,ZINGBERIDIRI,79,10,10,10,NA
-31,Daffiama Bussie Iss,ISSA,GOG-UNICEF,SABOGU,126,18,18,28,NA
-32,Daffiama Bussie Iss,ISSA,GOG-UNICEF,CHALLA,384,60,49,30,NA
-33,Daffiama Bussie Iss,ISSA,GOG-UNICEF,DAGONGA,96,12,12,12,NA
-34,Daffiama Bussie Iss,ISSA,GOG-UNICEF,KENKELE,364,28,28,52,NA
-35,Daffiama Bussie Iss,ISSA,GOG-UNICEF,BANOUYIRI,238,34,34,34,NA
-36,Daffiama Bussie Iss,,GOG-UNICEF,Tozie,35,7,7,14,NA
-37,Daffiama Bussie Iss,ISSA,GOG-UNICEF,Lambure,NA,40,39,39,NA
-38,Jirapa,Tuggo,GOG-UNICEF,Orifani,771,28,24,22,8
-39,Jirapa,Tuggo,GOG-UNICEF,Tuoluong,1596,87,48,30,NA
-40,Jirapa,Tizza,GOG-UNICEF,Naibong,338,26,24,5,NA
-41,Jirapa,Duori,GOG-UNICEF,Duori-Guri (Guri),128,17,15,6,NA
-42,Jirapa,Tuggo,GOG-UNICEF,Gbertuori,343,25,24,8,NA
-43,Jirapa,Sabuli,GOG-UNICEF,Balantaa,300,29,25,12,NA
-44,Jirapa,Hain,GOG-UNICEF,Puokangbo,131,16,12,10,NA
-45,Jirapa,Sabuli,GOG-UNICEF,Somboro,264,44,25,20,NA
-46,Lawra,Lawra,GOG-UNICEF,Bagri,1850,120,103,45,5
-47,Lawra,Lawra,GOG-UNICEF,Dikpe,344,91,78,18,NA
-48,Lawra,Lawra,GOG-UNICEF,Kalsegra,524,84,71,55,NA
-49,Lawra,Babile,GOG-UNICEF,Tanchera,253,43,35,22,NA
-50,Lawra,Babile,GOG-UNICEF,Birifoh-char,338,76,68,52,NA
-51,Nadowli Kaleo,Takpo,GOG-UNICEF,Zupiiri,382,33,9,10,34
-52,Nadowli Kaleo,Takpo,GOG-UNICEF,Siiru,243,31,29,26,NA
-53,Nadowli Kaleo,Charikpong,GOG-UNICEF,Baase,500,29,27,25,NA
-54,Nadowli Kaleo,Takpo,GOG-UNICEF,Gudouri,175,10,10,10,NA
-55,Nadowli Kaleo,Takpo,GOG-UNICEF,Meguo,452,15,15,11,NA
-56,Nadowli Kaleo,Takpo,GOG-UNICEF,Mantari,154,28,32,28,NA
-57,Nadowli Kaleo,Nadowli,GOG-UNICEF,Naribu,191,25,23,10,NA
-58,Nadowli Kaleo,Charikpong,GOG-UNICEF,Yaali,766,21,18,14,NA
-59,Nadowli Kaleo,Charikpong,GOG-UNICEF,Sabaala Yeruu,349,23,19,12,NA
-60,Nadowli Kaleo,Charikpong,GOG-UNICEF,Lutangu,104,20,16,10,NA
-61,Nadowli Kaleo,Charikpong,GOG-UNICEF,Biire,250,35,35,0,NA
-62,Nadowli Kaleo,Charikpong,GOG-UNICEF,Charisombo,993,55,55,70,NA
-63,Nadowli Kaleo,Charikpong,GOG-UNICEF,Dassiga,80,7,7,6,NA
-64,Nadowli Kaleo,Charikpong,GOG-UNICEF,Musama,189,11,11,9,NA
-65,Nadowli Kaleo,Kaleo,GOG-UNICEF,Paali,119,10,10,20,NA
-66,Nadowli Kaleo,Nadowli,GOG-UNICEF,Diboro,235,20,20,17,NA
-67,Nadowli Kaleo,Nadowli,GOG-UNICEF,Duuronpari,78,10,10,10,NA
-68,Nadowli Kaleo,Nadowli,GOG-UNICEF,Gbogyiri,178,9,10,9,NA
-69,Nadowli Kaleo,Nadowli,GOG-UNICEF,Gonpare,66,7,9,9,NA
-70,Nadowli Kaleo,Nadowli,GOG-UNICEF,Kpateriyiri,100,11,11,10,NA
-71,Nadowli Kaleo,Nadowli,GOG-UNICEF,Kpazie Muolo,345,27,27,27,NA
-72,Nadowli Kaleo,Nadowli,GOG-UNICEF,Kuntaali,550,46,46,46,NA
-73,Nadowli Kaleo,Nadowli,GOG-UNICEF,Mojan,185,21,21,15,NA
-74,Nadowli Kaleo,Nadowli,GOG-UNICEF,Sigidouri,72,9,10,10,NA
-75,Nadowli Kaleo,Nadowli,GOG-UNICEF,Toyaga,360,37,30,40,NA
-76,Nadowli Kaleo,Nadowli,GOG-UNICEF,Zongo,148,8,9,12,NA
-77,Nadowli Kaleo,Sombo,GOG-UNICEF,Guure,456,33,33,25,NA
-78,Nadowli Kaleo,Takpo,GOG-UNICEF,Botile,42,9,9,1,NA
-79,Nadowli Kaleo,Sombo,GOG-UNICEF,Donjan,98,14,14,15,NA
-80,Nadowli Kaleo,Bussie,GOG-UNICEF,Gbierung,328,32,31,20,NA
-81,Nadowli Kaleo,Nadowli,GOG-UNICEF,Kankanzie,92,13,13,10,NA
-82,Nadowli Kaleo,Charikpong,GOG-UNICEF,Baadabuo,495,26,26,32,NA
-83,Nadowli Kaleo,Nadowli,GOG-UNICEF,Piirung-Yiri,93,13,15,21,NA
-84,Nadowli Kaleo,Nadowli,GOG-UNICEF,Kpazie-Takpo,169,13,13,7,NA
-85,Nandom,Baseble,GOG-UNICEF,Venne,58,6,5,8,8
-86,Nandom,Baseble,GOG-UNICEF,Sonner,296,57,52,30,NA
-87,Nandom,Puffien,GOG-UNICEF,Guri,357,51,50,32,NA
-88,Nandom,Puffien,GOG-UNICEF,Tantuo,530,62,67,26,NA
-89,Nandom,Puffien,GOG-UNICEF,Ketuo,957,72,62,46,NA
-90,Nandom,Puffien,GOG-UNICEF,Dagbateng,654,56,69,38,NA
-91,Nandom,Nandom,GOG-UNICEF,Na-Imwine,238,19,18,18,NA
-92,Nandom,Nandom,GOG-UNICEF,Nabugagn,596,106,100,45,NA
-93,Sissala West,Fielmua,GOG-UNICEF,Chetu,485,84,32,32,19
-94,Sissala West,Fielmua,GOG-UNICEF,Foliteng,419,23,20,18,NA
-95,Sissala West,Gwollu,GOG-UNICEF,Kunni,113,12,20,15,NA
-96,Sissala West,Pulima,GOG-UNICEF,Kandia,668,46,23,20,NA
-97,Sissala West,Pulma,GOG-UNICEF,Limmiere,48,12,15,10,NA
-98,Sissala West,Zini,GOG-UNICEF,Du West,208,35,15,12,NA
-99,Sissala West,Zini,GOG-UNICEF,Sangbaga 1&2,386,26,28,26,NA
-100,Sissala West,Gwollu,GOG-UNICEF,Dajan,75,13,10,5,NA
-101,Sissala West,Gwollu,GOG-UNICEF,Gbal,720,26,30,15,NA
-102,Sissala West,Zini,GOG-UNICEF,Dakuma,729,78,12,12,NA
-103,Sissala West,Zini,GOG-UNICEF,Fatchu,1022,113,30,25,NA
-104,Sissala West,Zini,GOG-UNICEF,Hiel,504,32,23,20,NA
-105,Sissala West,Zini,GOG-UNICEF,Nyentie,660,99,33,30,NA
-106,Sissala West,Zini,GOG-UNICEF,Nyeviel,407,33,25,20,NA
-107,Sissala West,Gwollu,GOG-UNICEF,Kwala,720,78,28,20,NA
-108,Sissala West,Zini,GOG-UNICEF,Lulo,192,48,20,12,NA
-109,Sissala West,Fielmua,GOG-UNICEF,Mosiire,45,6,1,6,NA
-110,Sissala West,Zini,GOG-UNICEF,Lierom Buo,518,35,29,10,NA
-111,Sissala West,Zini,GOG-UNICEF,Pipelime,320,122,21,18,NA
-112,Wa East,Funsi,GOG-UNICEF,Yayonyiri,573,115,42,30,19
-113,Wa East,Bulenga,GOG-UNICEF,Sahe,213,48,15,12,NA
-114,Wa East,Bulenga,GOG-UNICEF,Goh,389,98,25,25,NA
-115,Wa East,Bulenga,GOG-UNICEF,Kakalapuo,165,27,26,25,NA
-116,Wa East,Bulenga,GOG-UNICEF,Viaha,426,37,25,19,NA
-117,Wa East,Funsi,GOG-UNICEF,Sawuobe,347,147,27,16,NA
-118,Wa East,Bulenga,GOG-UNICEF,Bilin-Un,130,15,23,15,NA
-119,Wa East,Funsi,GOG-UNICEF,Jellu,126,16,27,20,NA
-120,Wa East,Funsi,GOG-UNICEF,Manpie Yiri,108,12,11,11,NA
-121,Wa East,Funsi,GOG-UNICEF,Tambilipuo,248,31,42,20,NA
-122,Wa East,Bulenga,GOG-UNICEF,Bulezu,224,21,10,NA,NA
-123,Wa East,Bulenga,GOG-UNICEF,Gohpaani,35,7,5,NA,NA
-124,Wa East,Funsi,GOG-UNICEF,Morni Yiri,31,15,13,NA,NA
-125,Wa East,Funsi,GOG-UNICEF,Nafuriyiri,131,15,13,NA,NA
-126,Wa East,Funsi,GOG-UNICEF,Sampuoyrir,210,41,23,NA,NA
-127,Wa East,Funsi,GOG-UNICEF,Zang-Kura,311,58,40,30,NA
-128,Wa East,Funsi,GOG-UNICEF,Zinye,499,30,19,NA,NA
-129,Wa East,Funsi,GOG-UNICEF,Zinye Kunasiyiri,35,6,5,NA,NA
-130,Wa East,,GOG-UNICEF,Bule No. 2,341,26,22,22,NA
-131,Wa West,Dorimon,GOG-UNICEF,Jambusi,456,53,53,45,85
-132,Wa West,Dorimon,GOG-UNICEF,Mwabasi,730,61,60,50,NA
-133,Wa West,Dorimon,GOG-UNICEF,Gongoglo,264,27,35,20,NA
-134,Wa West,Dorimon,GOG-UNICEF,Cheatanga,309,31,34,25,NA
-135,Wa West,Ga,GOG-UNICEF,Bawa,835,59,54,35,NA
-136,Wa West,Veri,GOG-UNICEF,Ladaateng,306,55,54,35,NA
-137,Wa West,Dorimon,GOG-UNICEF,Nurikuteng,475,88,82,42,NA
-138,Wa West,Gurungu,GOG-UNICEF,Kpenateng,900,84,81,92,NA
-139,Wa West,Gurungu,GOG-UNICEF,Tanziri,94,34,31,25,NA
-140,Wa West,Gurungu,GOG-UNICEF,Dakari,166,25,33,25,NA
-141,Wa West,Gurungu,GOG-UNICEF,Dapilayiri,303,61,61,46,NA
-142,Wa West,Gurungu,GOG-UNICEF,Mwinberateng,116,14,14,12,NA
-143,Wa West,Gurungu,GOG-UNICEF,Motori,1649,68,60,45,NA
-144,Wa West,Gurungu,GOG-UNICEF,Tame,36,5,4,4,NA
-145,Wa West,Gurungu,GOG-UNICEF,Metti,844,82,77,56,NA
-146,Wa West,Gurungu,GOG-UNICEF,Gurungu,1159,148,125,45,NA
-147,Wa West,Gurungu,GOG-UNICEF,Tawoncheli No. 2,423,43,43,43,NA
-148,Wa West,Gurungu,GOG-UNICEF,Solekura,112,9,9,NA,NA
-149,Wa West,Gurungu,GOG-UNICEF,Jagluu,622,73,68,61,NA
-150,Wa West,Gurungu,GOG-UNICEF,Yorbokura,395,38,38,NA,NA
-151,Wa West,Wechiau,GOG-UNICEF,Saaru,200,22,22,NA,NA
-152,Wa West,Dorimon,GOG-UNICEF,Kolungu,300,47,27,5,NA
-153,Wa West,Dorimon,GOG-UNICEF,Dole,237,28,27,27,NA
-154,Wa West,Dorimon,GOG-UNICEF,Guomaali,203,27,26,23,NA
-155,Wa West,Dorimon,GOG-UNICEF,Tamaara,128,20,22,22,NA
-156,Wa West,Dorimon,GOG-UNICEF,Zogli,120,15,17,9,NA
-157,Wa West,Gurungu,GOG-UNICEF,Anyourakura,388,42,42,50,NA
-158,Wa West,Gurungu,GOG-UNICEF,Ba-Orjon,202,34,31,10,NA
-159,Wa West,Gurungu,GOG-UNICEF,Batonuriyiri,505,44,44,3,NA
-160,Wa West,Gurungu,GOG-UNICEF,Dakaarayiri,111,7,13,13,NA
-161,Wa West,Gurungu,GOG-UNICEF,Kapilayiri,96,10,9,3,NA
-162,Wa West,Gurungu,GOG-UNICEF,Nuobakiyereyiri,91,36,36,42,NA
-163,Wa West,Gurungu,GOG-UNICEF,Tawoncheli No. 1,478,56,54,60,NA
-164,Wa West,Gurungu,GOG-UNICEF,Tie-Yiri,154,15,15,9,NA
-165,Wa West,Gurungu,GOG-UNICEF,Yasoyiri,203,34,34,34,NA
-166,Wa West,Gurungu,GOG-UNICEF,Yuonuuri,970,144,122,60,NA
-167,Wa West,Dorimon,GOG-UNICEF,Kogle,159,31,23,31,NA
-168,Wa West,Ga,GOG-UNICEF,Gadi,150,NA,NA,NA,NA
-169,Wa West,Ga,GOG-UNICEF,Pituo,60,NA,NA,NA,NA
-170,Wa West,Gurungu,GOG-UNICEF,Gbaalwob,807,74,61,59,NA
-171,Wa West,Gurungu,GOG-UNICEF,Jorkpetey-Yiri,198,12,12,12,NA
-172,Wa West,Gurungu,GOG-UNICEF,Solinbo,276,NA,NA,NA,NA
-173,Wa West,Vieri,GOG-UNICEF,Pigbengben,193,NA,NA,NA,NA
-174,Wa West,Wechau,GOG-UNICEF,Dochera,145,NA,NA,NA,NA
-175,Wa West,Wechau,GOG-UNICEF,Dompie,128,13,13,2,NA
-176,Wa West,,GOG-UNICEF,Junuokura,204,NA,NA,NA,NA
-177,Wa West,,GOG-UNICEF,Konduoni,188,NA,NA,NA,NA
-178,Wa West,,GOG-UNICEF,Siala,156,NA,NA,NA,NA
-179,Wa West,Wechiau,GOG-UNICEF,Bienye,535,67,63,50,NA
-180,Wa West,Dorimon,GOG-UNICEF,Dassaayiri,33,NA,3,3,NA
-181,Wa West,Dorimon,GOG-UNICEF,Kukpali,530,20,10,5,NA
-182,Wa West,Dorimon,GOG-UNICEF,Mwantanga,225,NA,24,24,NA
-183,Wa West,Ga,GOG-UNICEF,Daribateng,208,34,45,45,NA
-184,Wa West,Ga,GOG-UNICEF,Dolinguo,205,22,37,28,NA
-185,Wa West,Ga,GOG-UNICEF,Maanyeyiri,263,26,27,26,NA
-186,Wa West,Ga,GOG-UNICEF,Nakor,363,NA,38,37,NA
-187,Wa West,Ga,GOG-UNICEF,Olloteng,321,NA,30,30,NA
-188,Wa West,Ga,GOG-UNICEF,Simpuoyiri,157,20,19,19,NA
-189,Wa West,Ga,GOG-UNICEF,Sanuori,264,29,43,37,NA
-190,Wa West,Ga,GOG-UNICEF,Sooereyiri,195,14,17,17,NA
-191,Wa West,Ga,GOG-UNICEF,Tambile,245,26,33,25,NA
-192,Wa West,Ga,GOG-UNICEF,Wechiaubor,516,64,63,25,NA
-193,Wa West,Ga,GOG-UNICEF,Wekaba,307,NA,34,34,NA
-194,Wa West,Gurungu,GOG-UNICEF,Dagmaayiri,108,25,21,0,NA
-195,Wa West,Gurungu,GOG-UNICEF,Mgmemberayiri,101,NA,10,0,NA
-196,Wa West,Gurungu,GOG-UNICEF,Nakaarayiri,207,NA,18,11,NA
-197,Wa West,Vieri,GOG-UNICEF,Bakurateng,173,NA,18,18,NA
-198,Wa West,Vieri,GOG-UNICEF,Daboziiri,115,NA,19,19,NA
-199,Wa West,Vieri,GOG-UNICEF,Donko,370,29,30,15,NA
-200,Wa West,Vieri,GOG-UNICEF,Kapuu,108,10,10,10,NA
-201,Wa West,Vieri,GOG-UNICEF,Kuunyenteng,120,NA,10,10,NA
-202,Wa West,Vieri,GOG-UNICEF,Lassiabile,109,NA,8,8,NA
-203,Wa West,Vieri,GOG-UNICEF,Mepkaa,351,20,38,20,NA
-204,Wa West,Vieri,GOG-UNICEF,Piiriteng,119,14,27,5,NA
-205,Wa West,Wechiau,GOG-UNICEF,Bunikye,234,22,21,22,NA
-206,Wa West,Wechiau,GOG-UNICEF,Daloyiri,86,14,12,4,NA
-207,Wa West,Wechiau,GOG-UNICEF,Damwateng,128,NA,20,9,NA
-208,Wa West,Wechiau,GOG-UNICEF,Dariyiri,138,12,14,1,NA
-209,Wa West,Wechiau,GOG-UNICEF,Jelleriyiri,254,NA,25,23,NA
-210,Wa West,Wechiau,GOG-UNICEF,Mekpa,51,7,6,3,NA
-211,Wa West,Wechiau,GOG-UNICEF,Tagdo,74,NA,12,12,NA
-212,Wa West,Ga,GOG-UNICEF,Weleyiri,247,21,18,4,NA
-213,Wa West,Wechiau,GOG-UNICEF,Mwalayiri,105,10,10,5,NA
-214,Wa West,,GOG-UNICEF,Balisery,94,37,32,30,NA
-215,Wa West,Dorimon,GOG-UNICEF,Gbongo,NA,31,29,27,NA
-216,Lambussie Karni,Karni,GOG-UNICEF,Laabilziri,275,19,18,18,17
-217,Lambussie Karni,Lambusie,GOG-UNICEF,Kelfinsi,240,30,27,25,NA
-218,Lambussie Karni,Lambusie,GOG-UNICEF,Kokoligu,291,27,25,20,NA
-219,Lambussie Karni,Samoa,GOG-UNICEF,Dindee,755,49,40,38,NA
-220,Lambussie Karni,Samoa,GOG-UNICEF,Kontawii,214,18,15,16,NA
-221,Lambussie Karni,Lambussie,GOG-UNICEF,Hachagangn,371,43,35,30,NA
-222,Lambussie Karni,Samoa,GOG-UNICEF,Bognuo,882,82,81,62,NA
-223,Lambussie Karni,Samoa,GOG-UNICEF,Konsi,410,65,54,32,NA
-224,Lambussie Karni,Hamile,GOG-UNICEF,Duragan,340,23,20,18,NA
-225,Lambussie Karni,Hamile,GOG-UNICEF,Kpanagan,234,24,20,15,NA
-226,Lambussie Karni,Lambussie,GOG-UNICEF,Nyubule,280,20,18,18,NA
-227,Lambussie Karni,Samoa,GOG-UNICEF,Hineteng,695,81,68,71,NA
-228,Lambussie Karni,Hamile,GOG-UNICEF,Chetu,360,39,36,35,NA
-229,Lambussie Karni,Karni,GOG-UNICEF,Girigan,493,32,29,29,NA
-230,Lambussie Karni,Lambussie,GOG-UNICEF,Kelegan,717,63,52,52,NA
-231,Lambussie Karni,Lambussie,GOG-UNICEF,Tubergan,390,44,36,35,NA
-232,Lambussie Karni,Lambussie,GOG-UNICEF,Nyangor,113,11,9,12,NA
+no,region,district,area_council,partner,community_name,population,households,toilets,hwf
+1,Central Region,Abura Asebu Kwamankes,Abakrampa,GOG-UNICEF,Okwesikrom,158,23,19,19
+2,Central Region,Abura Asebu Kwamankes,Abakrampa,GOG-UNICEF,Apaakrom,48,8,7,7
+3,Central Region,Ajumako Enyan Essiam,Besiase,GOG-UNICEF,Okontomire,48,5,4,4
+4,Central Region,Ajumako Enyan Essiam,Ajumako,GOG-UNICEF,Omanso,150,13,11,11
+5,Central Region,Ajumako Enyan Essiam,Bisease,GOG-UNICEF,Esupafie,65,5,5,5
+6,Central Region,Ajumako Enyan Essiam,Etsi Sonkwa,GOG-UNICEF,Eboakrua,77,3,3,3
+7,Central Region,Asikuma Odoben Brakwa,Odoben,GOG-UNICEF,Kramokwaa,31,6,5,0
+8,Central Region,Asikuma Odoben Brakwa,Jamra,GOG-UNICEF,Ahenkrom,26,5,5,0
+9,Central Region,Asikuma Odoben Brakwa,Jamera,GOG-UNICEF,New Proprokyer,82,14,17,0
+10,Central Region,Assin South,Nyankumase,GOG-UNICEF,Afaw,89,20,22,20
+11,Central Region,Assin South,Nyankumase Ahenkro,GOG-UNICEF,Saaman,85,22,18,10
+12,Central Region,Gomoa East,Afransi,GOG-UNICEF,Dadsonkwaa,27,6,6,NA
+13,Central Region,Gomoa East,Afransi,GOG-UNICEF,Mmofrafaadwen,36,5,4,4
+14,Central Region,Gomoa East,Dominase,GOG-UNICEF,Mafikope,32,4,4,4
+15,Central Region,Gomoa East,Dominase,GOG-UNICEF,Bokor,44,8,8,8
+1,Volta Region,Adaklu,WAYA,GOG-UNICEF,Akpakope,73,15,12,13
+2,Volta Region,Adaklu,WAYA,GOG-UNICEF,Koklonyikope,23,4,3,4
+3,Volta Region,Adaklu,WAYA,GOG-UNICEF,Agortoe,9,1,1,1
+4,Volta Region,Adaklu,WAYA,GOG-UNICEF,Akakpokope,73,10,8,8
+5,Volta Region,Adaklu,TSREFE,GOG-UNICEF,Wuve,12,2,2,2
+6,Volta Region,Akatsi North,Ave-Dakpa,GOG-UNICEF,Ave Nyive,32,8,7,7
+7,Volta Region,Akatsi North,Avevi,GOG-UNICEF,Vorsakofe,81,14,14,14
+8,Volta Region,Akatsi North,Ave-Dakpa,GOG-UNICEF,Agbokope,17,3,3,3
+9,Volta Region,Akatsi North,Ashiagborvi,GOG-UNICEF,Akolikope,75,10,10,10
+10,Volta Region,Akatsi North,Ave-Dakpa,GOG-UNICEF,Aglagokope,8,2,2,2
+11,Volta Region,Akatsi North,,GOG-UNICEF,Agbogbokofe,36,5,5,5
+12,Volta Region,Akatsi North,Ave-Dakpa,GOG-UNICEF,Ashikortor,21,4,4,4
+13,Volta Region,Akatsi South,Gafia,GOG-UNICEF,Asafotsi Dzogbekope,120,22,21,18
+14,Volta Region,Akatsi South,Gafia,GOG-UNICEF,Asafotsi Amenorpekope,96,18,16,16
+15,Volta Region,Akatsi South,Agbedrafor,GOG-UNICEF,Live- Kpoyiadzi,68,15,16,15
+16,Volta Region,Akatsi South,Agbedrafor,GOG-UNICEF,Live Dzivorkope,63,15,13,13
+17,Volta Region,Akatsi South,Avenorpeme,GOG-UNICEF,Badikope,66,17,16,16
+18,Volta Region,Akatsi South,Wute,GOG-UNICEF,Dodzikope,44,6,6,6
+19,Volta Region,Biakoye,NKONYA,GOG-UNICEF,Messiah Healing Community,87,12,13,13
+20,Volta Region,Biakoye,NKONYA,GOG-UNICEF,Odormitor No.1,101,23,23,23
+21,Volta Region,Biakoye,NKONYA,GOG-UNICEF,Korfikope,56,8,17,14
+22,Volta Region,Biakoye,NKONYA,GOG-UNICEF,Avenorkope,42,8,9,7
+23,Volta Region,Biakoye,TAPA,GOG-UNICEF,Bompaso,12,2,2,2
+24,Volta Region,Biakoye,TAPA,GOG-UNICEF,Basarikura No.I,24,3,3,3
+25,Volta Region,Biakoye,TAPA,GOG-UNICEF,Basarikura No.2,21,2,2,2
+26,Volta Region,Biakoye,KWAMEKROM,GOG-UNICEF,Tsorkosikope,109,14,12,10
+27,Volta Region,Biakoye,BOWIRI,GOG-UNICEF,Amanfrom Juction No.3,27,10,10,10
+28,Volta Region,Biakoye,TAPA,GOG-UNICEF,Kabrekura No.2,45,5,5,4
+29,Volta Region,Biakoye,TAPA,GOG-UNICEF,Kabrekura No.1,46,8,7,6
+30,Volta Region,Biakoye,NKONYA,GOG-UNICEF,Christ Heal. Cm,11,2,2,2
+31,Volta Region,Biakoye,NKONYA,GOG-UNICEF,Ion City,73,17,13,16
+32,Volta Region,Biakoye,NKONYA,GOG-UNICEF,Adenkesu,254,39,27,5
+33,Volta Region,Biakoye,Kwamekrom,GOG-UNICEF,White Cross Cm.,8,3,3,2
+34,Volta Region,Biakoye,Kwamekrom,GOG-UNICEF,Emm.Heal.Cm.,34,5,4,4
+35,Volta Region,Biakoye,BOWIRI,GOG-UNICEF,Kyirahin No. 3,28,7,6,6
+36,Volta Region,Ho,Ho-Kpeta,GOG-UNICEF,Hodzo Sukukpota,46,10,10,10
+37,Volta Region,Ho,Ho-Kpeta,GOG-UNICEF,Hodzo Mitsirikasa,11,2,2,2
+38,Volta Region,Ho,Ho-Kpeta,GOG-UNICEF,Hodzo Wortikpo,45,7,7,7
+39,Volta Region,Ho,Norvisi,GOG-UNICEF,Dzekoehia,24,4,4,4
+40,Volta Region,Ho,Norvisi,GOG-UNICEF,Aklamakpetoe,120,10,11,11
+41,Volta Region,Ho,Dutasor,GOG-UNICEF,Matse Lowcost,120,12,13,11
+42,Volta Region,Ho West,Yingor,GOG-UNICEF,Dodome Teleafenu,610,84,80,84
+43,Volta Region,Ho West,Yingor,GOG-UNICEF,Amedikukofe,10,3,3,3
+44,Volta Region,Ho West,Anyirawase,GOG-UNICEF,Sekekofe,90,10,10,10
+45,Volta Region,Ho West,Anyirawase,GOG-UNICEF,Abalakpe,24,3,3,3
+46,Volta Region,Ho West,Weto-Xedzefe,GOG-UNICEF,Anfoeta Habitat,53,20,20,20
+47,Volta Region,Ho West,Weto-Xedzefe,GOG-UNICEF,Kpale Xorse,572,112,67,90
+48,Volta Region,Ho West,Yingor,GOG-UNICEF,Agudavikope,25,4,4,4
+49,Volta Region,Ho West,Holuta/Aflakpe,GOG-UNICEF,Asifiafe,106,17,14,5
+50,Volta Region,Ho West,Tsito,GOG-UNICEF,Agbawukorfe,38,10,9,8
+51,Volta Region,Ho West,Yingor,GOG-UNICEF,Gbedekope,17,4,5,5
+52,Volta Region,Hohoe,Hohoe,GOG-UNICEF,Dzenana,122,14,16,14
+53,Volta Region,Hohoe,Agumatsa,GOG-UNICEF,Fodome Ando # 1,72,12,13,8
+54,Volta Region,Hohoe,Agumatsa,GOG-UNICEF,Fodome Biletorle,13,1,2,2
+55,Volta Region,Hohoe,Agumatsa,GOG-UNICEF,Fodome Lormnava,28,6,7,7
+56,Volta Region,Hohoe,Sanko/Akpafu,GOG-UNICEF,Akpafu Sokpo,150,28,23,23
+57,Volta Region,Hohoe,Agumatsa,GOG-UNICEF,Alufakorfe,10,2,2,2
+58,Volta Region,Hohoe,Agumatsa,GOG-UNICEF,Torgbadza,29,8,8,9
+59,Volta Region,Hohoe,Agumatsa,GOG-UNICEF,Dorgbefukorfe,16,2,2,2
+60,Volta Region,Hohoe,Hohoe,GOG-UNICEF,Gbi Torlenu,20,4,4,5
+61,Volta Region,Hohoe,Hohoe,GOG-UNICEF,Tonglo,34,6,6,8
+62,Volta Region,Hohoe,Likpe,GOG-UNICEF,Agbodzikorfe,17,2,2,2
+63,Volta Region,Hohoe,Likpe,GOG-UNICEF,Ahedorkorfe,23,5,4,4
+64,Volta Region,Hohoe,Agumatsa,GOG-UNICEF,Atikorpe,32,5,4,5
+65,Volta Region,Keta,Anyanui/ Shime,GOG-UNICEF,Gblipe,102,18,15,18
+66,Volta Region,Keta,Atiavi,GOG-UNICEF,Agboletekope,15,3,3,3
+67,Volta Region,Keta,Atiavi,GOG-UNICEF,Gallekope,15,3,3,3
+68,Volta Region,Keta,Keta,GOG-UNICEF,Vodza Newtown,238,57,49,49
+69,Volta Region,Keta,Tsiame Asadame,GOG-UNICEF,Letsyopedo,87,15,9,7
+70,Volta Region,Keta,Tsiame Asadame,GOG-UNICEF,Nyopekope,24,5,6,6
+71,Volta Region,Keta,Tsiame Asadame,GOG-UNICEF,Gbetuinu,109,23,12,18
+72,Volta Region,Keta,Anyako,GOG-UNICEF,Korviepe,38,9,7,7
+73,Volta Region,Keta,Anyako,GOG-UNICEF,Yegbekope,46,9,7,9
+74,Volta Region,Keta,Anyanui/ Shime,GOG-UNICEF,Agorvinu,187,30,26,22
+75,Volta Region,Keta,Anyanui/ Shime,GOG-UNICEF,Awadzagblidzi,39,10,10,10
+76,Volta Region,Keta,Anyako,GOG-UNICEF,Korviepe,38,9,9,9
+77,Volta Region,Keta,Anyako,GOG-UNICEF,Yegbekope,46,9,7,9
+78,Volta Region,Keta,Shime/Kome,GOG-UNICEF,Sokutime,110,21,17,17
+79,Volta Region,Keta,Shime/Kome,GOG-UNICEF,Nyakpatsi,50,9,8,8
+80,Volta Region,Ketu North,Afife,GOG-UNICEF,Agortonu Gbeve - Gbeworzakope,39,15,15,15
+81,Volta Region,Ketu North,Afife,GOG-UNICEF,Adevukope,59,11,12,9
+82,Volta Region,Ketu North,Dzodze,GOG-UNICEF,Awlikope Bame,49,10,8,8
+83,Volta Region,Ketu North,Dzodze,GOG-UNICEF,Kpotavi,26,3,4,4
+84,Volta Region,Ketu North,Penyi,GOG-UNICEF,Amaglokope,66,13,11,11
+85,Volta Region,Ketu North,Penyi,GOG-UNICEF,Zukpe- Dawubokope,87,16,14,14
+86,Volta Region,Ketu North,Weta,GOG-UNICEF,Akpadzrakofe,26,5,5,4
+87,Volta Region,Ketu North,Afife,GOG-UNICEF,Abotsikope,19,4,4,4
+88,Volta Region,Ketu North,Dzodze,GOG-UNICEF,Volu-Gavorkope,45,5,5,0
+89,Volta Region,Ketu North,Penyi,GOG-UNICEF,Zukpe-Senagbekope,25,5,4,4
+90,Volta Region,Ketu North,Penyi,GOG-UNICEF,Zukpe-Kortokope,24,4,4,4
+91,Volta Region,Ketu North,Dzodze,GOG-UNICEF,Dzikusedekope,30,5,5,5
+92,Volta Region,Ketu North,Weta,GOG-UNICEF,Tugeykope,34,5,4,5
+93,Volta Region,Kpando Municipa,nicipalGBEFI,GOG-UNICEF,Gbortsua Kope,14,4,4,4
+94,Volta Region,Kpando Municipa,KPANDO,GOG-UNICEF,Adope,300,38,32,28
+95,Volta Region,Kpando Municipa,KPANDO,GOG-UNICEF,Fulanikope,71,8,7,8
+96,Volta Region,Kpando Municipa,KPANDO,GOG-UNICEF,Hevikope,24,5,5,5
+97,Volta Region,Kpando Municipa,KPANDO,GOG-UNICEF,Gborpe,200,26,23,12
+98,Volta Region,Kpando Municipa,KPANDO,GOG-UNICEF,Ganyakope,22,6,6,6
+99,Volta Region,Kpando Municipa,SOVIE,GOG-UNICEF,Dzawulame,151,39,38,29
+100,Volta Region,Kpando Municipa,SOVIE,GOG-UNICEF,Kudzra Ando,116,15,15,12
+101,Volta Region,Kpando Municipa,GBEFI,GOG-UNICEF,Dorm Kope,13,3,3,2
+102,Volta Region,Kpando Municipa,GBEFI,GOG-UNICEF,Melevevio,164,5,2,5
+103,Volta Region,Kpando Municipa,KPANDO,GOG-UNICEF,Gadza,1861,38,30,20
+104,Volta Region,Kpando Municipa,KPANDO,GOG-UNICEF,Debidebi,354,15,10,4
+105,Volta Region,Kpando Municipa,KPANDO,GOG-UNICEF,Avega,123,13,9,2
+106,Volta Region,Kpando Municipa,SOVIE,GOG-UNICEF,Avagakope,24,4,3,3
+107,Volta Region,Kpando Municipa,SOVIE,GOG-UNICEF,Korkodzi,160,3,4,1
+108,Volta Region,Kpando Municipa,SOVIE,GOG-UNICEF,Sikakrom,96,10,10,10
+109,Volta Region,Kpando Municipa,KPANDO,GOG-UNICEF,Torkor Gasikakope,21,5,5,5
+110,Volta Region,Kpando Municipa,SOVIE,GOG-UNICEF,Atsame,138,23,18,18
+111,Volta Region,Kpando Municipa,KPANDO,GOG-UNICEF,Sedzrokope,78,13,11,11
+112,Volta Region,North Dayi,Anfoega,GOG-UNICEF,Andokofe,89,17,17,17
+113,Volta Region,North Dayi,Vakpo,GOG-UNICEF,Kpeme,90,22,13,22
+114,Volta Region,North Dayi,Vakpo,GOG-UNICEF,Kenkukope,27,3,3,3
+115,Volta Region,North Dayi,Botoku,GOG-UNICEF,Tsrukpe Tsranum,55,18,15,14
+116,Volta Region,North Dayi,Vakpo,GOG-UNICEF,Vasec Down,21,3,3,3
+117,Volta Region,North Dayi,Anfoega,GOG-UNICEF,Aveti,50,11,12,11
+118,Volta Region,North Dayi,Awate,GOG-UNICEF,Togokope,28,8,7,7
+119,Volta Region,Kadjebi,Poase Cement,GOG-UNICEF,Follow Junction,21,10,9,10
+120,Volta Region,Kadjebi,Poase Cement,GOG-UNICEF,Brafoanu,38,10,10,10
+121,Volta Region,Kadjebi,Poase Cement,GOG-UNICEF,Goldsmith,32,7,8,7
+122,Volta Region,Kadjebi,Poase Cement,GOG-UNICEF,Buyor,11,5,5,5
+123,Volta Region,Kadjebi,Dodi,GOG-UNICEF,Mempeasem Todzi,9,3,3,3
+124,Volta Region,Kadjebi,Ahamansu,GOG-UNICEF,Titiaka Kabre,150,13,8,8
+125,Volta Region,Kadjebi,Ahamansu,GOG-UNICEF,Titiaka Zongo,153,30,24,13
+126,Volta Region,Kadjebi,Asato,GOG-UNICEF,Lawoekope,36,11,10,10
+127,Volta Region,Kadjebi,Asato,GOG-UNICEF,Yeboakope,26,5,5,8
+128,Volta Region,Kadjebi,Asato,GOG-UNICEF,Ketepi,165,25,20,16
+129,Volta Region,Kadjebi,Asato,GOG-UNICEF,Wawaso,468,54,47,50
+130,Volta Region,Kadjebi,Dodi,GOG-UNICEF,Soviekodzi,112,15,14,14
+131,Volta Region,Kadjebi,Dodi,GOG-UNICEF,Asuboe,336,48,38,38
+132,Volta Region,Kadjebi,Dodi,GOG-UNICEF,Aboabo,102,14,12,12
+133,Volta Region,Kadjebi,Dodo,GOG-UNICEF,Kokotikope,48,9,8,6
+134,Volta Region,Kadjebi,Dodo,GOG-UNICEF,Pepesu Zongo,98,21,23,21
+135,Volta Region,Kadjebi,Kadjebi,GOG-UNICEF,Agbokodzi,272,57,38,46
+136,Volta Region,Kadjebi,Kadjebi,GOG-UNICEF,Breketekope,65,14,12,14
+137,Volta Region,Kadjebi,Ahamansu,GOG-UNICEF,Kpandokope,120,17,14,14
+138,Volta Region,Kadjebi,Asato,GOG-UNICEF,Kosamba,115,22,19,18
+139,Volta Region,Kadjebi,Asato,GOG-UNICEF,Kordibenum Nyarko,565,32,25,25
+140,Volta Region,Kadjebi,Dodi,GOG-UNICEF,Asowoe,48,7,6,6
+141,Volta Region,Kadjebi,Dodi,GOG-UNICEF,Dodi Papase Junction,130,18,15,15
+142,Volta Region,Kadjebi,Dodo,GOG-UNICEF,Borlorkope,32,11,9,5
+143,Volta Region,Kadjebi,Kadjebi,GOG-UNICEF,Konsu,73,6,5,5
+144,Volta Region,Kadjebi,Kadjebi,GOG-UNICEF,Dunyokope,154,23,18,18
+145,Volta Region,Kadjebi,Kadjebi,GOG-UNICEF,Gideonkope,66,16,13,5
+146,Volta Region,Kadjebi,Ahamansu,GOG-UNICEF,Mangoase,74,10,9,8
+147,Volta Region,Kadjebi,Asato,GOG-UNICEF,Adaklukope,68,11,10,10
+148,Volta Region,Kadjebi,Dodi,GOG-UNICEF,Kpomkpa,173,33,29,28
+149,Volta Region,Kadjebi,Dodo,GOG-UNICEF,Dompa Sekor,115,23,20,19
+150,Volta Region,Kadjebi,Ahamansu,GOG-UNICEF,Tsikata,600,NA,7,7
+151,Volta Region,Kadjebi,Ahamansu,GOG-UNICEF,Haleluyakope,100,25,3,3
+152,Volta Region,Kadjebi,Ahamansu,GOG-UNICEF,Kpalime,250,63,14,12
+153,Volta Region,Kadjebi,Ahamansu,GOG-UNICEF,Anani,120,30,7,8
+154,Volta Region,Kadjebi,Ahamansu,GOG-UNICEF,Naley,150,NA,8,8
+155,Volta Region,Kadjebi,Ahamansu,GOG-UNICEF,Borhor Junction,96,24,5,5
+156,Volta Region,Kadjebi,Ahamansu,GOG-UNICEF,Yaadzo,400,100,16,16
+157,Volta Region,Kadjebi,Asato,GOG-UNICEF,Asato New Town,154,36,12,10
+158,Volta Region,Kadjebi,Asato,GOG-UNICEF,Hevikpotame,105,16,14,11
+159,Volta Region,Kadjebi,Asato,GOG-UNICEF,Akpeloto,115,34,16,14
+160,Volta Region,Kadjebi,Asato,GOG-UNICEF,Asato Zongo,82,15,10,10
+161,Volta Region,Kadjebi,Asato,GOG-UNICEF,Dzindzi Torgodo,46,7,7,7
+162,Volta Region,Kadjebi,Dodi,GOG-UNICEF,Konsuaso,160,34,33,33
+163,Volta Region,Kadjebi,Dodo,GOG-UNICEF,Dodo Abotansu,64,13,3,3
+164,Volta Region,Kadjebi,Dodo,GOG-UNICEF,Dodo Zongo,NA,205,28,49
+165,Volta Region,Kadjebi,Dodo,GOG-UNICEF,Dodo Ampakwae,120,57,11,11
+166,Volta Region,Kadjebi,Dodo,GOG-UNICEF,Dodo Olobonbi,117,23,5,7
+167,Volta Region,Kadjebi,Dodo,GOG-UNICEF,Dodo Akum,142,34,28,28
+168,Volta Region,Kadjebi,Kadjebi,GOG-UNICEF,Road Block,31,7,6,7
+169,Volta Region,Kadjebi,Kadjebi,GOG-UNICEF,Kordibenum Kpodzi,200,100,5,5
+170,Volta Region,Kadjebi,Kadjebi,GOG-UNICEF,New Kordibenum,160,106,15,11
+171,Volta Region,Kadjebi,PDA,GOG-UNICEF,Kukurantimi New Town,64,13,13,13
+172,Volta Region,Kadjebi,PDA,GOG-UNICEF,Kwadzokuma,42,9,6,6
+173,Volta Region,Kadjebi,Dodi,GOG-UNICEF,Cement Kpelekpedzi,100,24,21,20
+174,Volta Region,Kadjebi,Dodi,GOG-UNICEF,Atakofi Newtown,98,12,10,10
+175,Volta Region,Ketu South,Aflao Wego,GOG-UNICEF,Kpanokope,78,14,14,12
+176,Volta Region,Ketu South,Aflao Wego,GOG-UNICEF,Seyemekope,74,23,23,20
+177,Volta Region,Ketu South,Somey Wego,GOG-UNICEF,Govinakope (Benkofe),102,17,14,14
+178,Volta Region,South Dayi,Kpalime Tongor,GOG-UNICEF,Glah Fredkorpe,17,4,4,4
+179,Volta Region,South Dayi,Kpalime Tongor,GOG-UNICEF,Dziwornu Korpe,8,1,1,1
+180,Volta Region,South Dayi,Kpalime Tongor,GOG-UNICEF,Bedzokorpe/Soevi Ayivi Korpe,29,7,7,7
+181,Volta Region,South Dayi,Kpalime Tongor,GOG-UNICEF,Headmankorpe,16,3,3,3
+182,Volta Region,South Dayi,Kpalime Tongor,GOG-UNICEF,Wugbadzi No 1,86,16,16,14
+183,Volta Region,South Dayi,Peki Town Council,GOG-UNICEF,Anyensu Peki,NA,NA,6,6
+1,Upper East Region,Bawku,Kuka Zabugu,GOG-UNICEF,Narang,197,20,20,29
+2,Upper East Region,Bawku,Kuka Zabugu,GOG-UNICEF,Zeeri,143,18,18,18
+3,Upper East Region,Bawku,Kuka,GOG-UNICEF,Terago,316,41,41,15
+4,Upper East Region,Bawku,Zabugu,GOG-UNICEF,Anamda-Borin,149,22,22,22
+5,Upper East Region,Bawku,Zabugu,GOG-UNICEF,Lamkok,214,30,30,30
+6,Upper East Region,Bawku,Zabugu,GOG-UNICEF,Lamnatinga,220,28,28,28
+7,Upper East Region,Bawku,Zabugu,GOG-UNICEF,Nadbuda,335,40,40,39
+8,Upper East Region,Bawku,Zabugu,GOG-UNICEF,Yakut- Natinga,235,32,0,30
+9,Upper East Region,Bawku,Mognori Area Council,GOG-UNICEF,Baribari,NA,57,55,55
+10,Upper East Region,Bawku,Mognori Area Council,GOG-UNICEF,Gumakutare,NA,67,67,67
+11,Upper East Region,Bawku,Kuka Zabugu,GOG-UNICEF,Yumboko Area Council,208,39,38,38
+12,Upper East Region,Bawku,Kuka Zabugu,GOG-UNICEF,Yomboko Nating,480,NA,NA,NA
+13,Upper East Region,Bawku,Zorsi,GOG-UNICEF,Widan-Nating (Binduri),386,NA,NA,NA
+14,Upper East Region,Bawku,Kuka,GOG-UNICEF,Seegol,205,29,0,NA
+15,Upper East Region,Bawku,Yomboko,GOG-UNICEF,Yomboko Area Council,208,39,0,1
+16,Upper East Region,Bawku West,Sapeliga,GOG-UNICEF,Galaka,153,15,15,15
+17,Upper East Region,Bawku West,Sapeliga,GOG-UNICEF,Salpiiga,500,42,47,47
+18,Upper East Region,Bawku West,Sapeliga,GOG-UNICEF,Googo,470,41,41,41
+19,Upper East Region,Bawku West,Tilli Widnada,GOG-UNICEF,Tilli (Azupupunga),490,26,22,25
+20,Upper East Region,Bawku West,Sapeliga,GOG-UNICEF,Yapala,128,18,18,18
+21,Upper East Region,Bawku West,Sapeliga,GOG-UNICEF,Samboliga,326,18,17,18
+22,Upper East Region,Binduri,Bazua,GOG-UNICEF,Aporinzua,460,41,41,41
+23,Upper East Region,Binduri,Bazua,GOG-UNICEF,Koloko Gumbo,387,32,32,32
+24,Upper East Region,Binduri,Bazua,GOG-UNICEF,Kuloko Tengri,644,82,82,82
+25,Upper East Region,Binduri,Bazua,GOG-UNICEF,Koloko/Aweego,577,63,62,63
+26,Upper East Region,Binduri,Bazua,GOG-UNICEF,Widan-Bugri,349,52,52,52
+27,Upper East Region,Binduri,Bazua,GOG-UNICEF,Yalugu/Mognori,876,70,70,70
+28,Upper East Region,Binduri,Bazua,GOG-UNICEF,Zaago Bissa,457,19,19,19
+29,Upper East Region,Binduri,Binduri,GOG-UNICEF,Azum-sapeliga Lower,451,43,43,43
+30,Upper East Region,Binduri,Binduri,GOG-UNICEF,Bulugu,324,42,42,42
+31,Upper East Region,Binduri,Binduri,GOG-UNICEF,Ninsako,501,103,103,103
+32,Upper East Region,Binduri,Binduri,GOG-UNICEF,Poyamire,519,56,56,56
+33,Upper East Region,Binduri,Kaadi,GOG-UNICEF,Kulavai,380,100,100,100
+34,Upper East Region,Binduri,Kaadi,GOG-UNICEF,Tambiigu 2,998,185,185,185
+35,Upper East Region,Binduri,Kaadi,GOG-UNICEF,Tansia-Zeego,665,44,44,44
+36,Upper East Region,Binduri,Kaadi,GOG-UNICEF,Avoasi,218,26,26,26
+37,Upper East Region,Binduri,Kaadi,GOG-UNICEF,Atuba Mognori,207,54,54,54
+38,Upper East Region,Binduri,Kaadi,GOG-UNICEF,Agoldbod,220,27,27,27
+39,Upper East Region,Binduri,Kaadi,GOG-UNICEF,Tetauku-Tempeln,656,130,130,130
+40,Upper East Region,Binduri,Bazua,GOG-UNICEF,Badaboga-Tengbeogo,400,67,67,67
+41,Upper East Region,Binduri,Zawse/Bansi,GOG-UNICEF,Yalungugu Asikuni,381,23,23,23
+42,Upper East Region,Binduri,Kaadi,GOG-UNICEF,Nafkoliga,796,109,109,109
+43,Upper East Region,Binduri,Kaadi,GOG-UNICEF,Sakpari,1660,102,102,102
+44,Upper East Region,Binduri,Kaadi,GOG-UNICEF,Zuatempelug,450,48,48,48
+45,Upper East Region,Binduri,Kaadi,GOG-UNICEF,Zamballa,335,68,68,68
+46,Upper East Region,Binduri,Bazua,GOG-UNICEF,Kolog - Arabok,203,10,10,10
+47,Upper East Region,Binduri,Binduri,GOG-UNICEF,Azum-sapeliga Upper,945,183,183,183
+48,Upper East Region,Binduri,Binduri,GOG-UNICEF,Barabogo,400,134,134,134
+49,Upper East Region,Binduri,,GOG-UNICEF,Asaliga-Zaago,NA,NA,NA,NA
+50,Upper East Region,Binduri,,GOG-UNICEF,Wiespego,NA,NA,NA,NA
+51,Upper East Region,Bongo,Soe,GOG-UNICEF,Ayugte,150,34,34,34
+52,Upper East Region,Bongo,Beo,GOG-UNICEF,Dunfoli - Yikeni,140,15,15,15
+53,Upper East Region,Bongo,Bongo,GOG-UNICEF,Zemasa,170,19,19,19
+54,Upper East Region,Bongo,Namoo,GOG-UNICEF,Abungu,163,36,36,36
+55,Upper East Region,Bongo,Namoo,GOG-UNICEF,Akinkalga-Doone,211,24,7,0
+56,Upper East Region,Bongo,Zorko,GOG-UNICEF,Ayuabisi,87,24,24,24
+57,Upper East Region,Bongo,Zorko,GOG-UNICEF,Azangabisi,234,NA,4,NA
+58,Upper East Region,Bongo,Beo,GOG-UNICEF,Akutabongo Central,150,20,20,20
+59,Upper East Region,Bongo,Soe,GOG-UNICEF,Aniakunkua,184,24,24,24
+60,Upper East Region,Bongo,Balungu,GOG-UNICEF,Apumbem,295,23,23,23
+61,Upper East Region,Bongo,Zorko,GOG-UNICEF,Tarongo Kunkua,171,32,18,32
+62,Upper East Region,Bongo,,GOG-UNICEF,Akanserlinga C,215,20,20,20
+63,Upper East Region,Bongo,,GOG-UNICEF,Akanserlinga A,234,17,17,17
+64,Upper East Region,Builsa North,Chuchuliga,GOG-UNICEF,Akpari-yeri,171,44,44,44
+65,Upper East Region,Builsa North,Sandema,GOG-UNICEF,Deborinsa,321,27,27,27
+66,Upper East Region,Builsa North,Sandema,GOG-UNICEF,Asanabiisi,104,20,19,18
+67,Upper East Region,Builsa North,Sandema,GOG-UNICEF,Sanwaasa,391,26,26,23
+68,Upper East Region,Builsa North,Siniensa,GOG-UNICEF,Dawarinsa,214,19,19,19
+69,Upper East Region,Builsa North,Siniensa,GOG-UNICEF,Yangsa,248,21,21,19
+70,Upper East Region,Builsa North,Siniensa,GOG-UNICEF,Zundema,888,115,115,115
+71,Upper East Region,Builsa North,Siniensi,GOG-UNICEF,Anarisa-yeri,123,11,11,11
+72,Upper East Region,Builsa North,Siniensi,GOG-UNICEF,Nankrisa,121,17,17,17
+73,Upper East Region,Builsa North,Siniensi,GOG-UNICEF,Abiisa-yeri,385,25,25,23
+74,Upper East Region,Builsa North,Siniesi,GOG-UNICEF,Naasa,274,NA,NA,NA
+75,Upper East Region,Builsa North,Siniensa,GOG-UNICEF,Ninvinsa,142,20,20,20
+76,Upper East Region,Builsa North,Sandema,GOG-UNICEF,Banimonsa,124,17,17,17
+77,Upper East Region,Builsa South,Chensa / Zamsa,GOG-UNICEF,Champolinsa,156,13,20,18
+78,Upper East Region,Builsa South,Chensa / Zamsa,GOG-UNICEF,Pindema,260,12,11,0
+79,Upper East Region,Builsa South,Kanjarga.,GOG-UNICEF,Farinsa,335,45,45,17
+80,Upper East Region,Builsa South,Doninga / Bachonsa,GOG-UNICEF,Naverensa,494,39,39,19
+81,Upper East Region,Builsa South,Kanjarga,GOG-UNICEF,Kalaasa,328,22,22,0
+82,Upper East Region,Builsa South,Fumbisi,GOG-UNICEF,Luisa,449,27,24,0
+83,Upper East Region,Builsa South,Kanjarga,GOG-UNICEF,Musidema 2,187,25,28,0
+84,Upper East Region,Builsa South,Kanjarga,GOG-UNICEF,Sikabsa,99,14,14,14
+85,Upper East Region,Builsa South,Chensa/Zamsa,GOG-UNICEF,Kambangsa,332,27,29,29
+86,Upper East Region,Builsa South,Doninga / Bachonsa,GOG-UNICEF,Nyambisa,196,25,28,28
+87,Upper East Region,Builsa South,Fumbisi,GOG-UNICEF,Naadem Yipala,462,11,12,12
+88,Upper East Region,Kassena Nankana,Kandiga,GOG-UNICEF,Aduradoone,136,13,11,11
+89,Upper East Region,Kassena Nankana,Kandiga,GOG-UNICEF,Alaskadoone,138,8,9,9
+90,Upper East Region,Kassena Nankana,Kandiga,GOG-UNICEF,Dapoori No.1,483,47,44,44
+91,Upper East Region,Kassena Nankana,Kandiga,GOG-UNICEF,Dapoori No. 2,146,36,36,36
+92,Upper East Region,Kassena Nankana,Kandiga,GOG-UNICEF,Doctor-Nurom,138,26,26,26
+93,Upper East Region,Kassena Nankana,Kandiga,GOG-UNICEF,Guuson,211,18,18,18
+94,Upper East Region,Kassena Nankana,Kandiga,GOG-UNICEF,Pogteengo,153,22,22,22
+95,Upper East Region,Kassena Nankana,Chiana,GOG-UNICEF,Apera-Bia,236,17,17,16
+96,Upper East Region,Kassena Nankana,Chiana,GOG-UNICEF,Alonia,170,13,13,13
+97,Upper East Region,Kassena Nankana,Chiana,GOG-UNICEF,Ayanabia Gugoro,153,9,9,9
+98,Upper East Region,Kassena Nankana,Katiu,GOG-UNICEF,Bayao,583,57,57,57
+99,Upper East Region,Kassena Nankana,Katiu,GOG-UNICEF,Saboro,478,37,37,37
+100,Upper East Region,Kassena Nankana,Katiu,GOG-UNICEF,Tampusongo,258,26,26,26
+101,Upper East Region,Kassena Nankana,Wurunia Yidania,GOG-UNICEF,Kajenwala,112,7,7,7
+102,Upper East Region,Kassena Nankana,Wurunia Yidania,GOG-UNICEF,Sazona,398,32,32,32
+103,Upper East Region,Kassena Nankana,Sirigu,GOG-UNICEF,Amutanga,716,18,18,18
+104,Upper East Region,Kassena Nankana,Buru/Nakol/Navor,GOG-UNICEF,Kasile,330,37,36,36
+105,Upper East Region,Kassena Nankana,Buru/Nakol/Navor,GOG-UNICEF,Nakolo Kampwolo,350,26,26,26
+106,Upper East Region,Kassena Nankana,Chaina,GOG-UNICEF,Asunia,245,NA,7,NA
+107,Upper East Region,Kassena Nankana,Sirigu,GOG-UNICEF,Dazongo Aturadoone A,380,20,20,20
+108,Upper East Region,Kassena Nankana,Chiana,GOG-UNICEF,Soganania,314,17,17,17
+109,Upper East Region,Kassena Nankana,Kandiga,GOG-UNICEF,Alabredoone,36,6,6,6
+110,Upper East Region,Kassena Nankana,Kandiga,GOG-UNICEF,LongoTindoogo,608,50,50,50
+111,Upper East Region,Kassena Nankana,Kandiga,GOG-UNICEF,Kumogladoone,382,46,46,46
+112,Upper East Region,Kassena Nankana,Kandiga,GOG-UNICEF,Anisoore,536,67,67,67
+113,Upper East Region,Kassena Nankana,Kandiga,GOG-UNICEF,Ayuuribisi,340,24,24,24
+114,Upper East Region,Kassena Nankana,Kandiga,GOG-UNICEF,Aworbokam,189,44,44,44
+115,Upper East Region,Kassena Nankana,Kandiga,GOG-UNICEF,Atibabiisi-Mogchaka,432,45,45,45
+116,Upper East Region,Kassena Nankana,Mirugu,GOG-UNICEF,Atangadoone,194,19,19,19
+117,Upper East Region,Kassena Nankana,,GOG-UNICEF,Adasongo,265,14,14,14
+118,Upper East Region,Kassena Nankana,,GOG-UNICEF,Nakolo Kasile,402,44,44,44
+119,Upper East Region,Kassena Nankana,,GOG-UNICEF,Zunko,460,17,17,16
+120,Upper East Region,Kassena Nankana,,GOG-UNICEF,Anyanabia,153,9,9,9
+121,Upper East Region,Kassena Nankana,Kandiga,GOG-UNICEF,Fulungu,250,9,9,17
+122,Upper East Region,Kassena Nankana,Kandiga,GOG-UNICEF,Lenzongu,225,25,25,23
+123,Upper East Region,Kassena Nankana,Kandiga,GOG-UNICEF,Atosale,954,48,48,48
+124,Upper East Region,Kassena Nankana,Yidania,GOG-UNICEF,Yidania Kinkania,695,35,35,34
+125,Upper East Region,Kassena Nankana,,GOG-UNICEF,Kadognia,NA,NA,NA,NA
+126,Upper East Region,Kassena Nankana,,GOG-UNICEF,Atia-Kadania,NA,NA,NA,NA
+127,Upper East Region,Kassena Nankana,,GOG-UNICEF,Agoliyadoone,NA,NA,NA,NA
+128,Upper East Region,Pusiga,Nakom/Zuobuliga,GOG-UNICEF,Dabia Lalsaa,150,23,23,23
+129,Upper East Region,Pusiga,Nakom/Zuobuliga,GOG-UNICEF,Dabia Zullugu,250,16,16,16
+130,Upper East Region,Pusiga,Nakom/Zuobuliga,GOG-UNICEF,Naranin,310,15,15,15
+131,Upper East Region,Pusiga,Nakom/Zuobuliga,GOG-UNICEF,Yaranatinga,116,13,13,13
+132,Upper East Region,Pusiga,Pusiga,GOG-UNICEF,Madgu,811,186,15,45
+133,Upper East Region,Pusiga,Sugudi/Zong-Natiga,GOG-UNICEF,Moshin,175,23,23,23
+134,Upper East Region,Pusiga,Sugudi/Zong-Natiga,GOG-UNICEF,Poanaba,950,125,125,125
+135,Upper East Region,Pusiga,Widana,GOG-UNICEF,Yariga 2,709,42,42,42
+136,Upper East Region,Pusiga,Zong - Natinga,GOG-UNICEF,Sugudi-Simi Natinga,841,46,46,46
+137,Upper East Region,Pusiga,Kulungugu,GOG-UNICEF,Kultamise Nware,1007,89,19,NA
+138,Upper East Region,Pusiga,Kulungugu,GOG-UNICEF,Sangabuli,519,45,45,45
+139,Upper East Region,Pusiga,Zong - Natinga,GOG-UNICEF,Tambiogo,328,37,37,37
+140,Upper East Region,Garu Tempane,Kpikpira,GOG-UNICEF,Nambina 2,395,NA,NA,NA
+141,Upper East Region,Garu Tempane,Worikambo,GOG-UNICEF,Kugraogo,385,NA,NA,NA
+142,Upper East Region,Garu Tempane,Kpikpira,GOG-UNICEF,Gotulsi,219,NA,NA,NA
+143,Upper East Region,Garu Tempane,Denugu,GOG-UNICEF,Ankadiri,197,32,32,0
+144,Upper East Region,Garu Tempane,Worikambo,GOG-UNICEF,Bantafarugu,290,30,18,0
+145,Upper East Region,Garu Tempane,Denugu,GOG-UNICEF,Beantis,193,24,23,0
+146,Upper East Region,Garu Tempane,Denugu,GOG-UNICEF,Bugrikwan/Yapala,232,39,15,0
+147,Upper East Region,Garu Tempane,Denugu,GOG-UNICEF,Jabdawur,53,6,6,0
+148,Upper East Region,Garu Tempane,Denugu,GOG-UNICEF,Jankwan,279,37,37,0
+149,Upper East Region,Garu Tempane,Denugu,GOG-UNICEF,Kabakwan,679,47,9,0
+150,Upper East Region,Garu Tempane,Denugu,GOG-UNICEF,Kanbongankwan,502,36,9,0
+151,Upper East Region,Garu Tempane,Denugu,GOG-UNICEF,Kukbulig,285,22,22,10
+152,Upper East Region,Garu Tempane,Worikambo,GOG-UNICEF,Sunakwan,324,32,12,0
+153,Upper East Region,Garu Tempane,Denugu,GOG-UNICEF,Tondankwan,423,36,36,0
+154,Upper East Region,Garu Tempane,Denugu,GOG-UNICEF,Tubong,569,62,62,36
+155,Upper East Region,Garu Tempane,Kugri,GOG-UNICEF,Atamodabod,253,57,4,0
+156,Upper East Region,Garu Tempane,Kugri,GOG-UNICEF,Atampuudabod,206,21,21,21
+157,Upper East Region,Garu Tempane,Kugri,GOG-UNICEF,Gbangranteng,223,20,20,20
+158,Upper East Region,Garu Tempane,Kugri,GOG-UNICEF,Getuasig,547,68,68,68
+159,Upper East Region,Garu Tempane,Kugri,GOG-UNICEF,Kpatua 1,279,26,26,26
+160,Upper East Region,Garu Tempane,Kugri,GOG-UNICEF,Malgaboug,215,42,42,42
+161,Upper East Region,Garu Tempane,Kugri,GOG-UNICEF,Nate,220,49,49,49
+162,Upper East Region,Garu Tempane,Kugri,GOG-UNICEF,Sinyua,299,40,40,40
+163,Upper East Region,Garu Tempane,Denugu,GOG-UNICEF,Siisi-Nadigri,405,60,60,60
+164,Upper East Region,Garu Tempane,Kugri,GOG-UNICEF,Tankpasi,993,72,72,72
+165,Upper East Region,Garu Tempane,Denugu,GOG-UNICEF,Siisi,531,60,60,60
+166,Upper East Region,Garu Tempane,Kugri,GOG-UNICEF,Waskukwa,270,54,54,54
+167,Upper East Region,Garu Tempane,Worikambo,GOG-UNICEF,Namore,374,NA,NA,NA
+168,Upper East Region,Garu Tempane,Worikambo,GOG-UNICEF,Zaazua,313,NA,NA,NA
+169,Upper East Region,Garu Tempane,Gagbiri,GOG-UNICEF,Kugaseigu,430,47,46,47
+170,Upper East Region,Garu Tempane,,GOG-UNICEF,Kariyata,NA,NA,NA,NA
+171,Upper East Region,Garu Tempane,Kugri,GOG-UNICEF,Pilogo-Malanten,300,34,34,34
+172,Upper East Region,Garu Tempane,,GOG-UNICEF,Tubong,569,62,62,62
+173,Upper East Region,Garu Tempane,,GOG-UNICEF,Siisi-Nadigri,405,60,60,60
+174,Upper East Region,Garu Tempane,,GOG-UNICEF,Gbangranteng,223,20,20,20
+175,Upper East Region,Garu Tempane,,GOG-UNICEF,Ankadiri,197,32,32,32
+176,Upper East Region,Garu Tempane,,GOG-UNICEF,Siisi,531,60,60,60
+177,Upper East Region,Garu Tempane,,GOG-UNICEF,Jankwan,279,37,37,37
+178,Upper East Region,Garu Tempane,Bugri,GOG-UNICEF,Sakpanateng,290,NA,NA,NA
+179,Upper East Region,Garu Tempane,Bugri,GOG-UNICEF,Zumandiga No.1,237,NA,NA,NA
+180,Upper East Region,Garu Tempane,Kugri,GOG-UNICEF,Gbetusig,547,NA,NA,NA
+181,Upper East Region,Garu Tempane,Kugri,GOG-UNICEF,Melgabod,215,NA,NA,NA
+182,Upper East Region,Garu Tempane,Kugri,GOG-UNICEF,Vambara,284,NA,NA,NA
+183,Upper East Region,Garu Tempane,Kugri,GOG-UNICEF,Ngmaadug,567,NA,NA,NA
+184,Upper East Region,Garu Tempane,,GOG-UNICEF,Zumadiga A,NA,NA,NA,NA
+185,Upper East Region,Garu Tempane,Denugu,GOG-UNICEF,Laarikwan,330,NA,NA,NA
+186,Upper East Region,Garu Tempane,Kpikpira,GOG-UNICEF,Tambona No. 1,324,25,23,NA
+187,Upper East Region,Garu Tempane,Kpikpira,GOG-UNICEF,Sukrokoun,125,14,14,NA
+188,Upper East Region,Garu Tempane,Bugri,GOG-UNICEF,Kukose,118,12,10,NA
+189,Upper East Region,Garu Tempane,Kugri,GOG-UNICEF,Tankpasi-Busanteng,231,12,11,NA
+190,Upper East Region,Garu Tempane,Garu,GOG-UNICEF,Benguri No.1,125,10,8,NA
+1,Upper West Region,Daffiama Bussie Iss,Issa,GOG-UNICEF,Vietor,110,9,8,8
+2,Upper West Region,Daffiama Bussie Iss,Issa,GOG-UNICEF,Sazie,669,68,62,62
+3,Upper West Region,Daffiama Bussie Iss,Issa,GOG-UNICEF,Samanbo,589,38,34,38
+4,Upper West Region,Daffiama Bussie Iss,Issa,GOG-UNICEF,Bulbaa,203,31,30,30
+5,Upper West Region,Daffiama Bussie Iss,Issa,GOG-UNICEF,Suluguo,213,32,32,30
+6,Upper West Region,Daffiama Bussie Iss,Daffiama,GOG-UNICEF,Dakyenaayiri,162,16,16,15
+7,Upper West Region,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Nyori,408,21,20,20
+8,Upper West Region,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Pulbaah,528,51,46,45
+9,Upper West Region,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Kandayiri,29,10,9,9
+10,Upper West Region,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Salee,522,110,46,44
+11,Upper West Region,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Kamahegu,597,39,39,39
+12,Upper West Region,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Buoyiri,479,52,44,50
+13,Upper West Region,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Chebaa,278,41,38,41
+14,Upper West Region,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Dagubaa,218,58,41,53
+15,Upper West Region,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Moyiri,149,14,12,14
+16,Upper West Region,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Tangazu,60,22,17,22
+17,Upper West Region,Daffiama Bussie Iss,Daffiama,GOG-UNICEF,Balirgbee,151,20,19,18
+18,Upper West Region,Daffiama Bussie Iss,Daffiama,GOG-UNICEF,Dakpaa,539,73,38,38
+19,Upper West Region,Daffiama Bussie Iss,Daffiama,GOG-UNICEF,Kanni,268,30,30,30
+20,Upper West Region,Daffiama Bussie Iss,Daffiama,GOG-UNICEF,Toyenpari,158,16,16,13
+21,Upper West Region,Daffiama Bussie Iss,Daffiama,GOG-UNICEF,Worbare,312,33,31,30
+22,Upper West Region,Daffiama Bussie Iss,Issa,GOG-UNICEF,Jempensi,427,22,21,0
+23,Upper West Region,Daffiama Bussie Iss,Issa,GOG-UNICEF,Jempensi,138,16,16,20
+24,Upper West Region,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Jempensi,602,42,42,0
+25,Upper West Region,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Jempensi,97,11,10,0
+26,Upper West Region,Daffiama Bussie Iss,Bussie,GOG-UNICEF,Jempensi,104,13,12,0
+27,Upper West Region,Daffiama Bussie Iss,DAFFIAMA,GOG-UNICEF,DAKYIE,175,21,21,32
+28,Upper West Region,Daffiama Bussie Iss,DAFFIAMA,GOG-UNICEF,WUCHE,82,10,10,10
+29,Upper West Region,Daffiama Bussie Iss,DAFFIAMA,GOG-UNICEF,TUOLADENGYIRI,71,8,8,8
+30,Upper West Region,Daffiama Bussie Iss,BUSSIE,GOG-UNICEF,ZINGBERIDIRI,79,10,10,10
+31,Upper West Region,Daffiama Bussie Iss,ISSA,GOG-UNICEF,SABOGU,126,18,18,28
+32,Upper West Region,Daffiama Bussie Iss,ISSA,GOG-UNICEF,CHALLA,384,60,49,30
+33,Upper West Region,Daffiama Bussie Iss,ISSA,GOG-UNICEF,DAGONGA,96,12,12,12
+34,Upper West Region,Daffiama Bussie Iss,ISSA,GOG-UNICEF,KENKELE,364,28,28,52
+35,Upper West Region,Daffiama Bussie Iss,ISSA,GOG-UNICEF,BANOUYIRI,238,34,34,34
+36,Upper West Region,Daffiama Bussie Iss,,GOG-UNICEF,Tozie,35,7,7,14
+37,Upper West Region,Daffiama Bussie Iss,ISSA,GOG-UNICEF,Lambure,NA,40,39,39
+38,Upper West Region,Jirapa,Tuggo,GOG-UNICEF,Orifani,771,28,24,22
+39,Upper West Region,Jirapa,Tuggo,GOG-UNICEF,Tuoluong,1596,87,48,30
+40,Upper West Region,Jirapa,Tizza,GOG-UNICEF,Naibong,338,26,24,5
+41,Upper West Region,Jirapa,Duori,GOG-UNICEF,Duori-Guri (Guri),128,17,15,6
+42,Upper West Region,Jirapa,Tuggo,GOG-UNICEF,Gbertuori,343,25,24,8
+43,Upper West Region,Jirapa,Sabuli,GOG-UNICEF,Balantaa,300,29,25,12
+44,Upper West Region,Jirapa,Hain,GOG-UNICEF,Puokangbo,131,16,12,10
+45,Upper West Region,Jirapa,Sabuli,GOG-UNICEF,Somboro,264,44,25,20
+46,Upper West Region,Lawra,Lawra,GOG-UNICEF,Bagri,1850,120,103,45
+47,Upper West Region,Lawra,Lawra,GOG-UNICEF,Dikpe,344,91,78,18
+48,Upper West Region,Lawra,Lawra,GOG-UNICEF,Kalsegra,524,84,71,55
+49,Upper West Region,Lawra,Babile,GOG-UNICEF,Tanchera,253,43,35,22
+50,Upper West Region,Lawra,Babile,GOG-UNICEF,Birifoh-char,338,76,68,52
+51,Upper West Region,Nadowli Kaleo,Takpo,GOG-UNICEF,Zupiiri,382,33,9,10
+52,Upper West Region,Nadowli Kaleo,Takpo,GOG-UNICEF,Siiru,243,31,29,26
+53,Upper West Region,Nadowli Kaleo,Charikpong,GOG-UNICEF,Baase,500,29,27,25
+54,Upper West Region,Nadowli Kaleo,Takpo,GOG-UNICEF,Gudouri,175,10,10,10
+55,Upper West Region,Nadowli Kaleo,Takpo,GOG-UNICEF,Meguo,452,15,15,11
+56,Upper West Region,Nadowli Kaleo,Takpo,GOG-UNICEF,Mantari,154,28,32,28
+57,Upper West Region,Nadowli Kaleo,Nadowli,GOG-UNICEF,Naribu,191,25,23,10
+58,Upper West Region,Nadowli Kaleo,Charikpong,GOG-UNICEF,Yaali,766,21,18,14
+59,Upper West Region,Nadowli Kaleo,Charikpong,GOG-UNICEF,Sabaala Yeruu,349,23,19,12
+60,Upper West Region,Nadowli Kaleo,Charikpong,GOG-UNICEF,Lutangu,104,20,16,10
+61,Upper West Region,Nadowli Kaleo,Charikpong,GOG-UNICEF,Biire,250,35,35,0
+62,Upper West Region,Nadowli Kaleo,Charikpong,GOG-UNICEF,Charisombo,993,55,55,70
+63,Upper West Region,Nadowli Kaleo,Charikpong,GOG-UNICEF,Dassiga,80,7,7,6
+64,Upper West Region,Nadowli Kaleo,Charikpong,GOG-UNICEF,Musama,189,11,11,9
+65,Upper West Region,Nadowli Kaleo,Kaleo,GOG-UNICEF,Paali,119,10,10,20
+66,Upper West Region,Nadowli Kaleo,Nadowli,GOG-UNICEF,Diboro,235,20,20,17
+67,Upper West Region,Nadowli Kaleo,Nadowli,GOG-UNICEF,Duuronpari,78,10,10,10
+68,Upper West Region,Nadowli Kaleo,Nadowli,GOG-UNICEF,Gbogyiri,178,9,10,9
+69,Upper West Region,Nadowli Kaleo,Nadowli,GOG-UNICEF,Gonpare,66,7,9,9
+70,Upper West Region,Nadowli Kaleo,Nadowli,GOG-UNICEF,Kpateriyiri,100,11,11,10
+71,Upper West Region,Nadowli Kaleo,Nadowli,GOG-UNICEF,Kpazie Muolo,345,27,27,27
+72,Upper West Region,Nadowli Kaleo,Nadowli,GOG-UNICEF,Kuntaali,550,46,46,46
+73,Upper West Region,Nadowli Kaleo,Nadowli,GOG-UNICEF,Mojan,185,21,21,15
+74,Upper West Region,Nadowli Kaleo,Nadowli,GOG-UNICEF,Sigidouri,72,9,10,10
+75,Upper West Region,Nadowli Kaleo,Nadowli,GOG-UNICEF,Toyaga,360,37,30,40
+76,Upper West Region,Nadowli Kaleo,Nadowli,GOG-UNICEF,Zongo,148,8,9,12
+77,Upper West Region,Nadowli Kaleo,Sombo,GOG-UNICEF,Guure,456,33,33,25
+78,Upper West Region,Nadowli Kaleo,Takpo,GOG-UNICEF,Botile,42,9,9,1
+79,Upper West Region,Nadowli Kaleo,Sombo,GOG-UNICEF,Donjan,98,14,14,15
+80,Upper West Region,Nadowli Kaleo,Bussie,GOG-UNICEF,Gbierung,328,32,31,20
+81,Upper West Region,Nadowli Kaleo,Nadowli,GOG-UNICEF,Kankanzie,92,13,13,10
+82,Upper West Region,Nadowli Kaleo,Charikpong,GOG-UNICEF,Baadabuo,495,26,26,32
+83,Upper West Region,Nadowli Kaleo,Nadowli,GOG-UNICEF,Piirung-Yiri,93,13,15,21
+84,Upper West Region,Nadowli Kaleo,Nadowli,GOG-UNICEF,Kpazie-Takpo,169,13,13,7
+85,Upper West Region,Nandom,Baseble,GOG-UNICEF,Venne,58,6,5,8
+86,Upper West Region,Nandom,Baseble,GOG-UNICEF,Sonner,296,57,52,30
+87,Upper West Region,Nandom,Puffien,GOG-UNICEF,Guri,357,51,50,32
+88,Upper West Region,Nandom,Puffien,GOG-UNICEF,Tantuo,530,62,67,26
+89,Upper West Region,Nandom,Puffien,GOG-UNICEF,Ketuo,957,72,62,46
+90,Upper West Region,Nandom,Puffien,GOG-UNICEF,Dagbateng,654,56,69,38
+91,Upper West Region,Nandom,Nandom,GOG-UNICEF,Na-Imwine,238,19,18,18
+92,Upper West Region,Nandom,Nandom,GOG-UNICEF,Nabugagn,596,106,100,45
+93,Upper West Region,Sissala West,Fielmua,GOG-UNICEF,Chetu,485,84,32,32
+94,Upper West Region,Sissala West,Fielmua,GOG-UNICEF,Foliteng,419,23,20,18
+95,Upper West Region,Sissala West,Gwollu,GOG-UNICEF,Kunni,113,12,20,15
+96,Upper West Region,Sissala West,Pulima,GOG-UNICEF,Kandia,668,46,23,20
+97,Upper West Region,Sissala West,Pulma,GOG-UNICEF,Limmiere,48,12,15,10
+98,Upper West Region,Sissala West,Zini,GOG-UNICEF,Du West,208,35,15,12
+99,Upper West Region,Sissala West,Zini,GOG-UNICEF,Sangbaga 1&2,386,26,28,26
+100,Upper West Region,Sissala West,Gwollu,GOG-UNICEF,Dajan,75,13,10,5
+101,Upper West Region,Sissala West,Gwollu,GOG-UNICEF,Gbal,720,26,30,15
+102,Upper West Region,Sissala West,Zini,GOG-UNICEF,Dakuma,729,78,12,12
+103,Upper West Region,Sissala West,Zini,GOG-UNICEF,Fatchu,1022,113,30,25
+104,Upper West Region,Sissala West,Zini,GOG-UNICEF,Hiel,504,32,23,20
+105,Upper West Region,Sissala West,Zini,GOG-UNICEF,Nyentie,660,99,33,30
+106,Upper West Region,Sissala West,Zini,GOG-UNICEF,Nyeviel,407,33,25,20
+107,Upper West Region,Sissala West,Gwollu,GOG-UNICEF,Kwala,720,78,28,20
+108,Upper West Region,Sissala West,Zini,GOG-UNICEF,Lulo,192,48,20,12
+109,Upper West Region,Sissala West,Fielmua,GOG-UNICEF,Mosiire,45,6,1,6
+110,Upper West Region,Sissala West,Zini,GOG-UNICEF,Lierom Buo,518,35,29,10
+111,Upper West Region,Sissala West,Zini,GOG-UNICEF,Pipelime,320,122,21,18
+112,Upper West Region,Wa East,Funsi,GOG-UNICEF,Yayonyiri,573,115,42,30
+113,Upper West Region,Wa East,Bulenga,GOG-UNICEF,Sahe,213,48,15,12
+114,Upper West Region,Wa East,Bulenga,GOG-UNICEF,Goh,389,98,25,25
+115,Upper West Region,Wa East,Bulenga,GOG-UNICEF,Kakalapuo,165,27,26,25
+116,Upper West Region,Wa East,Bulenga,GOG-UNICEF,Viaha,426,37,25,19
+117,Upper West Region,Wa East,Funsi,GOG-UNICEF,Sawuobe,347,147,27,16
+118,Upper West Region,Wa East,Bulenga,GOG-UNICEF,Bilin-Un,130,15,23,15
+119,Upper West Region,Wa East,Funsi,GOG-UNICEF,Jellu,126,16,27,20
+120,Upper West Region,Wa East,Funsi,GOG-UNICEF,Manpie Yiri,108,12,11,11
+121,Upper West Region,Wa East,Funsi,GOG-UNICEF,Tambilipuo,248,31,42,20
+122,Upper West Region,Wa East,Bulenga,GOG-UNICEF,Bulezu,224,21,10,NA
+123,Upper West Region,Wa East,Bulenga,GOG-UNICEF,Gohpaani,35,7,5,NA
+124,Upper West Region,Wa East,Funsi,GOG-UNICEF,Morni Yiri,31,15,13,NA
+125,Upper West Region,Wa East,Funsi,GOG-UNICEF,Nafuriyiri,131,15,13,NA
+126,Upper West Region,Wa East,Funsi,GOG-UNICEF,Sampuoyrir,210,41,23,NA
+127,Upper West Region,Wa East,Funsi,GOG-UNICEF,Zang-Kura,311,58,40,30
+128,Upper West Region,Wa East,Funsi,GOG-UNICEF,Zinye,499,30,19,NA
+129,Upper West Region,Wa East,Funsi,GOG-UNICEF,Zinye Kunasiyiri,35,6,5,NA
+130,Upper West Region,Wa East,,GOG-UNICEF,Bule No. 2,341,26,22,22
+131,Upper West Region,Wa West,Dorimon,GOG-UNICEF,Jambusi,456,53,53,45
+132,Upper West Region,Wa West,Dorimon,GOG-UNICEF,Mwabasi,730,61,60,50
+133,Upper West Region,Wa West,Dorimon,GOG-UNICEF,Gongoglo,264,27,35,20
+134,Upper West Region,Wa West,Dorimon,GOG-UNICEF,Cheatanga,309,31,34,25
+135,Upper West Region,Wa West,Ga,GOG-UNICEF,Bawa,835,59,54,35
+136,Upper West Region,Wa West,Veri,GOG-UNICEF,Ladaateng,306,55,54,35
+137,Upper West Region,Wa West,Dorimon,GOG-UNICEF,Nurikuteng,475,88,82,42
+138,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Kpenateng,900,84,81,92
+139,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Tanziri,94,34,31,25
+140,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Dakari,166,25,33,25
+141,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Dapilayiri,303,61,61,46
+142,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Mwinberateng,116,14,14,12
+143,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Motori,1649,68,60,45
+144,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Tame,36,5,4,4
+145,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Metti,844,82,77,56
+146,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Gurungu,1159,148,125,45
+147,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Tawoncheli No. 2,423,43,43,43
+148,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Solekura,112,9,9,NA
+149,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Jagluu,622,73,68,61
+150,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Yorbokura,395,38,38,NA
+151,Upper West Region,Wa West,Wechiau,GOG-UNICEF,Saaru,200,22,22,NA
+152,Upper West Region,Wa West,Dorimon,GOG-UNICEF,Kolungu,300,47,27,5
+153,Upper West Region,Wa West,Dorimon,GOG-UNICEF,Dole,237,28,27,27
+154,Upper West Region,Wa West,Dorimon,GOG-UNICEF,Guomaali,203,27,26,23
+155,Upper West Region,Wa West,Dorimon,GOG-UNICEF,Tamaara,128,20,22,22
+156,Upper West Region,Wa West,Dorimon,GOG-UNICEF,Zogli,120,15,17,9
+157,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Anyourakura,388,42,42,50
+158,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Ba-Orjon,202,34,31,10
+159,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Batonuriyiri,505,44,44,3
+160,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Dakaarayiri,111,7,13,13
+161,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Kapilayiri,96,10,9,3
+162,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Nuobakiyereyiri,91,36,36,42
+163,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Tawoncheli No. 1,478,56,54,60
+164,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Tie-Yiri,154,15,15,9
+165,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Yasoyiri,203,34,34,34
+166,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Yuonuuri,970,144,122,60
+167,Upper West Region,Wa West,Dorimon,GOG-UNICEF,Kogle,159,31,23,31
+168,Upper West Region,Wa West,Ga,GOG-UNICEF,Gadi,150,NA,NA,NA
+169,Upper West Region,Wa West,Ga,GOG-UNICEF,Pituo,60,NA,NA,NA
+170,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Gbaalwob,807,74,61,59
+171,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Jorkpetey-Yiri,198,12,12,12
+172,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Solinbo,276,NA,NA,NA
+173,Upper West Region,Wa West,Vieri,GOG-UNICEF,Pigbengben,193,NA,NA,NA
+174,Upper West Region,Wa West,Wechau,GOG-UNICEF,Dochera,145,NA,NA,NA
+175,Upper West Region,Wa West,Wechau,GOG-UNICEF,Dompie,128,13,13,2
+176,Upper West Region,Wa West,,GOG-UNICEF,Junuokura,204,NA,NA,NA
+177,Upper West Region,Wa West,,GOG-UNICEF,Konduoni,188,NA,NA,NA
+178,Upper West Region,Wa West,,GOG-UNICEF,Siala,156,NA,NA,NA
+179,Upper West Region,Wa West,Wechiau,GOG-UNICEF,Bienye,535,67,63,50
+180,Upper West Region,Wa West,Dorimon,GOG-UNICEF,Dassaayiri,33,NA,3,3
+181,Upper West Region,Wa West,Dorimon,GOG-UNICEF,Kukpali,530,20,10,5
+182,Upper West Region,Wa West,Dorimon,GOG-UNICEF,Mwantanga,225,NA,24,24
+183,Upper West Region,Wa West,Ga,GOG-UNICEF,Daribateng,208,34,45,45
+184,Upper West Region,Wa West,Ga,GOG-UNICEF,Dolinguo,205,22,37,28
+185,Upper West Region,Wa West,Ga,GOG-UNICEF,Maanyeyiri,263,26,27,26
+186,Upper West Region,Wa West,Ga,GOG-UNICEF,Nakor,363,NA,38,37
+187,Upper West Region,Wa West,Ga,GOG-UNICEF,Olloteng,321,NA,30,30
+188,Upper West Region,Wa West,Ga,GOG-UNICEF,Simpuoyiri,157,20,19,19
+189,Upper West Region,Wa West,Ga,GOG-UNICEF,Sanuori,264,29,43,37
+190,Upper West Region,Wa West,Ga,GOG-UNICEF,Sooereyiri,195,14,17,17
+191,Upper West Region,Wa West,Ga,GOG-UNICEF,Tambile,245,26,33,25
+192,Upper West Region,Wa West,Ga,GOG-UNICEF,Wechiaubor,516,64,63,25
+193,Upper West Region,Wa West,Ga,GOG-UNICEF,Wekaba,307,NA,34,34
+194,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Dagmaayiri,108,25,21,0
+195,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Mgmemberayiri,101,NA,10,0
+196,Upper West Region,Wa West,Gurungu,GOG-UNICEF,Nakaarayiri,207,NA,18,11
+197,Upper West Region,Wa West,Vieri,GOG-UNICEF,Bakurateng,173,NA,18,18
+198,Upper West Region,Wa West,Vieri,GOG-UNICEF,Daboziiri,115,NA,19,19
+199,Upper West Region,Wa West,Vieri,GOG-UNICEF,Donko,370,29,30,15
+200,Upper West Region,Wa West,Vieri,GOG-UNICEF,Kapuu,108,10,10,10
+201,Upper West Region,Wa West,Vieri,GOG-UNICEF,Kuunyenteng,120,NA,10,10
+202,Upper West Region,Wa West,Vieri,GOG-UNICEF,Lassiabile,109,NA,8,8
+203,Upper West Region,Wa West,Vieri,GOG-UNICEF,Mepkaa,351,20,38,20
+204,Upper West Region,Wa West,Vieri,GOG-UNICEF,Piiriteng,119,14,27,5
+205,Upper West Region,Wa West,Wechiau,GOG-UNICEF,Bunikye,234,22,21,22
+206,Upper West Region,Wa West,Wechiau,GOG-UNICEF,Daloyiri,86,14,12,4
+207,Upper West Region,Wa West,Wechiau,GOG-UNICEF,Damwateng,128,NA,20,9
+208,Upper West Region,Wa West,Wechiau,GOG-UNICEF,Dariyiri,138,12,14,1
+209,Upper West Region,Wa West,Wechiau,GOG-UNICEF,Jelleriyiri,254,NA,25,23
+210,Upper West Region,Wa West,Wechiau,GOG-UNICEF,Mekpa,51,7,6,3
+211,Upper West Region,Wa West,Wechiau,GOG-UNICEF,Tagdo,74,NA,12,12
+212,Upper West Region,Wa West,Ga,GOG-UNICEF,Weleyiri,247,21,18,4
+213,Upper West Region,Wa West,Wechiau,GOG-UNICEF,Mwalayiri,105,10,10,5
+214,Upper West Region,Wa West,,GOG-UNICEF,Balisery,94,37,32,30
+215,Upper West Region,Wa West,Dorimon,GOG-UNICEF,Gbongo,NA,31,29,27
+216,Upper West Region,Lambussie Karni,Karni,GOG-UNICEF,Laabilziri,275,19,18,18
+217,Upper West Region,Lambussie Karni,Lambusie,GOG-UNICEF,Kelfinsi,240,30,27,25
+218,Upper West Region,Lambussie Karni,Lambusie,GOG-UNICEF,Kokoligu,291,27,25,20
+219,Upper West Region,Lambussie Karni,Samoa,GOG-UNICEF,Dindee,755,49,40,38
+220,Upper West Region,Lambussie Karni,Samoa,GOG-UNICEF,Kontawii,214,18,15,16
+221,Upper West Region,Lambussie Karni,Lambussie,GOG-UNICEF,Hachagangn,371,43,35,30
+222,Upper West Region,Lambussie Karni,Samoa,GOG-UNICEF,Bognuo,882,82,81,62
+223,Upper West Region,Lambussie Karni,Samoa,GOG-UNICEF,Konsi,410,65,54,32
+224,Upper West Region,Lambussie Karni,Hamile,GOG-UNICEF,Duragan,340,23,20,18
+225,Upper West Region,Lambussie Karni,Hamile,GOG-UNICEF,Kpanagan,234,24,20,15
+226,Upper West Region,Lambussie Karni,Lambussie,GOG-UNICEF,Nyubule,280,20,18,18
+227,Upper West Region,Lambussie Karni,Samoa,GOG-UNICEF,Hineteng,695,81,68,71
+228,Upper West Region,Lambussie Karni,Hamile,GOG-UNICEF,Chetu,360,39,36,35
+229,Upper West Region,Lambussie Karni,Karni,GOG-UNICEF,Girigan,493,32,29,29
+230,Upper West Region,Lambussie Karni,Lambussie,GOG-UNICEF,Kelegan,717,63,52,52
+231,Upper West Region,Lambussie Karni,Lambussie,GOG-UNICEF,Tubergan,390,44,36,35
+232,Upper West Region,Lambussie Karni,Lambussie,GOG-UNICEF,Nyangor,113,11,9,12
+1,Northern Region,Bole,Mankuma,Global Communities,Aberewanko,249,34,37,36
+2,Northern Region,Bole,Bamboi,Global Communities,Agric Nkwanta,65,10,10,10
+3,Northern Region,Bole,Mankuma,Global Communities,Alkuyiri,47,5,7,7
+4,Northern Region,Bole,Bamboi,Global Communities,Bampewa,73,12,11,10
+5,Northern Region,Bole,Mankuma,Global Communities,Bavine-kura,85,4,4,4
+6,Northern Region,Bole,Mankuma,Global Communities,Bodi,337,47,36,13
+7,Northern Region,Bole,Mandari,Global Communities,Chencheri,547,47,65,46
+8,Northern Region,Bole,Tinga,Global Communities,Daauri (Yaro Kura),53,5,10,10
+9,Northern Region,Bole,Mankuma,Global Communities,Daboyiri #1,160,14,17,17
+10,Northern Region,Bole,Mankuma,Global Communities,Daboyiri #2,297,20,22,20
+11,Northern Region,Bole,Mandari,Global Communities,Daganaakura,65,10,30,9
+12,Northern Region,Bole,Mankuma,Global Communities,Dekatama,197,26,26,26
+13,Northern Region,Bole,Mankuma,Global Communities,Deniyiri,207,20,21,21
+14,Northern Region,Bole,Mandari,Global Communities,Depate,205,8,5,5
+15,Northern Region,Bole,Mankuma,Global Communities,Diboyiri,203,16,14,14
+16,Northern Region,Bole,Mankuma,Global Communities,Gbampe,373,45,28,27
+17,Northern Region,Bole,Mankuma,Global Communities,Gbebri,232,22,30,NA
+18,Northern Region,Bole,Mandari,Global Communities,Goli,304,31,18,5
+19,Northern Region,Bole,Mankuma,Global Communities,Guamayiri,58,7,12,7
+20,Northern Region,Bole,Mankuma,Global Communities,Jesiryiri,82,8,10,10
+21,Northern Region,Bole,Bamboi,Global Communities,Kalefayiri,205,22,21,24
+22,Northern Region,Bole,Maluwe,Global Communities,Kamintayiri,97,12,14,14
+23,Northern Region,Bole,Maluwe,Global Communities,Kokoribanga,172,34,11,10
+24,Northern Region,Bole,Mankuma,Global Communities,Konjuma,509,44,32,20
+25,Northern Region,Bole,Mankuma,Global Communities,Koteiyiri,113,13,11,11
+26,Northern Region,Bole,Mankuma,Global Communities,Kpakuduri,64,11,11,11
+27,Northern Region,Bole,Mandari,Global Communities,Kwamekura,22,5,3,3
+28,Northern Region,Bole,Mankuma,Global Communities,Laaryouryiri,116,10,10,10
+29,Northern Region,Bole,Mandari,Global Communities,Mamadukura,102,13,15,15
+30,Northern Region,Bole,Mankuma,Global Communities,Nokoryiri,218,25,43,34
+31,Northern Region,Bole,Maluwe,Global Communities,Sakpa Dosenteyiri,219,25,23,23
+32,Northern Region,Bole,Mankuma,Global Communities,Sumayiri/Simariyiri,201,22,16,15
+33,Northern Region,Bole,Mandari,Global Communities,Tampurikura,78,9,18,18
+34,Northern Region,Bole,Maluwe,Global Communities,Tanyekura/Tanlekura,50,26,21,8
+35,Northern Region,Bole,Mandari,Global Communities,Tinbuyiri,166,26,17,2
+36,Northern Region,Bole,Bole,Global Communities,Wawabile,256,31,27,12
+37,Northern Region,Bole,Mankuma,Global Communities,Yiribonyiri,220,10,12,12
+38,Northern Region,Bunkpurugu,Binde,GOG-UNICEF,Binkura,460,30,28,15
+39,Northern Region,Bunkpurugu,Nakpanduri,GOG-UNICEF,Boaterigu,1067,99,99,67
+40,Northern Region,Bunkpurugu,bunkprugu,GOG-UNICEF,Jilig,316,86,71,71
+41,Northern Region,Bunkpurugu,Binde,GOG-UNICEF,kparisok,250,46,46,34
+42,Northern Region,Bunkpurugu,Binde,GOG-UNICEF,Kunkwadaan,147,49,48,48
+43,Northern Region,Bunkpurugu,Binde,GOG-UNICEF,Kwanwakit,700,69,68,60
+44,Northern Region,Bunkpurugu,Yunyoo,GOG-UNICEF,Mozio,555,54,50,47
+45,Northern Region,Bunkpurugu,Nakpanduri,GOG-UNICEF,Naabiteng,220,34,34,34
+46,Northern Region,Bunkpurugu,Nakpanduri,GOG-UNICEF,Nakpanduri Kpemale,8040,987,138,3
+47,Northern Region,Bunkpurugu,Yunyoo,GOG-UNICEF,Nangbam,522,74,72,70
+48,Northern Region,Bunkpurugu,Bunkprugu,GOG-UNICEF,Pagnatik,2060,185,174,174
+49,Northern Region,Bunkpurugu,Bunkprugu,GOG-UNICEF,Tatara No.1,463,62,58,58
+50,Northern Region,Bunkpurugu,Bunkprugu,GOG-UNICEF,Tatara No.2,88,84,84,84
+51,Northern Region,Bunkpurugu,Binde,GOG-UNICEF,Tinpaat,163,23,22,18
+52,Northern Region,Bunkpurugu,Binde,GOG-UNICEF,Toomoni,667,75,70,70
+53,Northern Region,Bunkpurugu,Yunyoo,GOG-UNICEF,Tuna,653,71,70,68
+54,Northern Region,Bunkpurugu,Bimbagu,GOG-UNICEF,Tusuk,755,114,103,99
+55,Northern Region,Central Gonja,,PRE.WATER,Adupe,503,69,42,51
+56,Northern Region,Central Gonja,,PRE.WATER,Diwaripe,961,82,30,34
+57,Northern Region,Central Gonja,Buipe,RING,Kabilpe,429,36,36,28
+58,Northern Region,Central Gonja,Buipe,RING,Ligbnkura,211,20,20,20
+59,Northern Region,Central Gonja,,RING,Nayime-kura,91,9,9,9
+60,Northern Region,Central Gonja,Yapei,RING,Nyawuguripe,184,19,18,18
+61,Northern Region,Central Gonja,,RING,Old Buipe,241,16,15,15
+62,Northern Region,Central Gonja,,RING,Sawaba No. 2,289,13,12,12
+63,Northern Region,Central Gonja,Tulu,SPRING,Abualirma,251,45,45,45
+64,Northern Region,Central Gonja,Kusangu,SPRING,Dekolpe,119,9,10,10
+65,Northern Region,Central Gonja,Kusangu,SPRING,Jangbarigupe,211,20,20,34
+66,Northern Region,Central Gonja,Yapei,SPRING,Jewunayili,317,12,12,12
+67,Northern Region,Central Gonja,Kusangu,SPRING,Kalinka,432,35,51,51
+68,Northern Region,Central Gonja,Buipe,SPRING,Kambonaa Kura No.1,56,5,5,5
+69,Northern Region,Central Gonja,Mpaha,SPRING,Kamonaa Kuraa No.2,182,10,11,12
+70,Northern Region,Central Gonja,Kusangu,SPRING,Kurubangpe,165,13,13,12
+71,Northern Region,Central Gonja,Kusangu,SPRING,Larigbani,204,22,24,24
+72,Northern Region,Central Gonja,Yapei,SPRING,Mahamudupe,306,22,22,21
+73,Northern Region,Central Gonja,Mpaha,SPRING,Mile 40,240,10,10,10
+74,Northern Region,Central Gonja,Mpaha,SPRING,Sarikye Kura,107,13,13,13
+75,Northern Region,Central Gonja,Kusangu,SPRING,Wanbong Siliboma,173,16,16,15
+76,Northern Region,Central Gonja,Yapei,SPRING,Yapei-Silimbom,39,7,7,7
+77,Northern Region,Central Gonja,Kusangu,SPRING,Zomlape,400,20,20,20
+78,Northern Region,Central Gonja,,GOG-UNICEF,Agege,214,25,13,13
+79,Northern Region,Central Gonja,,GOG-UNICEF,Bonyyanmu,553,66,38,36
+80,Northern Region,Central Gonja,,GOG-UNICEF,Bouboukusu No.1,NA,NA,NA,NA
+81,Northern Region,Central Gonja,,GOG-UNICEF,Debre Port,219,22,11,11
+82,Northern Region,Central Gonja,,GOG-UNICEF,Katanga,113,11,11,11
+83,Northern Region,Central Gonja,,GOG-UNICEF,Kpogede,36,7,5,1
+84,Northern Region,Central Gonja,,GOG-UNICEF,No.6 Kojope,208,31,5,0
+85,Northern Region,Central Gonja,,GOG-UNICEF,Nyame Ndai/Avegomr,189,27,14,2
+86,Northern Region,Central Gonja,,GOG-UNICEF,Tsikonto,139,16,9,9
+87,Northern Region,Chereponi,Nansoni,RING,Akromabilla No.1,328,22,23,23
+88,Northern Region,Chereponi,Nansoni,RING,Akromabilla No.2,281,20,13,13
+89,Northern Region,Chereponi,,RING,Andonderenu,750,90,41,40
+90,Northern Region,Chereponi,,RING,Angor,670,36,36,36
+91,Northern Region,Chereponi,,RING,Bukasu,515,64,61,67
+92,Northern Region,Chereponi,,RING,Butom,181,20,7,7
+93,Northern Region,Chereponi,Nansoni,RING,Danado,432,14,14,14
+94,Northern Region,Chereponi,,RING,Eteli,450,31,35,35
+95,Northern Region,Chereponi,Nansoni,RING,Gbalo,638,106,42,46
+96,Northern Region,Chereponi,Tambong,RING,Gbong,247,20,11,12
+97,Northern Region,Chereponi,,RING,Goldcoast,212,12,8,8
+98,Northern Region,Chereponi,,RING,Jatobosu,6,6,6,6
+99,Northern Region,Chereponi,,RING,Kajura,200,12,8,8
+100,Northern Region,Chereponi,,RING,Konali,284,36,34,34
+101,Northern Region,Chereponi,,RING,Kpanaboong,160,15,16,16
+102,Northern Region,Chereponi,,RING,Kpanmaba,722,39,47,47
+103,Northern Region,Chereponi,Nansoni,RING,Kpenchi,351,34,27,27
+104,Northern Region,Chereponi,Nansoni,RING,Kpenchinaboli,130,20,7,7
+105,Northern Region,Chereponi,,RING,Kukpoli,133,16,12,12
+106,Northern Region,Chereponi,Tanbong,RING,Mabambor,103,8,8,8
+107,Northern Region,Chereponi,Nansoni,RING,Magmea,68,7,7,7
+108,Northern Region,Chereponi,Wunjuga,RING,Moagnani,78,15,12,12
+109,Northern Region,Chereponi,Tanbong,RING,Nadungbal,135,16,13,13
+110,Northern Region,Chereponi,Tambong,RING,Najil,69,20,7,7
+111,Northern Region,Chereponi,Tambong,RING,Nayinting,374,20,15,15
+112,Northern Region,Chereponi,,RING,Ngbangbong,215,18,15,16
+113,Northern Region,Chereponi,Wenchiki,RING,N-Nanba,128,8,7,7
+114,Northern Region,Chereponi,,RING,Omati,265,14,13,13
+115,Northern Region,Chereponi,,RING,Pampali,61,8,6,7
+116,Northern Region,Chereponi,Wenchiki,RING,Sidoti,133,15,11,11
+117,Northern Region,Chereponi,,RING,Tosala chiringa,552,69,10,0
+118,Northern Region,Chereponi,,RING,Tosala kumboli,254,20,18,20
+119,Northern Region,Chereponi,,RING,Tubongu,208,20,18,20
+120,Northern Region,Chereponi,,RING,Waku,714,145,50,11
+121,Northern Region,Chereponi,Chereponi,RING,Yakpab,193,11,9,9
+122,Northern Region,Chereponi,,RING,Yorgu,376,72,51,49
+123,Northern Region,Chereponi,,SNV,Adali,250,29,27,20
+124,Northern Region,Chereponi,Wenchiki,SNV,Akuniyi,340,17,13,13
+125,Northern Region,Chereponi,,SNV,Awambosu,180,7,7,7
+126,Northern Region,Chereponi,Wonjuga,SNV,Dambu-lower,220,18,14,14
+127,Northern Region,Chereponi,Wenchiki,SNV,Goli,150,15,14,14
+128,Northern Region,Chereponi,Wenchiki,SNV,Kablani No.2,259,27,18,18
+129,Northern Region,Chereponi,,SNV,Naburinu,78,9,12,0
+130,Northern Region,Chereponi,Wenchiki,SNV,Najikong,210,20,19,19
+131,Northern Region,Chereponi,Wenchiki,SNV,Najiri,208,11,11,11
+132,Northern Region,Chereponi,Wonjuga,SNV,Nakpali,85,6,6,6
+133,Northern Region,Chereponi,Wenchiki,SNV,Nakpali Bosu,210,17,12,12
+134,Northern Region,Chereponi,Wenchiki,SNV,Namjorka,220,20,20,20
+135,Northern Region,Chereponi,Tombu,SNV,Sako,203,15,11,11
+136,Northern Region,Chereponi,Nansoni,SNV,Sunkpendi,190,11,11,11
+137,Northern Region,Chereponi,Wonjuga,GOG-UNICEF,Bukasu f/c,170,24,20,20
+138,Northern Region,Chereponi,Wonjuga,GOG-UNICEF,Bulasu,163,15,15,15
+139,Northern Region,Chereponi,Wenchiki,GOG-UNICEF,Cherekpuri (Cheregbeli),302,22,20,23
+140,Northern Region,Chereponi,Nansoni,GOG-UNICEF,Garinkuka Upper & lower,1223,143,140,0
+141,Northern Region,Chereponi,Nansoni,GOG-UNICEF,Jayangu,147,17,15,15
+142,Northern Region,Chereponi,Nansoni,GOG-UNICEF,Jayoni,611,56,51,51
+143,Northern Region,Chereponi,Nansoni,GOG-UNICEF,Jilima,639,64,60,60
+144,Northern Region,Chereponi,Wonjuga,GOG-UNICEF,Kpaboku,458,34,43,43
+145,Northern Region,Chereponi,Wonjuga,GOG-UNICEF,Kudani Bakanu,474,35,34,34
+146,Northern Region,Chereponi,Nansoni,GOG-UNICEF,Kunufo,190,19,17,17
+147,Northern Region,Chereponi,Wonjuga,GOG-UNICEF,Moagbani (Magbali),82,6,10,10
+148,Northern Region,Chereponi,Tambong,GOG-UNICEF,Nachem,874,143,137,137
+149,Northern Region,Chereponi,Nansoni,GOG-UNICEF,Nambor,86,8,8,10
+150,Northern Region,Chereponi,Nansoni,GOG-UNICEF,Nangbancheri,178,20,19,1
+151,Northern Region,Chereponi,Nansoni,GOG-UNICEF,Nansoni Upper & Lower,1819,213,176,176
+152,Northern Region,Chereponi,Chereponi,GOG-UNICEF,Tanja,215,21,18,18
+153,Northern Region,Chereponi,Tombu,GOG-UNICEF,Tichango,1128,119,117,45
+154,Northern Region,Chereponi,Wonjuga,GOG-UNICEF,Yorgu,376,47,47,47
+155,Northern Region,Damongo,Damango,RING,Asabora,84,20,15,20
+156,Northern Region,Damongo,Damango,RING,Congo,91,13,10,10
+157,Northern Region,Damongo,Damango,RING,Dakpala-kura,97,13,11,11
+158,Northern Region,Damongo,Damango,RING,Frafraline No 4,136,19,14,15
+159,Northern Region,Damongo,Busunu,RING,Zangikura,344,15,13,13
+160,Northern Region,Damongo,,World Vision,Abukari-kura,NA,NA,NA,NA
+161,Northern Region,Damongo,,World Vision,Bombomto,NA,NA,NA,NA
+162,Northern Region,Damongo,,World Vision,Jnokponto,NA,NA,NA,NA
+163,Northern Region,Damongo,,World Vision,Nabori,NA,NA,NA,NA
+164,Northern Region,East Gonja,,RING,Jaffor,122,10,10,10
+165,Northern Region,East Gonja,,RING,Kpalang,37,12,12,12
+166,Northern Region,East Gonja,Kpariba,SNV,Dakpemyili,142,31,31,31
+167,Northern Region,East Gonja,Salaga,SNV,Dogonkadi,76,12,12,12
+168,Northern Region,East Gonja,Salaga,SNV,Gurushie Zongo,590,55,55,55
+169,Northern Region,East Gonja,Salaga,SNV,Harunape,92,8,8,8
+170,Northern Region,East Gonja,Salaga,SNV,Jakpariba,87,19,18,18
+171,Northern Region,East Gonja,Kpariba,SNV,K. Kpalgini,101,29,24,29
+172,Northern Region,East Gonja,Kpariba,SNV,Kanjeyili,103,30,30,30
+173,Northern Region,East Gonja,Kpembe,SNV,Kobope,254,27,27,27
+174,Northern Region,East Gonja,Kpembe,SNV,Kojodo,525,45,45,45
+175,Northern Region,East Gonja,Mankango/k,SNV,Kokolombo,90,37,37,37
+176,Northern Region,East Gonja,Kpembe,SNV,Kunkou,68,25,25,25
+177,Northern Region,East Gonja,Kpariba,SNV,Kusini,561,95,95,95
+178,Northern Region,East Gonja,Kpembe,SNV,Mabung,85,19,19,19
+179,Northern Region,East Gonja,Kpembe,SNV,Muatundo No.1,77,27,27,27
+180,Northern Region,East Gonja,Kpembe,SNV,Nakpaye Gonja,210,16,16,16
+181,Northern Region,East Gonja,Kpariba,SNV,Nyamaliga,771,29,29,29
+182,Northern Region,East Gonja,Kpariba,SNV,Sakpalua,185,36,36,36
+183,Northern Region,East Gonja,Kpembe,SNV,Tanindo,57,15,15,15
+184,Northern Region,East Gonja,Kpariba,SNV,Tantuani,146,46,46,46
+185,Northern Region,East Gonja,Kpariba,SNV,Vogyili,125,30,30,30
+186,Northern Region,East Gonja,Kpembe,SNV,Wumbeido,94,10,10,10
+187,Northern Region,East Gonja,Mankango,SPRING,Awudjakope,500,68,34,34
+188,Northern Region,East Gonja,Kpariba,SPRING,Banvim,240,23,21,21
+189,Northern Region,East Gonja,Kpariba,SPRING,Chaani,225,22,22,22
+190,Northern Region,East Gonja,Kalaw,SPRING,Fabulous,83,8,8,8
+191,Northern Region,East Gonja,Kpembe,SPRING,Kamabue,441,51,51,51
+192,Northern Region,East Gonja,Kpembe,SPRING,Kpalo,226,33,33,33
+193,Northern Region,East Gonja,Kpariba,SPRING,Kpandu,450,33,31,28
+194,Northern Region,East Gonja,Kalaw,SPRING,Kwaku bontu,103,12,12,12
+195,Northern Region,East Gonja,Kalaw,SPRING,Mprobeto,850,30,30,30
+196,Northern Region,East Gonja,Kpembe,SPRING,Nikata,587,44,44,44
+197,Northern Region,East Gonja,Kalaw,SPRING,Pokidange,300,31,31,31
+198,Northern Region,East Gonja,Kalaw,SPRING,Trumi No 1,310,30,28,28
+199,Northern Region,East Gonja,Kulaw,GOG-UNICEF,Akamadi Dagaati,48,8,8,8
+200,Northern Region,East Gonja,Kulaw,GOG-UNICEF,Bunjari,51,6,6,10
+201,Northern Region,East Gonja,Kulaw,GOG-UNICEF,Bunyutoe,43,6,6,6
+202,Northern Region,East Gonja,Kulaw,GOG-UNICEF,Demah,34,4,4,10
+203,Northern Region,East Gonja,Kulaw,GOG-UNICEF,Nchama Bombo,120,17,10,10
+204,Northern Region,East Gonja,Kulaw,GOG-UNICEF,Tailor Kura,85,13,13,10
+205,Northern Region,East Mamprusi,,CRS,laatari,0,0,0,0
+206,Northern Region,East Mamprusi,,CRS,Langbina,646,50,50,45
+207,Northern Region,East Mamprusi,Gbintiri,RING,Adaribe,330,24,24,20
+208,Northern Region,East Mamprusi,Nalerigu,RING,Baaduri,446,34,32,34
+209,Northern Region,East Mamprusi,Sakogu,RING,Bangu,432,60,58,42
+210,Northern Region,East Mamprusi,Gbintiri,RING,Banjam kapinji,413,15,15,15
+211,Northern Region,East Mamprusi,Nalerigu,RING,Banjam Kuliguduni,439,17,17,17
+212,Northern Region,East Mamprusi,Nalerigu,RING,Banjim kuliganyaanga,111,10,10,10
+213,Northern Region,East Mamprusi,Nalerigu,RING,Barinya,32,3,3,3
+214,Northern Region,East Mamprusi,Gbintri,RING,Bilallugu,91,17,17,17
+215,Northern Region,East Mamprusi,Sakogu,RING,Bolgating,199,15,15,15
+216,Northern Region,East Mamprusi,Sakogu,RING,Bonbila,415,46,44,40
+217,Northern Region,East Mamprusi,Nalerigu,RING,Braimatinga,NA,9,9,9
+218,Northern Region,East Mamprusi,Gbintiri,RING,Diboni,554,45,43,45
+219,Northern Region,East Mamprusi,Sakogu,RING,Gazeretinga,150,14,14,14
+220,Northern Region,East Mamprusi,Gambaga,RING,Gballa,131,7,7,7
+221,Northern Region,East Mamprusi,Nalerigu,RING,Gbampaa,486,45,39,33
+222,Northern Region,East Mamprusi,Gbintiri,RING,Gbandabila,418,50,40,32
+223,Northern Region,East Mamprusi,Gbintiri,RING,Gbangdwa,516,53,29,29
+224,Northern Region,East Mamprusi,Sakogu,RING,Gurugu,150,14,14,14
+225,Northern Region,East Mamprusi,Sakogu,RING,Jasifor fong,106,11,11,11
+226,Northern Region,East Mamprusi,Gbintiri,RING,Kaaboari,216,20,20,20
+227,Northern Region,East Mamprusi,Gbintiri,RING,Katangbugri,131,15,15,15
+228,Northern Region,East Mamprusi,Gbintri,RING,Kpalgu,350,31,31,31
+229,Northern Region,East Mamprusi,Sakogu,RING,Kpamali,236,13,13,13
+230,Northern Region,East Mamprusi,Gbintiri,RING,Kpangali,158,14,14,14
+231,Northern Region,East Mamprusi,Gbintiri,RING,Kpatinga,301,18,15,18
+232,Northern Region,East Mamprusi,Sakogu,RING,Kufori No. 1,354,33,29,29
+233,Northern Region,East Mamprusi,Gbintiri,RING,Kufori No. 2,181,10,11,14
+234,Northern Region,East Mamprusi,Sakogu,RING,Lanbangu fong,100,7,7,7
+235,Northern Region,East Mamprusi,Gbintiri,RING,Lebzinga,300,25,25,25
+236,Northern Region,East Mamprusi,Gbintiri,RING,Lumu,162,11,11,10
+237,Northern Region,East Mamprusi,Gbintiri,RING,Meimbena,412,29,27,29
+238,Northern Region,East Mamprusi,Gbintiri,RING,Mozio 1,220,24,24,24
+239,Northern Region,East Mamprusi,Gbintiri,RING,Mozio 2.,207,18,18,18
+240,Northern Region,East Mamprusi,Sakogu,RING,Nameboku-kura,337,23,23,23
+241,Northern Region,East Mamprusi,,RING,Nawuniyiri,66,5,5,5
+242,Northern Region,East Mamprusi,Sakogu,RING,Njeela fong,110,8,8,8
+243,Northern Region,East Mamprusi,Gbintrigu,RING,Poringon,230,21,21,21
+244,Northern Region,East Mamprusi,Nalerigu,RING,Tangbini,183,13,13,13
+245,Northern Region,East Mamprusi,Nalerigu,RING,Tintariga,852,38,36,36
+246,Northern Region,East Mamprusi,Sakogu,RING,Toak 1,473,30,30,30
+247,Northern Region,East Mamprusi,Sakogu,RING,Toak 2,102,12,12,12
+248,Northern Region,East Mamprusi,Nalerigu,RING,Tubzia,721,27,29,29
+249,Northern Region,East Mamprusi,Gbintiri,RING,Waburi,362,33,32,32
+250,Northern Region,East Mamprusi,Sakogu,RING,Wakuretinga,98,30,30,30
+251,Northern Region,East Mamprusi,Gbintri,RING,Wangai,364,30,30,30
+252,Northern Region,East Mamprusi,Nalerigu,RING,ZIkaya,412,29,27,29
+253,Northern Region,East Mamprusi,,SPRING,Banawa,71,5,5,5
+254,Northern Region,East Mamprusi,,SPRING,Binduri,374,44,44,44
+255,Northern Region,East Mamprusi,,SPRING,Bongni,559,57,57,57
+256,Northern Region,East Mamprusi,,SPRING,Dabari,450,32,30,30
+257,Northern Region,East Mamprusi,,SPRING,Kanchina,322,22,22,22
+258,Northern Region,East Mamprusi,,SPRING,Kpairi-Tinga,394,51,51,51
+259,Northern Region,East Mamprusi,,SPRING,Kukigbini,539,25,54,24
+260,Northern Region,East Mamprusi,,SPRING,Naani,316,28,28,28
+261,Northern Region,East Mamprusi,,SPRING,Namenboku,NA,120,100,90
+262,Northern Region,East Mamprusi,,SPRING,Tanbona,72,12,12,12
+263,Northern Region,East Mamprusi,,SPRING,Teanoba,NA,56,51,50
+264,Northern Region,East Mamprusi,,SPRING,Tinsungu,556,32,29,30
+265,Northern Region,East Mamprusi,,SPRING,Tuugbini,136,13,13,13
+266,Northern Region,East Mamprusi,,SPRING,Wunzugutinga,442,58,58,58
+267,Northern Region,East Mamprusi,,SPRING,Yankazia,550,56,54,54
+268,Northern Region,East Mamprusi,,SPRING,Yankazia 2,550,54,54,54
+269,Northern Region,East Mamprusi,Gbintiri,GOG-UNICEF,BOUNLABRI,188,16,15,16
+270,Northern Region,East Mamprusi,Nalerigu,GOG-UNICEF,DINTIGI,204,16,16,15
+271,Northern Region,East Mamprusi,Gbintiri,GOG-UNICEF,JIMBALI,201,13,13,12
+272,Northern Region,East Mamprusi,Nalerigu,GOG-UNICEF,KPUKPABOBGU,259,14,14,14
+273,Northern Region,East Mamprusi,Gbintiri,GOG-UNICEF,KWALIK,459,36,36,36
+274,Northern Region,East Mamprusi,Nalerigu,GOG-UNICEF,NAMORI,122,16,16,16
+275,Northern Region,East Mamprusi,Nalerigu,GOG-UNICEF,NORILOABI,150,9,9,9
+276,Northern Region,East Mamprusi,Langbinsi,GOG-UNICEF,POANAAYIRI,240,17,16,16
+277,Northern Region,East Mamprusi,Nalerigu,GOG-UNICEF,ZORIZUGU,93,5,5,4
+278,Northern Region,Gushegu,Nawuhugu,RING,Busum,105,10,10,10
+279,Northern Region,Gushegu,Nawuhugu,RING,Busum No. 1,236,21,21,17
+280,Northern Region,Gushegu,Nawuhugu,RING,Dinyobila,102,10,10,8
+281,Northern Region,Gushegu,Nawuhugu,RING,Dombeni No. 1,149,14,14,10
+282,Northern Region,Gushegu,Nawuhugu,RING,Dombeni No. 2,163,16,16,16
+283,Northern Region,Gushegu,Nawuhugu,RING,Fori,64,4,4,4
+284,Northern Region,Gushegu,,RING,Gban-gban Kurigu,77,19,12,12
+285,Northern Region,Gushegu,,RING,Gungori A,83,7,7,7
+286,Northern Region,Gushegu,Nawuhugu,RING,Jindigri,73,8,8,8
+287,Northern Region,Gushegu,Nawuhugu,RING,Junjuing No. 2,160,11,11,7
+288,Northern Region,Gushegu,,RING,Katinbuli,NA,NA,NA,NA
+289,Northern Region,Gushegu,Nabuli,RING,Kpandan No.2,236,34,23,17
+290,Northern Region,Gushegu,,RING,Kpangu,415,29,27,27
+291,Northern Region,Gushegu,,RING,Kpansug,NA,NA,NA,NA
+292,Northern Region,Gushegu,,RING,Kpe,NA,NA,NA,NA
+293,Northern Region,Gushegu,,RING,Kunkunjani,NA,NA,NA,NA
+294,Northern Region,Gushegu,,RING,Kutig-Tindon,11,19,9,7
+295,Northern Region,Gushegu,Nabuli,RING,Laagu,326,29,21,21
+296,Northern Region,Gushegu,Zanteli,RING,Lapelga,23,3,3,3
+297,Northern Region,Gushegu,Nawuhugu,RING,Lapeliga,63,5,4,4
+298,Northern Region,Gushegu,Zanteli,RING,Lapoya,93,9,9,9
+299,Northern Region,Gushegu,Nawuhugu,RING,Maabinbori,58,5,5,4
+300,Northern Region,Gushegu,,RING,Mabari,NA,NA,NA,NA
+301,Northern Region,Gushegu,Zanteli,RING,Mabombor,97,10,10,10
+302,Northern Region,Gushegu,,RING,Manchogu,NA,NA,NA,NA
+303,Northern Region,Gushegu,Nabolo,RING,Mangula No. 3,109,8,8,8
+304,Northern Region,Gushegu,Nabolo,RING,Mangula No. 4,121,13,13,13
+305,Northern Region,Gushegu,Nawuhugu,RING,Mbatinga,84,6,6,6
+306,Northern Region,Gushegu,Nawuhugu,RING,Naakpa,222,20,20,20
+307,Northern Region,Gushegu,Nabuli,RING,Nababli,282,37,17,15
+308,Northern Region,Gushegu,Nabolo,RING,Nabegu,81,4,4,4
+309,Northern Region,Gushegu,,RING,Nadugu No. 1,NA,NA,NA,NA
+310,Northern Region,Gushegu,,RING,Nadugu No. 2,NA,NA,NA,NA
+311,Northern Region,Gushegu,Nabolo,RING,Namgbamba,117,22,22,22
+312,Northern Region,Gushegu,Nawuhugu,RING,Nandeli,133,8,8,8
+313,Northern Region,Gushegu,Nabuli,RING,Nankari,141,12,12,12
+314,Northern Region,Gushegu,,RING,Nansown,254,29,18,12
+315,Northern Region,Gushegu,Nawuhugu,RING,Nayagli,64,9,9,9
+316,Northern Region,Gushegu,,RING,Nupo,NA,NA,NA,NA
+317,Northern Region,Gushegu,Nawuhugu,RING,Sabongida/Sabengri,55,5,5,5
+318,Northern Region,Gushegu,,RING,Sakpali,NA,NA,NA,NA
+319,Northern Region,Gushegu,Nawuhugu,RING,Salinwia,850,69,69,68
+320,Northern Region,Gushegu,Nabolo,RING,Sambaing No. 2,134,14,14,14
+321,Northern Region,Gushegu,,RING,Sambig,51,6,6,6
+322,Northern Region,Gushegu,,RING,Sanjal,73,11,8,6
+323,Northern Region,Gushegu,Zanteli,RING,Sogong,128,11,11,6
+324,Northern Region,Gushegu,Nawuhugu,RING,Surugu,85,7,7,7
+325,Northern Region,Gushegu,Nawuhugu,RING,Wakpang,79,13,14,8
+326,Northern Region,Gushegu,,RING,Wakpang No. 3,131,9,9,9
+327,Northern Region,Gushegu,Zanteli,RING,Wambanden,93,13,13,13
+328,Northern Region,Gushegu,Nawuhugu,RING,Yankazia,91,9,9,9
+329,Northern Region,Gushegu,Nawuhugu,RING,Zambobgu,30,3,3,3
+330,Northern Region,Gushegu,,SPRING,Aduyili,169,15,15,15
+331,Northern Region,Gushegu,,SPRING,Bakali,243,13,15,13
+332,Northern Region,Gushegu,,SPRING,Balankoni,130,12,12,17
+333,Northern Region,Gushegu,,SPRING,Dinyogu,320,28,37,37
+334,Northern Region,Gushegu,,SPRING,Jujuing No.1,111,12,16,12
+335,Northern Region,Gushegu,,SPRING,Kolig,530,32,38,38
+336,Northern Region,Gushegu,,SPRING,Kumob,334,24,24,24
+337,Northern Region,Gushegu,,SPRING,Nabenli,130,12,17,17
+338,Northern Region,Gushegu,,SPRING,Nabulugu,77,8,11,19
+339,Northern Region,Gushegu,,SPRING,Nagnani,152,12,12,12
+340,Northern Region,Gushegu,NA,SPRING,Namuntua,323,22,28,28
+341,Northern Region,Gushegu,NA,SPRING,Narjili,190,17,21,15
+342,Northern Region,Gushegu,,GOG-UNICEF,Bambuli No.1,64,9,9,9
+343,Northern Region,Gushegu,Bogu,GOG-UNICEF,Bogu-kambonayili,262,12,12,12
+344,Northern Region,Gushegu,Zanteli,GOG-UNICEF,Gbani No. 2,109,22,22,22
+345,Northern Region,Gushegu,Nawuhugu,GOG-UNICEF,Jagtindi,148,22,22,22
+346,Northern Region,Gushegu,,GOG-UNICEF,Jakpa,176,18,18,18
+347,Northern Region,Gushegu,Bogu,GOG-UNICEF,Jung,276,33,19,NA
+348,Northern Region,Gushegu,Bogu,GOG-UNICEF,Kore,130,10,8,NA
+349,Northern Region,Gushegu,Bogu,GOG-UNICEF,Kpamo,130,12,12,12
+350,Northern Region,Gushegu,Bogu,GOG-UNICEF,Kulibila,167,6,6,6
+351,Northern Region,Gushegu,Nawuhugu,GOG-UNICEF,Lapkari,267,12,12,12
+352,Northern Region,Gushegu,Zanteli,GOG-UNICEF,Libo,69,4,2,NA
+353,Northern Region,Gushegu,Nawuhigu,GOG-UNICEF,Lomba No 2,145,13,13,13
+354,Northern Region,Gushegu,Nawuhigu,GOG-UNICEF,Lomba No.1,71,6,6,NA
+355,Northern Region,Gushegu,Zanteli,GOG-UNICEF,Nakoli,75,10,10,10
+356,Northern Region,Gushegu,Nabuli,GOG-UNICEF,Nanyeli No. 1,153,11,15,NA
+357,Northern Region,Gushegu,Nabuli,GOG-UNICEF,Nanyeli No. 2,152,14,0,NA
+358,Northern Region,Gushegu,,GOG-UNICEF,Nanyeli No.3,176,14,14,14
+359,Northern Region,Gushegu,,GOG-UNICEF,Nasinburg,225,84,31,34
+360,Northern Region,Gushegu,Zantelli,GOG-UNICEF,Peteli No. 1,253,16,16,16
+361,Northern Region,Gushegu,Zantelli,GOG-UNICEF,Saguli,760,4,4,4
+362,Northern Region,Gushegu,,GOG-UNICEF,Salaa,561,41,41,21
+363,Northern Region,Gushegu,Bogu,GOG-UNICEF,Seitag,161,15,15,15
+364,Northern Region,Gushegu,Bogu,GOG-UNICEF,Taloli,211,15,3,NA
+365,Northern Region,Gushegu,Bogu,GOG-UNICEF,Tandogu,117,9,8,NA
+366,Northern Region,Gushegu,Gushegu,GOG-UNICEF,Tinguli,169,6,6,6
+367,Northern Region,Gushegu,Zantelli,GOG-UNICEF,Tugbang,185,10,10,10
+368,Northern Region,Gushegu,Bogu,GOG-UNICEF,Tuzeei,99,7,6,NA
+369,Northern Region,Gushegu,Bogu,GOG-UNICEF,Yizegu,174,12,12,12
+370,Northern Region,Gushegu,Zantelli,GOG-UNICEF,Zamshigu,132,9,9,9
+371,Northern Region,Karaga,Sakulo,RING,Achinayili,284,16,15,16
+372,Northern Region,Karaga,Sakulo,RING,Achiriyili,131,14,13,13
+373,Northern Region,Karaga,Sakulo Namburungu,RING,Diblee,192,28,16,14
+374,Northern Region,Karaga,Sakulo,RING,Dibulo,180,8,6,6
+375,Northern Region,Karaga,Sakulo,RING,Dodigari,89,7,6,6
+376,Northern Region,Karaga,Sakulo,RING,Gbegbelik,77,21,8,8
+377,Northern Region,Karaga,Sakulo,RING,Gbutugu-2,181,18,16,16
+378,Northern Region,Karaga,Sakulo,RING,Goriguyili,131,15,17,16
+379,Northern Region,Karaga,Sakulo  Namburungu,RING,Jagoo,97,16,7,8
+380,Northern Region,Karaga,Sakulo,RING,Jamaga,110,17,16,16
+381,Northern Region,Karaga,Sakulo,RING,Jamaga Tindang,52,8,6,6
+382,Northern Region,Karaga,Sakulo,RING,Kasali No. 1,181,16,13,13
+383,Northern Region,Karaga,Karaga,RING,Kpanbini,179,6,6,6
+384,Northern Region,Karaga,Sakulo,RING,Ladua,231,15,18,19
+385,Northern Region,Karaga,Sakulo Namburungu,RING,Lantan,216,16,15,13
+386,Northern Region,Karaga,Sakulo,RING,Lantani,201,22,15,15
+387,Northern Region,Karaga,Sakulo,RING,Nabortili,241,28,26,14
+388,Northern Region,Karaga,Sakulo,RING,Nadabari,13,4,3,3
+389,Northern Region,Karaga,Sakulo,RING,Nakundugu 3,349,12,28,30
+390,Northern Region,Karaga,Sakulo  Namburungu,RING,Namag,352,98,15,15
+391,Northern Region,Karaga,Sakulo,RING,Namantula,91,5,4,5
+392,Northern Region,Karaga,Sakulo,RING,Namborigu,162,14,12,13
+393,Northern Region,Karaga,Sakulo,RING,Pugbun,148,30,13,13
+394,Northern Region,Karaga,Karaga,RING,Simoli,59,7,6,6
+395,Northern Region,Karaga,Sakulo,RING,Sognayili,179,16,13,14
+396,Northern Region,Karaga,Sakulo Namburungu,RING,Tangyili,336,14,28,28
+397,Northern Region,Karaga,Sakulo,RING,Tuvogu,167,10,10,10
+398,Northern Region,Karaga,Sakulo,RING,Tuyini (kokomba),329,23,20,20
+399,Northern Region,Karaga,Karaga,RING,Vawari,139,12,11,11
+400,Northern Region,Karaga,Sakulo  Namburungu,RING,Yibeyili,1320,7,85,43
+401,Northern Region,Karaga,Pishigu,RING,Yilan,407,11,9,9
+402,Northern Region,Karaga,Kuduli,SPRING,Asafoyili,108,7,7,7
+403,Northern Region,Karaga,Sakulo,SPRING,Bilsinayili,350,37,35,41
+404,Northern Region,Karaga,Karaga,SPRING,Borimanayili,115,23,16,15
+405,Northern Region,Karaga,Sakulo,SPRING,Goa,80,9,8,8
+406,Northern Region,Karaga,Sakulo,SPRING,Kasheli No. 1,456,48,30,30
+407,Northern Region,Karaga,Kuduli,SPRING,Komoayili,1323,123,115,120
+408,Northern Region,Karaga,Kuduli,SPRING,Kpalguma,251,24,21,22
+409,Northern Region,Karaga,Kuduli,SPRING,Kpunglanyili,103,10,10,10
+410,Northern Region,Karaga,Karaga,SPRING,Kupali,683,53,50,50
+411,Northern Region,Karaga,Sakulo,SPRING,Monkula,750,52,50,53
+412,Northern Region,Karaga,Sakulo,SPRING,Sakulo,632,36,34,35
+413,Northern Region,Karaga,Kuduli,SPRING,Tang,173,16,15,18
+414,Northern Region,Karaga,Kuduli,SPRING,Tingdang,424,44,42,43
+415,Northern Region,Karaga,Sakulo,SPRING,Tulinga,194,13,12,13
+416,Northern Region,Karaga,Sakulo,SPRING,Yaga,106,11,11,11
+417,Northern Region,Karaga,Karaga,SPRING,Zinyee,209,23,20,22
+418,Northern Region,Karaga,Sakulo,GOG-UNICEF,Duna,248,24,24,24
+419,Northern Region,Karaga,Sakulo,GOG-UNICEF,Gbenjaga,660,45,45,45
+420,Northern Region,Karaga,Sakulo,GOG-UNICEF,Gbunatua,116,10,10,10
+421,Northern Region,Karaga,Sakulo,GOG-UNICEF,Kasheli 1,576,38,38,38
+422,Northern Region,Karaga,Sakulo,GOG-UNICEF,Kasheli 2,456,48,48,48
+423,Northern Region,Karaga,Sakulo,GOG-UNICEF,Kutigu,109,15,15,15
+424,Northern Region,Karaga,Sakulo,GOG-UNICEF,Maani,298,19,19,19
+425,Northern Region,Karaga,Karaga,GOG-UNICEF,Nambrugu,365,31,19,19
+426,Northern Region,Karaga,Karaga,GOG-UNICEF,Nangbani,126,15,15,15
+427,Northern Region,Karaga,Sakulo,GOG-UNICEF,Nyinagali sugri,205,15,15,15
+428,Northern Region,Karaga,Sakulo,GOG-UNICEF,Tambigu,471,35,35,35
+429,Northern Region,Karaga,Sakulo,GOG-UNICEF,Tanjia,96,7,7,7
+430,Northern Region,Karaga,Sakulo/Namburugu,GOG-UNICEF,Tindang,160,6,6,NA
+431,Northern Region,Karaga,Sakulo,GOG-UNICEF,Tuugbini,72,6,6,6
+432,Northern Region,Karaga,Sakulo,GOG-UNICEF,Yaborgu,276,23,23,23
+433,Northern Region,Karaga,Sakulo,GOG-UNICEF,Yibei,329,26,26,26
+434,Northern Region,Karaga,Sakulo,GOG-UNICEF,Yilikpani,36,2,2,2
+435,Northern Region,Kpandai,Kumudi,RING,Bakapudo,74,7,7,7
+436,Northern Region,Kpandai,Kpandai,RING,Jadigbe,262,44,31,28
+437,Northern Region,Kpandai,Nkanchina-Balai,RING,Kpakpa Lake Side,371,10,10,8
+438,Northern Region,Kpandai,Kumudi,RING,Mempe-Asem,NA,51,40,33
+439,Northern Region,Kpandai,Kumdi,RING,Nkpani,376,54,54,20
+440,Northern Region,Kpandai,Kumudi,RING,Nyimbordo,225,39,25,24
+441,Northern Region,Kpandai,Nkanchina-Balai,RING,Wuchado,743,36,36,36
+442,Northern Region,Kpandai,Kabonwunle,GOG-UNICEF,AGEDE KUR,38,4,0,NA
+443,Northern Region,Kpandai,Katiejeli/Buya,GOG-UNICEF,Ali-kura,19,2,2,0
+444,Northern Region,Kpandai,Jambuai,GOG-UNICEF,Asansen kasa,204,27,25,25
+445,Northern Region,Kpandai,,GOG-UNICEF,Balai Mempeasem,135,13,12,NA
+446,Northern Region,Kpandai,Nkachina,GOG-UNICEF,Banyimaido,86,14,10,NA
+447,Northern Region,Kpandai,Kateijeli,GOG-UNICEF,Bikomdo,213,30,28,NA
+448,Northern Region,Kpandai,Kateijeli,GOG-UNICEF,Binalob,307,41,40,NA
+449,Northern Region,Kpandai,Kumdi,GOG-UNICEF,BOMBARE,395,46,2,NA
+450,Northern Region,Kpandai,Katiejeli/Buya,GOG-UNICEF,Dodope Nantendo,52,6,6,5
+451,Northern Region,Kpandai,Kateijeli,GOG-UNICEF,Dodope Posatiido,176,20,29,NA
+452,Northern Region,Kpandai,Katiejeli/Buya,GOG-UNICEF,Dodope Sangmatido,75,10,12,5
+453,Northern Region,Kpandai,Katiejeli/Buya,GOG-UNICEF,Jema-Nkwanta,473,57,49,4
+454,Northern Region,Kpandai,Kateijeli,GOG-UNICEF,Kinyankpa,386,41,39,NA
+455,Northern Region,Kpandai,Kateijeli,GOG-UNICEF,Kpachildo,90,6,6,NA
+456,Northern Region,Kpandai,Nkanchina/Balai,GOG-UNICEF,KPAKPA,643,73,5,NA
+457,Northern Region,Kpandai,Kabonwunle,GOG-UNICEF,KPODO-KPO,57,9,0,NA
+458,Northern Region,Kpandai,Kpandai Town,GOG-UNICEF,Lasado,124,18,9,9
+459,Northern Region,Kpandai,Kabonwunle,GOG-UNICEF,LIGYAN,30,5,6,6
+460,Northern Region,Kpandai,Kpandai Town,GOG-UNICEF,Mbowura Posatisdo,59,6,6,9
+461,Northern Region,Kpandai,Kateijeli,GOG-UNICEF,Mulpedo,156,24,5,NA
+462,Northern Region,Kpandai,Kumdi,GOG-UNICEF,Nadoado,95,15,15,3
+463,Northern Region,Kpandai,Kateijeli,GOG-UNICEF,Nakpati,16,25,31,NA
+464,Northern Region,Kpandai,Kateijeli,GOG-UNICEF,Nijudo,193,26,28,28
+465,Northern Region,Kpandai,Nkanchina/Balai,GOG-UNICEF,NKANCHINA NO. 1,227,35,1,33
+466,Northern Region,Kpandai,Kumdi,GOG-UNICEF,Opundo,210,18,12,NA
+467,Northern Region,Kpandai,Kumdi,GOG-UNICEF,Quarta-pe,434,62,62,NA
+468,Northern Region,Kpandai,Kumdi,GOG-UNICEF,Sagmatido,79,8,12,NA
+469,Northern Region,Kpandai,Kumdi,GOG-UNICEF,Sambuti,214,32,31,8
+470,Northern Region,Kpandai,Kabonwunle,GOG-UNICEF,SANGBASA,157,21,9,NA
+471,Northern Region,Kpandai,Kumdi,GOG-UNICEF,Tekaldo,80,11,10,7
+472,Northern Region,Kpandai,Kumdi,GOG-UNICEF,Tengleto,130,14,9,NA
+473,Northern Region,Kpandai,Kumdi,GOG-UNICEF,Tengleto Boradeni,508,84,46,NA
+474,Northern Region,Kpandai,Kateijeli,GOG-UNICEF,Tikarini,336,41,33,NA
+475,Northern Region,Kpandai,,GOG-UNICEF,Wasawasa Nkwanta,21,4,4,NA
+476,Northern Region,Kumbungu,Zanbanlug,RING,Beggu,530,50,50,50
+477,Northern Region,Kumbungu,,RING,Buntansi,135,8,7,9
+478,Northern Region,Kumbungu,Gbulug,RING,Demanzugu,337,13,12,12
+479,Northern Region,Kumbungu,,RING,Dulizugu Yakura,1321,35,32,26
+480,Northern Region,Kumbungu,Gbulug,RING,Gbulun Nyoring,255,20,20,20
+481,Northern Region,Kumbungu,Gupanarigu,RING,Jaajirigu,226,18,17,7
+482,Northern Region,Kumbungu,,RING,Vehikuga,186,10,10,12
+483,Northern Region,Kumbungu,Gupanarigu,SPRING,Gbanzogu Kukuo,205,12,12,12
+484,Northern Region,Kumbungu,Gbulug,SPRING,Kpalga Nyoring,170,10,10,15
+485,Northern Region,Kumbungu,Zanbanlug,SPRING,Kpegu,534,25,26,25
+486,Northern Region,Kumbungu,,SPRING,Nakpaatua,407,19,19,15
+487,Northern Region,Kumbungu,Voggu,SPRING,Song,197,17,17,17
+488,Northern Region,Kumbungu,,SPRING,Timonayili,199,18,17,10
+489,Northern Region,Kumbungu,,SPRING,Zangballunbili,517,27,25,20
+490,Northern Region,Kumbungu,Zangbalun,GOG-UNICEF,Bagrugu,538,26,17,NA
+491,Northern Region,Kumbungu,Gbullung,GOG-UNICEF,Binbegubiyili,108,8,6,6
+492,Northern Region,Kumbungu,Kumbungu,GOG-UNICEF,Mablo,133,9,8,8
+493,Northern Region,Kumbungu,,GOG-UNICEF,Namdu Kukuo,120,12,12,12
+494,Northern Region,Kumbungu,Voggu,GOG-UNICEF,Namdu Silimboma,220,7,NA,NA
+495,Northern Region,Kumbungu,Voggu,GOG-UNICEF,Namdu Wahini,430,30,30,30
+496,Northern Region,Kumbungu,Voggu,GOG-UNICEF,Namdu Yipeligu,177,7,7,7
+497,Northern Region,Kumbungu,Voggu,GOG-UNICEF,Namdu-Gbulahigu,173,12,12,12
+498,Northern Region,Kumbungu,Gupanarigu,GOG-UNICEF,Shedua,440,25,22,22
+499,Northern Region,Kumbungu,Gupanarigu,GOG-UNICEF,Tignyoring,233,23,23,23
+500,Northern Region,Kumbungu,Voggu,GOG-UNICEF,Tindaanpagyili,105,7,7,7
+501,Northern Region,Kumbungu,,GOG-UNICEF,Tindanyili,24,NA,3,3
+502,Northern Region,Mion,Sang,SPRING,Bichado,300,28,28,28
+503,Northern Region,Mion,Sang,SPRING,Bungbali,310,31,44,44
+504,Northern Region,Mion,Sang,SPRING,Johngbando,164,18,24,24
+505,Northern Region,Mion,Sang,SPRING,Kabaado,352,28,31,31
+506,Northern Region,Mion,Sang,SPRING,Kuboni,339,38,54,54
+507,Northern Region,Mion,Sang,SPRING,Liwalibo,107,15,15,15
+508,Northern Region,Mion,Kpabia,SPRING,Makonyili,51,10,14,14
+509,Northern Region,Mion,Sang,SPRING,Mborinyado,21,4,4,4
+510,Northern Region,Mion,Sang,SPRING,Nayinkundo,205,18,18,18
+511,Northern Region,Mion,Sang,SPRING,Ndenyuoriyili,122,19,19,19
+512,Northern Region,Mion,Sang,SPRING,Niwurindo,686,38,54,54
+513,Northern Region,Mion,Sang,SPRING,Nyogbido,215,16,20,20
+514,Northern Region,Mion,Sang,SPRING,Sobitido,344,31,35,35
+515,Northern Region,Mion,Sang,SPRING,Tafaldo,224,11,15,15
+516,Northern Region,Mion,Sang,SPRING,Tajudo - A,261,21,27,27
+517,Northern Region,Mion,Sang,SPRING,Tajudo - B,57,7,7,7
+518,Northern Region,Mion,Kpabia,SPRING,Tikiido,529,41,43,43
+519,Northern Region,Mion,Sang,SPRING,Tikiido,178,17,22,22
+520,Northern Region,Mion,Sang,SPRING,Wayodo,81,16,18,18
+521,Northern Region,Mion,Sang,SPRING,Yawondo,329,42,46,46
+522,Northern Region,Mion,Sang,GOG-UNICEF,Jagoya A,304,61,10,10
+523,Northern Region,Mion,Sang,GOG-UNICEF,Kayan C,109,22,9,9
+524,Northern Region,Mion,Jimle,GOG-UNICEF,KPABLAA,262,12,4,NA
+525,Northern Region,Mion,Sang,GOG-UNICEF,Ndenyoriyili,122,19,17,17
+526,Northern Region,Mion,Sang,GOG-UNICEF,Tagnamo B,259,52,18,15
+527,Northern Region,Mion,Jimle,GOG-UNICEF,SURI,136,14,NA,NA
+528,Northern Region,Mion,,GOG-UNICEF,Achinayili,129,26,23,23
+529,Northern Region,Mion,Kpabia,GOG-UNICEF,Baduli,178,36,13,13
+530,Northern Region,Mion,Sang,GOG-UNICEF,Bagmark A,479,96,27,27
+531,Northern Region,Mion,Sang,GOG-UNICEF,Bagmark B,250,50,9,9
+532,Northern Region,Mion,Sang,GOG-UNICEF,Bagmark C,437,87,9,7
+533,Northern Region,Mion,,GOG-UNICEF,Begindo,75,15,4,4
+534,Northern Region,Mion,,GOG-UNICEF,Bilikibiyab,73,15,4,4
+535,Northern Region,Mion,Sang,GOG-UNICEF,Binagmando,320,64,26,19
+536,Northern Region,Mion,,GOG-UNICEF,Bosildo,145,14,11,11
+537,Northern Region,Mion,Sang,GOG-UNICEF,BOURIDO,371,29,17,NA
+538,Northern Region,Mion,,GOG-UNICEF,Chakohaya,81,16,6,5
+539,Northern Region,Mion,Jimle,GOG-UNICEF,CHEGOL-NA KURA,108,3,3,3
+540,Northern Region,Mion,Kpabia,GOG-UNICEF,CHIMBONI,250,19,17,NA
+541,Northern Region,Mion,Sang,GOG-UNICEF,Chirizang,342,18,18,NA
+542,Northern Region,Mion,Sang,GOG-UNICEF,DARISALEM,156,21,23,NA
+543,Northern Region,Mion,Sang,GOG-UNICEF,Dijoe,350,70,18,17
+544,Northern Region,Mion,,GOG-UNICEF,Frigmado,455,91,25,23
+545,Northern Region,Mion,Jimle,GOG-UNICEF,GBURATINGA,105,15,5,NA
+546,Northern Region,Mion,Sang,GOG-UNICEF,Gnoli,71,12,15,3
+547,Northern Region,Mion,,GOG-UNICEF,Jabilajo No.1,121,24,11,11
+548,Northern Region,Mion,,GOG-UNICEF,Jabilajo No.2,2525,505,105,97
+549,Northern Region,Mion,Sang,GOG-UNICEF,Jagando B,128,26,10,10
+550,Northern Region,Mion,Sang,GOG-UNICEF,Jagoya B,102,20,6,6
+551,Northern Region,Mion,Sang,GOG-UNICEF,JAGRIDO A,503,35,46,NA
+552,Northern Region,Mion,Sang,GOG-UNICEF,JAGRIDO B,252,16,18,NA
+553,Northern Region,Mion,Jimle,GOG-UNICEF,JASHEI,97,10,10,10
+554,Northern Region,Mion,Sang,GOG-UNICEF,Jebong,74,15,8,8
+555,Northern Region,Mion,,GOG-UNICEF,Jedoyili,75,15,6,6
+556,Northern Region,Mion,,GOG-UNICEF,Jilma No.1,305,61,28,28
+557,Northern Region,Mion,Sang,GOG-UNICEF,Kayan B,178,24,21,21
+558,Northern Region,Mion,Sang,GOG-UNICEF,Kojodo,91,18,12,12
+559,Northern Region,Mion,Sang,GOG-UNICEF,Kpachibiliyili,510,102,32,32
+560,Northern Region,Mion,Jimle,GOG-UNICEF,Kpulting,28,3,NA,NA
+561,Northern Region,Mion,Sang,GOG-UNICEF,Kpumale,508,40,42,42
+562,Northern Region,Mion,,GOG-UNICEF,Kubagmado,151,30,10,10
+563,Northern Region,Mion,Sang,GOG-UNICEF,Kujeri,130,26,14,14
+564,Northern Region,Mion,,GOG-UNICEF,Lakaldo,132,26,14,14
+565,Northern Region,Mion,Sang,GOG-UNICEF,LAMARKDO A,387,25,27,NA
+566,Northern Region,Mion,Jimle,GOG-UNICEF,Lambo,162,10,10,10
+567,Northern Region,Mion,Sang,GOG-UNICEF,Lijobilibo,416,83,37,37
+568,Northern Region,Mion,Sang,GOG-UNICEF,Macheliyili A,652,130,68,60
+569,Northern Region,Mion,Sang,GOG-UNICEF,MACHELIYILI B,573,58,58,58
+570,Northern Region,Mion,Sang,GOG-UNICEF,Maliya,926,36,34,28
+571,Northern Region,Mion,Sang,GOG-UNICEF,Manyini,435,87,34,34
+572,Northern Region,Mion,Sang,GOG-UNICEF,Motondo,328,67,26,21
+573,Northern Region,Mion,,GOG-UNICEF,Mubeedo,235,47,12,12
+574,Northern Region,Mion,Sang,GOG-UNICEF,NADUNDO,1058,110,96,96
+575,Northern Region,Mion,,GOG-UNICEF,Namoni,198,37,18,14
+576,Northern Region,Mion,Sang,GOG-UNICEF,Napondo,144,29,16,16
+577,Northern Region,Mion,Kpabia,GOG-UNICEF,NAWULIKPA,350,14,14,14
+578,Northern Region,Mion,,GOG-UNICEF,Nignando,54,11,4,4
+579,Northern Region,Mion,,GOG-UNICEF,Niyedo,212,42,10,10
+580,Northern Region,Mion,,GOG-UNICEF,Nkwanta,295,59,19,19
+581,Northern Region,Mion,,GOG-UNICEF,Sakbig,93,19,8,8
+582,Northern Region,Mion,Jimle,GOG-UNICEF,Sanchibu,157,31,10,10
+583,Northern Region,Mion,Sang,GOG-UNICEF,Tagmando,163,33,14,14
+584,Northern Region,Mion,Sang,GOG-UNICEF,Tagnamo A,279,59,23,23
+585,Northern Region,Mion,Sang,GOG-UNICEF,TIDANDO,534,40,43,NA
+586,Northern Region,Mion,Jimle,GOG-UNICEF,TINDANG,124,14,13,NA
+587,Northern Region,Mion,,GOG-UNICEF,Tinsung Yepala,90,18,13,13
+588,Northern Region,Mion,Sang,GOG-UNICEF,Tuunayili,314,63,27,27
+589,Northern Region,Mion,Jimle,GOG-UNICEF,Tuya,313,63,21,21
+590,Northern Region,Mion,Sang,GOG-UNICEF,Wagambo A(Wasambo),275,55,31,28
+591,Northern Region,Mion,Sang,GOG-UNICEF,Wagambo B,450,90,27,24
+592,Northern Region,Mion,Sang,GOG-UNICEF,WARIVI YEPALA,357,14,NA,NA
+593,Northern Region,Mion,Jimle,GOG-UNICEF,YANI,360,36,29,29
+594,Northern Region,Mion,Sang,GOG-UNICEF,Yepelnayili,265,53,13,13
+595,Northern Region,Mion,Sang,GOG-UNICEF,ZANDULI,270,31,18,NA
+596,Northern Region,Mion,Sang,GOG-UNICEF,Zugbei,62,12,8,8
+597,Northern Region,Nanumba North,Varibiegu,RING,Bagjoe,571,84,48,46
+598,Northern Region,Nanumba North,Gmantambu,RING,Banvim,171,15,13,14
+599,Northern Region,Nanumba North,Varibiegu,RING,Billado,317,16,16,15
+600,Northern Region,Nanumba North,Kumbo,RING,Bongulodo,360,16,16,16
+601,Northern Region,Nanumba North,Kumbu,RING,Dambado,411,27,27,27
+602,Northern Region,Nanumba North,Kumbo,RING,Dambado,411,27,27,27
+603,Northern Region,Nanumba North,Kumbo,RING,Falakugmedo A,511,24,24,24
+604,Northern Region,Nanumba North,Kumbo,RING,Falakugmedo B,289,12,12,12
+605,Northern Region,Nanumba North,Nabanga,RING,Gundow No.1,457,98,52,73
+606,Northern Region,Nanumba North,Nabanga,RING,Gundow No.2,578,45,46,45
+607,Northern Region,Nanumba North,Varibiegu,RING,Jagudo,785,36,36,36
+608,Northern Region,Nanumba North,Varibiegu,RING,Jagudo Batoya,25,4,4,4
+609,Northern Region,Nanumba North,Varibiegu,RING,Kakpandi,604,47,48,43
+610,Northern Region,Nanumba North,Varibiegu,RING,Kpaje,352,35,24,36
+611,Northern Region,Nanumba North,Varibiegu,RING,Nakpa-mempeasum,427,43,21,47
+612,Northern Region,Nanumba North,Varibiegu,RING,Nankpando,176,30,30,30
+613,Northern Region,Nanumba North,Kumbo,RING,Nsagnado No 2,261,16,16,16
+614,Northern Region,Nanumba North,Varibiegu,RING,Nyolakani A,520,92,76,71
+615,Northern Region,Nanumba North,Varibiegu,RING,Onikpildo,205,31,31,29
+616,Northern Region,Nanumba North,Varibiegu,RING,Saboba B.,336,20,21,20
+617,Northern Region,Nanumba North,Nabanga,RING,Salnayili No 1,678,46,24,39
+618,Northern Region,Nanumba North,Varibiegu,RING,Tagmado,493,46,31,31
+619,Northern Region,Nanumba North,Kumbo,RING,Tigbando,104,15,15,16
+620,Northern Region,Nanumba North,,RING,Tonayili No. 2,87,5,7,7
+621,Northern Region,Nanumba North,Varibiegu,RING,Ulanjado A,30,2,2,2
+622,Northern Region,Nanumba North,Varibiegu,RING,Ulanjado B,47,5,5,5
+623,Northern Region,Nanumba North,Gmantambu,GOG-UNICEF,Bolni No. 1,589,59,51,46
+624,Northern Region,Nanumba North,Gmantambu,GOG-UNICEF,Bolni No. 2,652,NA,NA,NA
+625,Northern Region,Nanumba North,Gmantambu,GOG-UNICEF,Bolni No. 3,498,NA,NA,NA
+626,Northern Region,Nanumba North,Darikum,GOG-UNICEF,Bonboni,210,NA,NA,NA
+627,Northern Region,Nanumba North,Darikum,GOG-UNICEF,Buado,56,2,2,2
+628,Northern Region,Nanumba North,Kukuhi,GOG-UNICEF,Gambuga Sogon,326,26,30,NA
+629,Northern Region,Nanumba North,Nabanga,GOG-UNICEF,Gnoribogu,627,NA,NA,NA
+630,Northern Region,Nanumba North,Nabanga,GOG-UNICEF,Gulnyansi Kambonaya,142,10,11,NA
+631,Northern Region,Nanumba North,Nabanga,GOG-UNICEF,Jagrido,567,NA,NA,NA
+632,Northern Region,Nanumba North,Varibiegu,GOG-UNICEF,Jakpumba No. 1,601,NA,NA,NA
+633,Northern Region,Nanumba North,Varibiegu,GOG-UNICEF,Jakpumba No. 2,506,NA,NA,NA
+634,Northern Region,Nanumba North,Darikum,GOG-UNICEF,Juo-Kamonayili,130,10,12,12
+635,Northern Region,Nanumba North,,GOG-UNICEF,Karaga no. 1,479,25,28,NA
+636,Northern Region,Nanumba North,Gmantambu,GOG-UNICEF,Karaga No. 2,250,21,27,27
+637,Northern Region,Nanumba North,Darikum,GOG-UNICEF,Kolbedo No.1,624,NA,NA,NA
+638,Northern Region,Nanumba North,Darikum,GOG-UNICEF,Kolbedo No.2,55,15,21,21
+639,Northern Region,Nanumba North,Nabanga,GOG-UNICEF,Kpachiya,213,24,25,NA
+640,Northern Region,Nanumba North,Nabanga,GOG-UNICEF,Kpakpirya,470,51,19,NA
+641,Northern Region,Nanumba North,Gmantambu,GOG-UNICEF,Kpalga,180,21,7,NA
+642,Northern Region,Nanumba North,,GOG-UNICEF,Kpetibodo,235,23,22,NA
+643,Northern Region,Nanumba North,Kumbo,GOG-UNICEF,Kubuabu no.2,124,10,11,NA
+644,Northern Region,Nanumba North,Nabanga,GOG-UNICEF,Lepusi - Badule,57,7,16,NA
+645,Northern Region,Nanumba North,Varibiegu,GOG-UNICEF,Nakpa-Dabopalli,320,25,36,34
+646,Northern Region,Nanumba North,Varibiegu,GOG-UNICEF,Nakpando,467,NA,NA,NA
+647,Northern Region,Nanumba North,Varibiegu,GOG-UNICEF,Nakpa-Yapala,642,50,32,32
+648,Northern Region,Nanumba North,Nabanga,GOG-UNICEF,Nankamdo,237,15,23,21
+649,Northern Region,Nanumba North,,GOG-UNICEF,Nchimbaya,459,49,47,47
+650,Northern Region,Nanumba North,Gmantambu,GOG-UNICEF,Njambaya / Njambado,350,59,NA,NA
+651,Northern Region,Nanumba North,Nabanga,GOG-UNICEF,Nyojado,196,6,7,7
+652,Northern Region,Nanumba North,Gmantambu,GOG-UNICEF,Ponayili,26,4,5,5
+653,Northern Region,Nanumba North,Kukuhi,GOG-UNICEF,Shihini,317,34,38,NA
+654,Northern Region,Nanumba North,Nabanga,GOG-UNICEF,Subure No. 2,258,21,22,22
+655,Northern Region,Nanumba North,Nabanga,GOG-UNICEF,Suburi,157,21,22,NA
+656,Northern Region,Nanumba North,Kakuhi,GOG-UNICEF,Tandaling,979,71,72,69
+657,Northern Region,Nanumba North,Nabanga,GOG-UNICEF,Tinajeria,693,59,67,67
+658,Northern Region,Nanumba North,Nabanga,GOG-UNICEF,Tivorini,123,NA,NA,NA
+659,Northern Region,Nanumba North,Nanabga,GOG-UNICEF,Yankaziya,123,20,27,27
+660,Northern Region,Nanumba North,Darikum,GOG-UNICEF,Yepurido,281,8,11,11
+661,Northern Region,Nanumba North,Varibiegu,GOG-UNICEF,Zablaya,316,47,11,11
+662,Northern Region,Nanumba South,Sunkuli,RING,Basare Kuraa,176,23,19,19
+663,Northern Region,Nanumba South,Sunkuli,RING,Nchiaye,305,19,16,16
+664,Northern Region,Nanumba South,Sunkuli,RING,Sabontido,210,16,17,17
+665,Northern Region,Nanumba South,Sunkuli,RING,Yadoya,142,17,13,13
+666,Northern Region,Nanumba South,,SNV,Akusaya,109,15,11,11
+667,Northern Region,Nanumba South,Bondali Kadibu,SNV,chalkosikura,96,9,9,9
+668,Northern Region,Nanumba South,Bondallalibo,SNV,Kwame krom no 2,115,13,13,5
+669,Northern Region,Nanumba South,,SNV,Nakpando,113,9,8,8
+670,Northern Region,Nanumba South,,,DABARINI,109,13,5,0
+671,Northern Region,Nanumba South,Sunkuli,GOG-UNICEF,JELBA No 2,109,20,4,1
+672,Northern Region,Nanumba South,Sunkuli,GOG-UNICEF,LESEINDO,145,15,4,0
+673,Northern Region,Nanumba South,Sunkuli,GOG-UNICEF,PENDIBILIYA,96,9,8,9
+674,Northern Region,Saboba,,RING,Bisado,96,13,13,8
+675,Northern Region,Saboba,Kpalba,RING,Boado,122,9,9,9
+676,Northern Region,Saboba,Wapuli,RING,Ikpani,67,9,7,7
+677,Northern Region,Saboba,Kpalba,RING,Kudubu,139,8,8,8
+678,Northern Region,Saboba,Kpalba,RING,Kulunboni,103,5,8,8
+679,Northern Region,Saboba,Kpalba,RING,Latido,98,12,9,9
+680,Northern Region,Saboba,Wapuli,RING,Nakolb,75,7,7,7
+681,Northern Region,Saboba,Wapuli,RING,Nanwal,113,9,9,9
+682,Northern Region,Saboba,Kpalba,RING,N-Nalog,426,28,26,26
+683,Northern Region,Saboba,Wapuli,RING,Saton,138,7,11,11
+684,Northern Region,Saboba,Wapuli,RING,Tindando,257,23,23,22
+685,Northern Region,Saboba,Wapuli,RING,Topin,292,24,24,24
+686,Northern Region,Saboba,Wapuli,SNV,Binaneab,264,25,25,25
+687,Northern Region,Saboba,Kpalba,SNV,Bisado,96,13,8,8
+688,Northern Region,Saboba,Saboba,SNV,Bugmal,423,20,20,20
+689,Northern Region,Saboba,Wapuli,SNV,Buidang,85,8,8,8
+690,Northern Region,Saboba,Saboba,SNV,Bukbaba,45,5,5,5
+691,Northern Region,Saboba,Saboba,SNV,Chachaloni,154,6,6,6
+692,Northern Region,Saboba,Saboba,SNV,Kikpasoni,134,17,10,10
+693,Northern Region,Saboba,Wapuli,SNV,Kinabulit,32,2,2,2
+694,Northern Region,Saboba,Wapuli,SNV,Kinabusini No. 2,53,3,3,3
+695,Northern Region,Saboba,Wapuli,SNV,Kinaduk,85,8,6,6
+696,Northern Region,Saboba,Wapuli,SNV,Kukponi,133,14,14,14
+697,Northern Region,Saboba,Demong,SNV,Kuwani,50,11,7,7
+698,Northern Region,Saboba,Wapuli,SNV,Liyalbu,126,12,10,10
+699,Northern Region,Saboba,Saboba,SNV,Mabido,136,12,6,6
+700,Northern Region,Saboba,Saboba,SNV,Mabinngbando,144,13,13,13
+701,Northern Region,Saboba,Saboba,SNV,Naboah,141,16,12,12
+702,Northern Region,Saboba,Wapuli,SNV,Neinajado,32,1,1,1
+703,Northern Region,Saboba,Saboba,SNV,Ngamdo,132,13,13,13
+704,Northern Region,Saboba,Saboba,SNV,Njakumdo,174,19,14,14
+705,Northern Region,Saboba,Wapuli,SNV,Nkpani,117,13,8,8
+706,Northern Region,Saboba,Saboba,SNV,Nlanjerubordo,35,4,4,4
+707,Northern Region,Saboba,Wapuli,SNV,Npaanbido,191,27,16,16
+708,Northern Region,Saboba,Wapuli,SNV,Nyanbang,117,10,8,8
+709,Northern Region,Saboba,Wapuli,SNV,Punammodo,72,5,5,5
+710,Northern Region,Saboba,Wapuli,SNV,Sambang,325,26,23,23
+711,Northern Region,Saboba,Wapuli,SNV,Sindondo,13,2,2,2
+712,Northern Region,Saboba,Demong,SNV,Tanjamel,186,26,25,25
+713,Northern Region,Saboba,Wapuli,SNV,wagbaln,182,14,11,11
+714,Northern Region,Saboba,Wapuli,SNV,Wajor No.2,182,13,11,13
+715,Northern Region,Saboba,Demong,SNV,Yakal,165,12,7,7
+716,Northern Region,Saboba,Saboba,GOG-UNICEF,Bugbal,532,39,39,39
+717,Northern Region,Saboba,Wapuli,GOG-UNICEF,Bungbal,378,47,20,20
+718,Northern Region,Saboba,Kpalba,GOG-UNICEF,Chagbani,317,30,29,29
+719,Northern Region,Saboba,Wapuli,GOG-UNICEF,Chambong,299,22,23,23
+720,Northern Region,Saboba,Saboba,GOG-UNICEF,Dicheen,108,23,21,21
+721,Northern Region,Saboba,Kpalba,GOG-UNICEF,Garimata,259,47,34,34
+722,Northern Region,Saboba,Kpalba,GOG-UNICEF,Garimata Battor,130,22,20,NA
+723,Northern Region,Saboba,Wapuli,GOG-UNICEF,Gbenjak,932,31,15,NA
+724,Northern Region,Saboba,Kpalba,GOG-UNICEF,Kpalba Battor,750,24,24,24
+725,Northern Region,Saboba,Saboba,GOG-UNICEF,Nachang,251,25,25,25
+726,Northern Region,Saboba,Demon,GOG-UNICEF,Namongbani,437,35,9,9
+727,Northern Region,Saboba,Saboba,GOG-UNICEF,Nanbiri Battor,47,7,7,7
+728,Northern Region,Saboba,Saboba,GOG-UNICEF,Nankpel Chakosi,293,38,0,NA
+729,Northern Region,Saboba,Demon,GOG-UNICEF,Tanjameili,186,26,26,25
+730,Northern Region,Saboba,,WV,Bondando,328,19,15,15
+731,Northern Region,Saboba,,WV,Bungen,258,22,19,19
+732,Northern Region,Saboba,,WV,Jakem,113,12,10,10
+733,Northern Region,Saboba,,WV,Kabonbu,126,10,12,12
+734,Northern Region,Saboba,,WV,Kpegu East,419,57,47,47
+735,Northern Region,Saboba,,WV,Kpegu West,724,91,53,53
+736,Northern Region,Saboba,,WV,Lifur,283,16,15,15
+737,Northern Region,Saboba,,WV,Mulipido,274,35,28,28
+738,Northern Region,Saboba,,WV,Nakpeepaa,78,14,9,9
+739,Northern Region,Saboba,,WV,Nanyeni,148,11,9,9
+740,Northern Region,Sagnarigu,Choggu,RING,Bantanyili,95,13,13,17
+741,Northern Region,Sagnarigu,Choggu,RING,Kpinjinga,NA,NA,NA,NA
+742,Northern Region,Savelugu,,RING,Chahyili,29,3,3,3
+743,Northern Region,Savelugu,,RING,Damdu,532,36,36,36
+744,Northern Region,Savelugu,,RING,Dohi,328,29,29,29
+745,Northern Region,Savelugu,,RING,Looni,184,20,20,20
+746,Northern Region,Savelugu,,RING,Nagdigu,707,34,31,31
+747,Northern Region,Savelugu,,RING,Tibog-Naayili,167,16,13,13
+748,Northern Region,Savelugu,,RING,Yaggo,308,39,35,35
+749,Northern Region,Savelugu,,RING,Yoggo,422,38,0,37
+750,Northern Region,Savelugu,,RING,Zaazi Kukuo,53,5,5,5
+751,Northern Region,Sawla-Tuna-Kalba,Gindabour,Global Communities,Antuma,423,22,20,20
+752,Northern Region,Sawla-Tuna-Kalba,,Global Communities,BAGBEROYIRI,20,2,2,2
+753,Northern Region,Sawla-Tuna-Kalba,Sanyeri,Global Communities,Bagon,90,7,6,7
+754,Northern Region,Sawla-Tuna-Kalba,Gindabour,Global Communities,Banipuo,146,14,14,14
+755,Northern Region,Sawla-Tuna-Kalba,,Global Communities,BAWUROYIRI,201,22,22,19
+756,Northern Region,Sawla-Tuna-Kalba,,Global Communities,BELEMBE,438,34,34,34
+757,Northern Region,Sawla-Tuna-Kalba,Sawla,Global Communities,Blema No.1,125,12,18,18
+758,Northern Region,Sawla-Tuna-Kalba,,Global Communities,BUCHEGBERI,41,5,5,4
+759,Northern Region,Sawla-Tuna-Kalba,,Global Communities,BUGALI,485,35,35,33
+760,Northern Region,Sawla-Tuna-Kalba,,Global Communities,CHACHEYIRI,313,20,20,18
+761,Northern Region,Sawla-Tuna-Kalba,Kalba,Global Communities,Chewele,168,20,20,20
+762,Northern Region,Sawla-Tuna-Kalba,,Global Communities,DAGBIGU NO. 2,200,24,18,16
+763,Northern Region,Sawla-Tuna-Kalba,Gindabour,Global Communities,Damangoro,540,44,35,35
+764,Northern Region,Sawla-Tuna-Kalba,,Global Communities,DAMIYIRI,733,46,46,42
+765,Northern Region,Sawla-Tuna-Kalba,Sawla,Global Communities,Danivaari AR,543,17,17,16
+766,Northern Region,Sawla-Tuna-Kalba,Sawla,Global Communities,Danivaari No.1,169,17,23,23
+767,Northern Region,Sawla-Tuna-Kalba,Sawla,Global Communities,Di-Eriyiri,107,15,13,13
+768,Northern Region,Sawla-Tuna-Kalba,Sawla,Global Communities,Dokodayiri,118,12,11,12
+769,Northern Region,Sawla-Tuna-Kalba,Gindabour,Global Communities,Domjanjele,138,17,14,14
+770,Northern Region,Sawla-Tuna-Kalba,Suru,Global Communities,Doumeh No. 1,170,20,20,20
+771,Northern Region,Sawla-Tuna-Kalba,Suru,Global Communities,Doumeh No. 2,323,27,27,27
+772,Northern Region,Sawla-Tuna-Kalba,,Global Communities,EBOFULA,179,18,18,13
+773,Northern Region,Sawla-Tuna-Kalba,Tuna,Global Communities,Gando,631,50,43,43
+774,Northern Region,Sawla-Tuna-Kalba,,Global Communities,GANKA,154,24,24,24
+775,Northern Region,Sawla-Tuna-Kalba,,Global Communities,GANKA ZONGO,186,17,17,17
+776,Northern Region,Sawla-Tuna-Kalba,Gindabour,Global Communities,Gboukoyir,489,50,49,49
+777,Northern Region,Sawla-Tuna-Kalba,,Global Communities,GBULPIE,446,57,67,55
+778,Northern Region,Sawla-Tuna-Kalba,,Global Communities,GHALYIRI,450,61,61,42
+779,Northern Region,Sawla-Tuna-Kalba,Sawla,Global Communities,Goyiri,869,16,17,17
+780,Northern Region,Sawla-Tuna-Kalba,Sanyeri,Global Communities,Honeyiri,104,21,21,21
+781,Northern Region,Sawla-Tuna-Kalba,,Global Communities,JEDO,183,16,16,15
+782,Northern Region,Sawla-Tuna-Kalba,Sawla,Global Communities,Jembe,114,10,24,24
+783,Northern Region,Sawla-Tuna-Kalba,,Global Communities,JINKA NO. 1,139,9,9,9
+784,Northern Region,Sawla-Tuna-Kalba,,Global Communities,JINKA NO. 2,139,20,20,20
+785,Northern Region,Sawla-Tuna-Kalba,Sawla,Global Communities,Jorbiyiri,297,24,24,24
+786,Northern Region,Sawla-Tuna-Kalba,Gindabour,Global Communities,Jusizyiri,57,8,8,8
+787,Northern Region,Sawla-Tuna-Kalba,,Global Communities,KOMPIENI  NO.1,104,12,12,10
+788,Northern Region,Sawla-Tuna-Kalba,Gindabour,Global Communities,Koonjantee,189,16,15,15
+789,Northern Region,Sawla-Tuna-Kalba,Sawla,Global Communities,kordanyina,305,41,36,36
+790,Northern Region,Sawla-Tuna-Kalba,,Global Communities,KPEFA KURA,78,7,7,7
+791,Northern Region,Sawla-Tuna-Kalba,Sawla,Global Communities,Kpefuri,337,32,31,31
+792,Northern Region,Sawla-Tuna-Kalba,,Global Communities,KPEFURI,454,35,32,32
+793,Northern Region,Sawla-Tuna-Kalba,Suru,Global Communities,Kulwong No. 1,342,29,29,29
+794,Northern Region,Sawla-Tuna-Kalba,Suru,Global Communities,Kulwong No. 2,212,17,17,17
+795,Northern Region,Sawla-Tuna-Kalba,Sawla,Global Communities,Looteyiri,226,23,20,20
+796,Northern Region,Sawla-Tuna-Kalba,Gindabour,Global Communities,Makayiri no1,138,15,15,15
+797,Northern Region,Sawla-Tuna-Kalba,Gindabour,Global Communities,Makayiri no2,329,33,20,20
+798,Northern Region,Sawla-Tuna-Kalba,Gindabour,Global Communities,Markpee,254,34,34,34
+799,Northern Region,Sawla-Tuna-Kalba,Gindabour,Global Communities,Mefaa,104,14,14,14
+800,Northern Region,Sawla-Tuna-Kalba,Gindabour,Global Communities,Meninkon,423,47,38,38
+801,Northern Region,Sawla-Tuna-Kalba,,Global Communities,MEWELJU,194,24,24,22
+802,Northern Region,Sawla-Tuna-Kalba,Sawla,Global Communities,Mona,304,29,22,22
+803,Northern Region,Sawla-Tuna-Kalba,Sawla,Global Communities,Mui-Yiri,124,9,21,21
+804,Northern Region,Sawla-Tuna-Kalba,Gindabour,Global Communities,Mwinlari,369,36,50,36
+805,Northern Region,Sawla-Tuna-Kalba,Tuna,Global Communities,Nanaziziiri,248,23,19,19
+806,Northern Region,Sawla-Tuna-Kalba,,Global Communities,NASOYIRI,537,46,38,35
+807,Northern Region,Sawla-Tuna-Kalba,Tali,Global Communities,Nuobili No. 2,296,8,8,8
+808,Northern Region,Sawla-Tuna-Kalba,,Global Communities,NYANGE NORTH,364,44,44,44
+809,Northern Region,Sawla-Tuna-Kalba,,Global Communities,NYANGE SOUTH,441,45,45,44
+810,Northern Region,Sawla-Tuna-Kalba,Suru,Global Communities,Orume,267,20,20,20
+811,Northern Region,Sawla-Tuna-Kalba,Sawla,Global Communities,Oteyiri,132,8,6,6
+812,Northern Region,Sawla-Tuna-Kalba,Tuna,Global Communities,Pinvoro,213,26,26,26
+813,Northern Region,Sawla-Tuna-Kalba,Gindabour,Global Communities,Poaraduori,213,20,20,20
+814,Northern Region,Sawla-Tuna-Kalba,Gindabour,Global Communities,Prume,210,10,9,9
+815,Northern Region,Sawla-Tuna-Kalba,,Global Communities,SAAKOROMA,233,25,25,23
+816,Northern Region,Sawla-Tuna-Kalba,,Global Communities,SANUOYIRI,376,25,25,25
+817,Northern Region,Sawla-Tuna-Kalba,,Global Communities,SANUOYIRI NO. 2,91,10,10,6
+818,Northern Region,Sawla-Tuna-Kalba,Gindabour,Global Communities,Sey-Guryiri,197,34,34,34
+819,Northern Region,Sawla-Tuna-Kalba,,Global Communities,SOGOYIRI,647,57,47,31
+820,Northern Region,Sawla-Tuna-Kalba,Sanyeri,Global Communities,Sonkayiri,109,9,10,9
+821,Northern Region,Sawla-Tuna-Kalba,Sanyeri,Global Communities,Taari No. 1,678,33,33,33
+822,Northern Region,Sawla-Tuna-Kalba,Sanyeri,Global Communities,Taari No. 2,443,27,27,27
+823,Northern Region,Sawla-Tuna-Kalba,Gindabour,Global Communities,Taforo,220,10,10,10
+824,Northern Region,Sawla-Tuna-Kalba,Sawla,Global Communities,Tale,268,19,17,15
+825,Northern Region,Sawla-Tuna-Kalba,,Global Communities,TENSONYIRI NO.1,330,27,25,23
+826,Northern Region,Sawla-Tuna-Kalba,Sanyari,Global Communities,Tensoyiri,196,10,10,10
+827,Northern Region,Sawla-Tuna-Kalba,Sanyeri,Global Communities,Touyiri,251,24,24,24
+828,Northern Region,Sawla-Tuna-Kalba,,Global Communities,URO,292,22,22,18
+829,Northern Region,Sawla-Tuna-Kalba,Kalba,Global Communities,Uro-mekaa,NA,19,19,19
+830,Northern Region,Sawla-Tuna-Kalba,Gindabour,Global Communities,Vondiel,443,62,62,62
+831,Northern Region,Tatale,Tatindo,SPRING,Atelimdo,64,10,10,10
+832,Northern Region,Tatale,Tatale,SPRING,Balin,327,39,29,29
+833,Northern Region,Tatale,Tatale,SPRING,Bekokolimbe No.1,511,46,38,38
+834,Northern Region,Tatale,Tatale,SPRING,Bekokolimbe No.2,511,16,20,21
+835,Northern Region,Tatale,Tatale,SPRING,Belamdo,252,62,26,26
+836,Northern Region,Tatale,Tatindo,SPRING,Bilando,171,16,16,16
+837,Northern Region,Tatale,Tatindo,SPRING,Ilordon,306,45,43,43
+838,Northern Region,Tatale,Tatindo,SPRING,Janfordo,716,60,38,38
+839,Northern Region,Tatale,Iatido,SPRING,Kpindo no.1,360,23,19,19
+840,Northern Region,Tatale,Tatindo,SPRING,kwakwando,382,35,27,31
+841,Northern Region,Tatale,Tatale,SPRING,Nachamba No.1,537,58,43,35
+842,Northern Region,Tatale,Tatale,SPRING,Nachamba No.1,738,58,35,35
+843,Northern Region,Tatale,Tatindo,SPRING,Njobilibo,409,50,32,32
+844,Northern Region,Tatale,Tatindo,SPRING,Pejoli,370,65,36,36
+845,Northern Region,Tatale,Tatindo,SPRING,Possa,57,6,6,6
+846,Northern Region,Tatale,Tatindo,SPRING,Tassando,170,24,21,19
+847,Northern Region,Tatale,Tatale,SPRING,Torchedo,400,56,38,38
+848,Northern Region,Tatale,Tatindo,SPRING,Yalinke,195,23,23,23
+849,Northern Region,Tatale,Kandin/Sheini,GOG-UNICEF,Adjeidom,358,54,43,43
+850,Northern Region,Tatale,Kandin/Sheini,GOG-UNICEF,Baali No. 1,122,20,6,1
+851,Northern Region,Tatale,Kandin/Sheini,GOG-UNICEF,Baali No. 2,214,27,24,32
+852,Northern Region,Tatale,Kandin/Sheini,GOG-UNICEF,Bekpajab,114,17,14,14
+853,Northern Region,Tatale,Tatale,GOG-UNICEF,Bekunjibe Kutom,150,5,5,11
+854,Northern Region,Tatale,Kandin/Sheini,GOG-UNICEF,Benankaribe,93,15,2,1
+855,Northern Region,Tatale,Tatale,GOG-UNICEF,Bikanbombe/Samalidom,1101,39,55,55
+856,Northern Region,Tatale,Tatindo,GOG-UNICEF,Bisayim No 2,214,12,16,20
+857,Northern Region,Tatale,Kandin/sheini,GOG-UNICEF,Bulkpali,465,75,69,71
+858,Northern Region,Tatale,Kandin/Sheini,GOG-UNICEF,Campuni,164,14,12,12
+859,Northern Region,Tatale,Kandin/Sheini,GOG-UNICEF,Campuni No 2,208,23,22,23
+860,Northern Region,Tatale,Kandin/Sheini,GOG-UNICEF,Dawando,315,40,28,43
+861,Northern Region,Tatale,Kandin/Sheini,GOG-UNICEF,Dawundom,136,19,3,3
+862,Northern Region,Tatale,,GOG-UNICEF,Dondoni,NA,NA,NA,NA
+863,Northern Region,Tatale,Kandin/Sheini,GOG-UNICEF,Gbongbong,78,9,8,8
+864,Northern Region,Tatale,Tatale,GOG-UNICEF,Kalinge,235,16,12,13
+865,Northern Region,Tatale,Tatindo,GOG-UNICEF,Kiteibu/Yajoldo,43,5,5,4
+866,Northern Region,Tatale,kandin/sheini,GOG-UNICEF,Kolando,644,50,15,4
+867,Northern Region,Tatale,Tatale,GOG-UNICEF,Kpaributabu/ Bawado,1158,23,29,23
+868,Northern Region,Tatale,Tatindo,GOG-UNICEF,Kpindo Central,73,14,14,14
+869,Northern Region,Tatale,Tatale,GOG-UNICEF,Kuntung,NA,13,14,NA
+870,Northern Region,Tatale,Tatale,GOG-UNICEF,Kuyoli 1,2967,252,7,4
+871,Northern Region,Tatale,Kandin/sheini,GOG-UNICEF,Lakpali,2661,146,142,42
+872,Northern Region,Tatale,Kandin/Sheini,GOG-UNICEF,Mankado,96,14,12,12
+873,Northern Region,Tatale,Kandin/Sheini,GOG-UNICEF,Monpani,598,90,15,7
+874,Northern Region,Tatale,,GOG-UNICEF,Nachamba No.1,NA,NA,NA,NA
+875,Northern Region,Tatale,Tatale,GOG-UNICEF,Nafuni,123,20,20,21
+876,Northern Region,Tatale,kandin/sheini,GOG-UNICEF,Nakotil,199,20,24,23
+877,Northern Region,Tatale,Tatale,GOG-UNICEF,Nakpali Borle,632,81,25,18
+878,Northern Region,Tatale,Tatindo,GOG-UNICEF,Nalore,186,24,22,15
+879,Northern Region,Tatale,,GOG-UNICEF,Nanbong,NA,NA,NA,NA
+880,Northern Region,Tatale,Kandin/Sheini,GOG-UNICEF,Nankando,358,57,46,46
+881,Northern Region,Tatale,Kandin/Sheini,GOG-UNICEF,Nboble,406,39,39,27
+882,Northern Region,Tatale,,GOG-UNICEF,Nbolado,NA,NA,NA,NA
+883,Northern Region,Tatale,Kandin/Sheini,GOG-UNICEF,Nkpani/ Nafanyili,504,36,38,36
+884,Northern Region,Tatale,Tatale,GOG-UNICEF,Nwadamdom,47,6,6,5
+885,Northern Region,Tatale,Kandin/Sheini,GOG-UNICEF,Poalarido,428,43,37,25
+886,Northern Region,Tatale,Tatindo,GOG-UNICEF,Sanguli,3077,157,126,120
+887,Northern Region,Tatale,Tatindo,GOG-UNICEF,Sanguli Dagomba,352,24,33,41
+888,Northern Region,Tatale,Kandin/Sheini,GOG-UNICEF,Tangbabong,331,51,42,42
+889,Northern Region,Tatale,Kandin/Sheini,GOG-UNICEF,Wajado,142,13,11,11
+890,Northern Region,Tatale,Tatale,GOG-UNICEF,Yachado,4120,180,144,114
+891,Northern Region,Tolon,Lingbunga,RING,Cherifo-kura,65,13,12,12
+892,Northern Region,Tolon,,RING,Gurumanchagyili,334,21,21,21
+893,Northern Region,Tolon,Kasunyili,RING,Kunguri,2921,96,70,55
+894,Northern Region,Tolon,,RING,Zalibotingli,115,9,11,11
+895,Northern Region,Tolon,Tolon,SPRING,Buiyili,507,34,30,29
+896,Northern Region,Tolon,Yoggu,SPRING,Gbanjong,1315,95,70,57
+897,Northern Region,Tolon,,SPRING,Gnaba,247,13,13,11
+898,Northern Region,Tolon,,SPRING,Kaa,222,17,16,17
+899,Northern Region,Tolon,,SPRING,Munya,163,13,12,15
+900,Northern Region,Tolon,Yoggu,SPRING,Nlaa-laayili vili,308,41,26,21
+901,Northern Region,Tolon,,SPRING,Tampia No.1,45,9,12,15
+902,Northern Region,Tolon,,SPRING,Tampia No.2,35,5,15,7
+903,Northern Region,West Mamprusi,Tinguri,Global Communities,Akolila fong,51,5,5,5
+904,Northern Region,West Mamprusi,Wungu,Global Communities,Binbin,120,21,21,21
+905,Northern Region,West Mamprusi,Walewale,Global Communities,Binduri,96,19,19,19
+906,Northern Region,West Mamprusi,Tinguri,Global Communities,Boayini,1007,74,74,74
+907,Northern Region,West Mamprusi,Tinguri,Global Communities,Boayini Bimobafong,240,30,30,30
+908,Northern Region,West Mamprusi,Tinguri,Global Communities,Booduri,182,6,8,8
+909,Northern Region,West Mamprusi,kpasikpa,Global Communities,Cheera,134,21,13,13
+910,Northern Region,West Mamprusi,Wulugu Gbimisi,Global Communities,Kulunga,98,10,8,8
+911,Northern Region,West Mamprusi,Tinguri,Global Communities,Sagadugu no. 1,693,148,40,40
+912,Northern Region,West Mamprusi,Tinguri,Global Communities,Singbini,158,31,14,14
+913,Northern Region,West Mamprusi,Janga,Global Communities,Takuka,121,16,11,11
+914,Northern Region,West Mamprusi,Walewale,Global Communities,Tianoba,158,6,6,6
+915,Northern Region,West Mamprusi,Tinguri,Global Communities,Zanguga,NA,NA,NA,NA
+916,Northern Region,West Mamprusi,Gbimsi/Wulugu,GOG-UNICEF,Boadurana Fongu,77,5,4,4
+917,Northern Region,West Mamprusi,Tinguri,GOG-UNICEF,Gaagbini,349,31,36,36
+918,Northern Region,West Mamprusi,Gbimsi/Wulugu,GOG-UNICEF,Kparipiri,519,39,33,33
+919,Northern Region,West Mamprusi,Gbimsi/Wulugu,GOG-UNICEF,Kpatusi,136,13,16,16
+920,Northern Region,West Mamprusi,Gbimsi/Wulugu,GOG-UNICEF,Kulunga,98,10,10,10
+921,Northern Region,West Mamprusi,Kparigu,GOG-UNICEF,Moatani,232,28,35,35
+922,Northern Region,West Mamprusi,Tinguri,GOG-UNICEF,Shingbini,158,13,16,16
+923,Northern Region,West Mamprusi,Tinguri,GOG-UNICEF,Tinkaya,399,31,32,32
+924,Northern Region,Yendi,Gbungbaliga,SPRING,Yashegu,500,97,92,84
+925,Northern Region,Yendi,Malzeri,SPRING,Baduli,179,10,17,17
+926,Northern Region,Yendi,Gbungbaliga,SPRING,Bago,375,20,30,20
+927,Northern Region,Yendi,Yendi,SPRING,Binagmando,307,40,49,84
+928,Northern Region,Yendi,Malzeri,SPRING,Bini,295,20,40,40
+929,Northern Region,Yendi,Malzeri,SPRING,Chirifoyili,163,14,18,16
+930,Northern Region,Yendi,Malzeri,SPRING,Dipkung,51,8,14,8
+931,Northern Region,Yendi,Gbungbaliga,SPRING,Kasali,320,34,40,34
+932,Northern Region,Yendi,Gbungbaliga,SPRING,Kpachani,162,28,28,22
+933,Northern Region,Yendi,Gbungbaliga,SPRING,Latagim,355,37,45,32
+934,Northern Region,Yendi,Yendi,SPRING,Limpua,309,24,33,38
+935,Northern Region,Yendi,Yendi,SPRING,Nyankpanin No. 2,320,45,29,38
+936,Northern Region,Yendi,Malzeri,SPRING,Sunsongbeng,357,31,38,31
+937,Northern Region,Yendi,Yendi,SPRING,Wanbong No.2,505,45,80,40
+938,Northern Region,Yendi,Yendi,SPRING,Wanbung No. 1,504,40,45,39
+939,Northern Region,Yendi,Yendi,SPRING,Wapkang,173,25,18,19
+940,Northern Region,Yendi,Yendi,GOG-UNICEF,Kulkpenduli,1435,215,152,173
+941,Northern Region,Yendi,Gbungbalig,GOG-UNICEF,Babiya,242,14,NA,NA
+942,Northern Region,Yendi,Gbungbalig,GOG-UNICEF,Chokpeldo,57,2,NA,NA
+943,Northern Region,Yendi,Malzeri,GOG-UNICEF,Jilma no 2,52,32,NA,NA
+944,Northern Region,Yendi,Malzeri,GOG-UNICEF,Kpamang,231,9,NA,NA
+945,Northern Region,Yendi,Malzeri,GOG-UNICEF,Kpandaya,32,4,NA,NA
+946,Northern Region,Yendi,Yendi,GOG-UNICEF,Ngonyili,226,6,NA,NA
+947,Northern Region,Yendi,Gbungbalig,GOG-UNICEF,Ninkpeldo,179,17,NA,NA
+948,Northern Region,Yendi,Yendi,GOG-UNICEF,Nyangbani,76,8,NA,NA
+949,Northern Region,Yendi,Yendi,GOG-UNICEF,Sankuni,75,8,NA,NA
+950,Northern Region,Yendi,Malzeri,GOG-UNICEF,Wassado,157,11,NA,NA
+951,Northern Region,Zabzugu,Nakpali/Kworoli,SPRING,Bagmani,806,43,30,30
+952,Northern Region,Zabzugu,Nakpali,SPRING,Bitiato,402,50,45,43
+953,Northern Region,Zabzugu,Zabzugu,SPRING,Kenyogbedo A,346,32,29,18
+954,Northern Region,Zabzugu,Nakpali/Kworoli,SPRING,Kofido,753,22,20,16
+955,Northern Region,Zabzugu,Zabzugu,SPRING,Kpendo,379,31,27,18
+956,Northern Region,Zabzugu,Nakpali/Kworoli,SPRING,Kukpalga A,860,42,16,16
+957,Northern Region,Zabzugu,Nakpali/Kworoli,SPRING,Kukuokpanga No.2,577,73,35,22
+958,Northern Region,Zabzugu,Nakpali/Kworoli,SPRING,Laribanga,605,45,23,19
+959,Northern Region,Zabzugu,Zabzugu,SPRING,Moncheni,514,41,32,20
+960,Northern Region,Zabzugu,Zabzugu,SPRING,Nimoarido,1085,12,10,10
+961,Northern Region,Zabzugu,Nakpali/Kworoli,SPRING,Nyankpala,133,24,20,20
+962,Northern Region,Zabzugu,Nakpali/Kworoli,SPRING,Okudo,402,56,28,25
+963,Northern Region,Zabzugu,Nakpali,SPRING,Taabodo,215,20,19,19
+964,Northern Region,Zabzugu,Zabzugu,SPRING,Tikparalanyili,473,24,26,26
+965,Northern Region,Zabzugu,Zabzugu,SPRING,Wagado,612,50,49,20
+966,Northern Region,Zabzugu,Zubzugu,GOG-UNICEF,Besakob,184,12,12,12
+967,Northern Region,Zabzugu,Nakpali/Kworoli,GOG-UNICEF,Chasindo,172,22,19,19
+968,Northern Region,Zabzugu,Nakpali,GOG-UNICEF,Gbulin,44,5,6,6
+969,Northern Region,Zabzugu,Nakpali,GOG-UNICEF,Gortanie A,1068,216,65,56
+970,Northern Region,Zabzugu,Nakpali/Kworoli,GOG-UNICEF,Jagrido Nakpali,55,5,7,4
+971,Northern Region,Zabzugu,Nakpali/Kworoli,GOG-UNICEF,Jagrido Sabre,477,37,19,4
+972,Northern Region,Zabzugu,Zubzugu,GOG-UNICEF,Jatodo 1,130,13,12,NA
+973,Northern Region,Zabzugu,Zabzugu,GOG-UNICEF,Kolikolini A,617,63,17,0
+974,Northern Region,Zabzugu,Zabzugu,GOG-UNICEF,Kolikolini B,93,10,11,11
+975,Northern Region,Zabzugu,Nakpali/Kworoli,GOG-UNICEF,Konjado,61,10,10,10
+976,Northern Region,Zabzugu,Nakpali,GOG-UNICEF,Kukuokpanga No. 1,174,11,13,13
+977,Northern Region,Zabzugu,Nakpali,GOG-UNICEF,Maatondo,116,15,13,8
+978,Northern Region,Zabzugu,Zabzugu,GOG-UNICEF,Mantile 2,147,21,15,5
+979,Northern Region,Zabzugu,Nakpali/Kworoli,GOG-UNICEF,Natindo,331,20,21,20
+980,Northern Region,Zabzugu,Nakpali/Kworoli,GOG-UNICEF,Obabido,166,16,15,0
+981,Northern Region,Zabzugu,Nakpali/Kworoli,GOG-UNICEF,Piemando,52,7,7,7
+982,Northern Region,Zabzugu,Zabzugu,GOG-UNICEF,Poagmado,847,116,56,5
+983,Northern Region,Zabzugu,Zubzugu,GOG-UNICEF,Tafundo,59,6,6,6
+984,Northern Region,Zabzugu,Zabzugu,GOG-UNICEF,Tasundo No.2,461,36,35,25
+985,Northern Region,Zabzugu,Zabzugu,GOG-UNICEF,Tulado,118,12,16,0
+986,Northern Region,Zabzugu,NA,WV,Diboy,225,13,13,13
+987,Northern Region,Zabzugu,NA,WV,Gmagundo,154,23,15,20
+988,Northern Region,Zabzugu,NA,WV,Jamoni,155,23,15,20
+989,Northern Region,Zabzugu,NA,WV,Jankun A,43,12,6,8
+990,Northern Region,Zabzugu,NA,WV,Nandambiya,250,18,16,16
+991,Northern Region,Zabzugu,NA,WV,Noogmado,850,47,44,45
+992,Northern Region,Zabzugu,NA,WV,Ojoja B,273,24,23,23
+993,Northern Region,Zabzugu,NA,WV,Omoaldo,730,97,42,62
+994,Northern Region,Zabzugu,NA,WV,Wasado,193,29,18,25
+995,Northern Region,Zabzugu,NA,WV,Wissindo,198,25,14,22
+996,Northern Region,Zabzugu,NA,WV,Zogyuri,114,21,14,20
+997,Northern Region,Zabzugu,NA,WV,Zokurli A,323,25,20,25
+998,Northern Region,Zabzugu,NA,WV,Zokurli B,207,17,13,18

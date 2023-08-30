@@ -137,8 +137,12 @@ df01_district <- m01_district |>
   mutate(no = as.numeric(no))
 
 # join the no and district with data
+
 page01 <- df01_district |>
-  left_join(df01)
+  left_join(df01) |>
+  mutate(region = "Central Region") |>
+  relocate(region, .after = no)
+
 
 
 # page 02 to page 06 -----------------------------------------------------------
@@ -155,6 +159,8 @@ m0206_list <- extract_tables(basisghana_pdf,
                              ))
 
 
+
+
 m0206_df <- lapply(m0206_list, as.data.frame)
 
 m0206_df[[4]] <- m0206_df[[4]] |>
@@ -167,12 +173,16 @@ names(df0206) <- col_names
 
 # define area to extract data from. only use columns No. and District
 
+vector_area0206_district <- c(50, 0, 600, 120)
+
 m0206_district <- extract_tables(basisghana_pdf,
                                  pages = 2:6,
                                  guess = FALSE,
-                                 # (top,left,bottom,right)
-                                 area = list(c(100, 0, 400, 100)))
-
+                                 # (top, left, bottom, right)
+                                 area = c(
+                                   list(c(100, 0, 600, 100)),
+                                   lapply(1:4, function(x) vector_area0206_district)
+                                 ))
 
 m0206_district_df <- lapply(m0206_district, as.data.frame)
 m0206_district_df <- do.call(rbind, m0206_district_df)
@@ -188,7 +198,9 @@ df0206_district <- m0206_district_df |>
   mutate(no = as.numeric(no))
 
 page0206 <- df0206_district |>
-  left_join(df0206)
+  left_join(df0206) |>
+  mutate(region = "Volta Region") |>
+  relocate(region, .after = no)
 
 
 # page 07 -----------------------------------------------------------------
@@ -222,7 +234,9 @@ df0813_district <- extract_tables_district(data = basisghana_pdf,
 
 
 page0813 <- df0813_district |>
-  left_join(df0813)
+  left_join(df0813) |>
+  mutate(region = "Upper East Region") |>
+  relocate(region, .after = no)
 
 
 # pages 14 to 20 ----------------------------------------------------------
@@ -272,7 +286,8 @@ df21 <- bind_rows(df21_1, df21_2) |>
 
 # bind 14 to 20 & 21 ------------------------------------------------------
 
-df1421 <- df1420 |> bind_rows(df21)
+df1421 <- df1420 |>
+  bind_rows(df21)
 
 # extract district names
 
@@ -283,7 +298,9 @@ df1421_district <- extract_tables_district(data = basisghana_pdf,
 
 
 page1421 <- df1421_district |>
-  left_join(df1421)
+  left_join(df1421) |>
+  mutate(region = "Upper West Region") |>
+  relocate(region, .after = no)
 
 
 # page 22 to page 54 ------------------------------------------------------
@@ -343,7 +360,7 @@ df24_3 <- extract_tables_typ1(basisghana_pdf,
 
 df24 <- bind_rows(df24_1, df24_2, df24_3) |>
   mutate(no = 59:89) |>
-  select(-X8)
+  select(-V8)
 
 names(df24) <- col_names
 
@@ -623,7 +640,9 @@ names(df3940) <- col_names
 df41_1 <- extract_tables_typ1(basisghana_pdf,
                               pages = 41,
                               # (top, left, bottom,right)
-                              vec_area = c(50, 150, 200, 1000))
+                              vec_area = c(50, 150, 200, 800)) |>
+  select(-X4) |>
+  mutate(X9 = NA_integer_)
 
 names(df41_1) <- col_names
 
@@ -919,44 +938,87 @@ names(df54) <- col_names
 
 # pages 22 to 54 ----------------------------------------------------------
 
-bind_rows(df22,
-          df23,
-          df24,
-          df25,
-          df26,
-          df27,
-          df28,
-          df29,
-          df30,
-          df31,
-          df32,
-          df33,
-          df34,
-          df35,
-          df36,
-          df37,
-          df38,
-          df3940,
-          df41,
-          df42,
-          df43,
-          df44,
-          df45,
-          df4648,
-          df49,
-          df50,
-          df51,
-          df52,
-          df53)
+df2254 <- bind_rows(df22,
+                    df23,
+                    df24,
+                    df25,
+                    df26,
+                    df27,
+                    df28,
+                    df29,
+                    df30,
+                    df31,
+                    df32,
+                    df33,
+                    df34,
+                    df35,
+                    df36,
+                    df37,
+                    df38,
+                    df3940,
+                    df41,
+                    df42,
+                    df43,
+                    df44,
+                    df45,
+                    df4648,
+                    df49,
+                    df50,
+                    df51,
+                    df52,
+                    df53,
+                    df54) |>
+  mutate(no = seq(1:n()))
+
+# extract district names
+
+df2254_district <- extract_tables_district(data = basisghana_pdf,
+                                           pages = 22:54,
+                                           # (top, left, bottom, right)
+                                           vec_area1 = c(110, 0, 800, 180),
+                                           vec_area2 = c(50, 0, 800, 180))
+page2254 <- df2254_district |>
+  left_join(df2254) |>
+  mutate(region = "Northern Region") |>
+  relocate(region, .after = no)
 
 # export final dataframe --------------------------------------------------
 
-basisghana <- bind_rows(page01,
-                        page0206,
-                        page0813,
-                        page1421)
+basisghana_complete <- bind_rows(page01,
+                                 page0206,
+                                 page0813,
+                                 page1421,
+                                 page2254)
+
+
+# tests -------------------------------------------------------------------
+
+## test 1: Manually checked that numbers for odfs column and district is equal
+## values in PDF
+
+# basisghana |>
+#   select(district, odfs) |>
+#   drop_na() |> View()
+
+
+# split data in two resources ---------------------------------------------
+
+odfs <- basisghana_complete |>
+  select(region, district, odfs) |>
+  drop_na()
+
+basisghana <- basisghana_complete |>
+  select(-odfs)
+
+# export data -------------------------------------------------------------
+
+usethis::use_data(odfs, overwrite = TRUE)
+fs::dir_create(here::here("inst", "extdata"))
+readr::write_csv(odfs, here::here("inst", "extdata", "odfs.csv"))
+openxlsx::write.xlsx(odfs, here::here("inst", "extdata", "odfs.xlsx"))
 
 usethis::use_data(basisghana, overwrite = TRUE)
 fs::dir_create(here::here("inst", "extdata"))
 readr::write_csv(basisghana, here::here("inst", "extdata", "basisghana.csv"))
 openxlsx::write.xlsx(basisghana, here::here("inst", "extdata", "basisghana.xlsx"))
+
