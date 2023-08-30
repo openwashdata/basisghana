@@ -745,6 +745,178 @@ df4648 <- format_df(data = df4648_list) |>
 
 names(df4648) <- col_names
 
+## page 49
+
+df49_1 <- extract_tables_typ3(basisghana_pdf,
+                              pages = 49,
+                              # (top, left, bottom,right)
+                              vec_area = c(50, 150, 260, 1000))
+
+names(df49_1) <- col_names
+
+df49_2 <- extract_tables_typ3(basisghana_pdf,
+                              pages = 49,
+                              # (top, left, bottom,right)
+                              vec_area = c(260, 150, 600, 1000))
+
+names(df49_2) <- col_names
+
+
+df49 <- bind_rows(df49_1, df49_2) |>
+  mutate(no = 836:866)
+
+## page 50
+
+df50_1 <- extract_tables_typ3(basisghana_pdf,
+                              pages = 50,
+                              # (top, left, bottom,right)
+                              vec_area = c(50, 150, 430, 1000))
+
+names(df50_1) <- col_names
+
+df50_2 <- extract_tables_typ1(basisghana_pdf,
+                              pages = 50,
+                              # (top, left, bottom,right)
+                              vec_area = c(430, 150, 600, 1000))
+
+names(df50_2) <- col_names
+
+df50 <- bind_rows(df50_1, df50_2) |>
+  mutate(no = 867:897)
+
+
+## page 51
+
+df51_1 <- extract_tables_typ1(basisghana_pdf,
+                              pages = 51,
+                              # (top, left, bottom,right)
+                              vec_area = c(50, 160, 340, 1000))
+
+names(df51_1) <- col_names
+
+df51_2 <- extract_tables_typ3(basisghana_pdf,
+                              pages = 51,
+                              # (top, left, bottom,right)
+                              vec_area = c(330, 160, 460, 1000))
+
+names(df51_2) <- col_names
+
+
+df51_3 <- extract_tables_typ1(basisghana_pdf,
+                              pages = 51,
+                              # (top, left, bottom,right)
+                              vec_area = c(460, 160, 600, 1000))
+
+names(df51_3) <- col_names
+
+
+
+df51 <- bind_rows(df51_1, df51_2, df51_3) |>
+  mutate(no = 898:928)
+
+## page 52
+
+df52_1 <- extract_tables_typ3(basisghana_pdf,
+                              pages = 52,
+                              # (top, left, bottom,right)
+                              vec_area = c(50, 160, 230, 1000))
+
+names(df52_1) <- col_names
+
+df52_2 <- extract_tables_typ3(basisghana_pdf,
+                              pages = 52,
+                              # (top, left, bottom,right)
+                              vec_area = c(220, 160, 400, 1000))
+
+names(df52_2) <- col_names
+
+
+df52_3 <- extract_tables_typ1(basisghana_pdf,
+                              pages = 52,
+                              # (top, left, bottom,right)
+                              vec_area = c(390, 160, 600, 1000))
+
+names(df52_3) <- col_names
+
+df52 <- bind_rows(df52_1, df52_2, df52_3) |>
+  mutate(no = 929:959)
+
+## page 53
+
+
+df53_1 <- extract_tables_typ3(basisghana_pdf,
+                              pages = 53,
+                              # (top, left, bottom,right)
+                              vec_area = c(50, 160, 150, 1000))
+
+names(df53_1) <- col_names
+
+
+df53_2 <- extract_tables_typ3(basisghana_pdf,
+                              pages = 53,
+                              # (top, left, bottom,right)
+                              vec_area = c(150, 160, 460, 1000))
+
+names(df53_2) <- col_names
+
+
+df53_2
+
+extract_tables_typ1(basisghana_pdf,
+                    pages = 53,
+                    # (top, left, bottom,right)
+                    vec_area = c(440, 160, 600, 1000))
+
+names(df53_2) <- col_names
+
+
+m53_3 <- extract_tables(basisghana_pdf,
+                        pages = 53,
+                        guess = FALSE,
+                        # (top, left, bottom, right)
+                        area = list(c(450, 100, 600, 1000)))
+
+
+df53_3 <- as.data.frame(m53_3[[1]])
+
+df53_3 <- df53_3 |>
+  mutate(no = seq(1:n())) |>
+  relocate(no) |>
+  as_tibble() |>
+  mutate(V0 = NA_character_,
+         V7 = NA_integer_) |>
+  relocate(V0, .after = no) |>
+  mutate(across(V3:V7, as.numeric))
+
+
+names(df53_3) <- col_names
+
+df53 <- bind_rows(df53_1, df53_2, df53_3) |>
+  mutate(no = 960:990)
+
+## page 54
+
+m54_1 <- extract_tables(basisghana_pdf,
+                        pages = 54,
+                        guess = FALSE,
+                        # (top, left, bottom, right)
+                        area = list(c(50, 100, 600, 1000)))
+
+
+df54_1 <- as.data.frame(m54_1[[1]])
+
+df54 <- df54_1 |>
+  mutate(no = 991:998) |>
+  relocate(no) |>
+  as_tibble() |>
+  mutate(V0 = NA_character_,
+         V7 = NA_integer_) |>
+  relocate(V0, .after = no) |>
+  mutate(across(V3:V7, as.numeric))
+
+names(df54) <- col_names
+
+
 # pages 22 to 54 ----------------------------------------------------------
 
 bind_rows(df22,
@@ -770,7 +942,12 @@ bind_rows(df22,
           df43,
           df44,
           df45,
-          df4648)
+          df4648,
+          df49,
+          df50,
+          df51,
+          df52,
+          df53)
 
 # export final dataframe --------------------------------------------------
 
