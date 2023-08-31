@@ -1,0 +1,65 @@
+---
+output: github_document
+editor_options: 
+  chunk_output_type: console
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# basisghana
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of basisghana is to ...
+
+## Installation
+
+You can install the development version of basisghana from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("openwashdata/basisghana")
+```
+
+## Example
+
+```{r example}
+library(tidyverse)
+library(basisghana)
+## basic example code
+
+# Number of ODF communities in each region
+
+basisghana |>
+  group_by(region) |> 
+  summarise(odfs = n(),
+            population = sum(population, na.rm = TRUE))
+
+# Number of ODF communities in each district
+
+basisghana |>
+  group_by(region, district) |> 
+  summarise(odfs = n())
+
+# Number of ODF communities in each district
+
+basisghana |>
+  group_by(council) |> 
+  summarise(odfs = n())
+
+
+
+
+```
+
+
