@@ -1013,7 +1013,11 @@ basisghana <- basisghana_complete |>
   select(-odfs) |>
   # replace empty fields with NA -> assumption is that the area council is not
   # the same as the previous value in the table
-  mutate(area_council = na_if(area_council, ""))
+  mutate(area_council = na_if(area_council, "")) |>
+  mutate(no = as.integer(no)) |>
+  rename(community = community_name,
+         council = area_council) |>
+  relocate(partner, .after = community)
 
 # export data -------------------------------------------------------------
 
