@@ -694,7 +694,7 @@ names(df43_2) <- col_names
 df43_3 <- extract_tables_typ3(basisghana_pdf,
                               pages = 43,
                               # (top, left, bottom,right)
-                              vec_area = c(370, 160, 430, 1000))
+                              vec_area = c(360, 160, 430, 1000))
 
 names(df43_3) <- col_names
 
@@ -1009,15 +1009,11 @@ odfs <- basisghana_complete |>
 
 # manipulation: check what empty fields are
 
-basisghana
-
-basisghana_complete |>
+basisghana <- basisghana_complete |>
   select(-odfs) |>
+  # replace empty fields with NA -> assumption is that the area council is not
+  # the same as the previous value in the table
   mutate(area_council = na_if(area_council, ""))
-  filter(is.na(area_council))
-  mutate_all(~na_if(.x, " "))
-
-
 
 # export data -------------------------------------------------------------
 
