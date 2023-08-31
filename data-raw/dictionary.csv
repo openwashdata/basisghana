@@ -3,12 +3,9 @@ data, basisghana.rda, no, integer, A running id for unique for each region.
 data, basisghana.rda, region, character, First level of subnational government administration within the Republic of Ghana.
 data, basisghana.rda, district, character, Second level administrative subdivisions of Ghana, below the level of region.
 data, basisghana.rda, area_council, Third level administrative unit below district level.
-data, basisghana.rda, community, character, Smallest level of local administration in Ghana (also called unit committees).
+data, basisghana.rda, community, character, Open defecation free (ODF) community. The community is the smallest level of local administration in Ghana (also called unit committees).
 data, basisghana.rda, partner, character, Implementing partner of the CLTS (Community-Led Total Sanitation) program in the respective community.
 data, basisghana.rda, population, double, Populationg size of the respective community.
 data, basisghana.rda, households, double, Number of households in the respective community.
 data, basisghana.rda, toilets, double, Number of toilets in the respective community.
 data, basisghana.rda, hwf, double, ??? TODO
-data, ofds.rda, region, character, First level of subnational government administration within the Republic of Ghana.
-data, odfs.rda, district, character, Second level administrative subdivisions of Ghana, below the level of region.
-data, odfs.rda, odfs, Number of open defecation free (ODF) communities in each district.

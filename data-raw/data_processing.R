@@ -1003,9 +1003,19 @@ basisghana_complete <- bind_rows(page01,
 
 # split data in two resources ---------------------------------------------
 
-odfs <- basisghana_complete |>
-  select(region, district, odfs) |>
-  drop_na()
+## Removed the odfs data resource, because the number of ODFs can be calculated
+## from the original dataset. Each observation (row) in the data is one ODF
+## community: and could be calculated by:
+
+# basisghana |>
+#   group_by(region, district) |>
+#   summarise(odfs = n())
+
+# Also see related issue: https://github.com/openwashdata/basisghana/issues/2
+
+# odfs <- basisghana_complete |>
+#   select(region, district, odfs) |>
+#   drop_na()
 
 # manipulation: check what empty fields are
 
@@ -1020,11 +1030,6 @@ basisghana <- basisghana_complete |>
   relocate(partner, .after = community)
 
 # export data -------------------------------------------------------------
-
-usethis::use_data(odfs, overwrite = TRUE)
-fs::dir_create(here::here("inst", "extdata"))
-readr::write_csv(odfs, here::here("inst", "extdata", "odfs.csv"))
-openxlsx::write.xlsx(odfs, here::here("inst", "extdata", "odfs.xlsx"))
 
 usethis::use_data(basisghana, overwrite = TRUE)
 fs::dir_create(here::here("inst", "extdata"))
