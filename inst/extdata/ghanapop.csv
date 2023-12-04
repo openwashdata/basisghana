@@ -1,0 +1,261 @@
+country_en,country_pcode,region_en,region_pcode,district_en,district_pcode,female_pop,male_pop,total_pop
+Ghana,GH,Greater Accra,GH07,Ablekuma Central Municipal,GH0701,86551,82594,169145
+Ghana,GH,Greater Accra,GH07,Ablekuma North Municipal,GH0702,82426,76782,159208
+Ghana,GH,Greater Accra,GH07,Ablekuma West Municipal,GH0703,79611,73879,153490
+Ghana,GH,Eastern,GH06,Abuakwa North,GH0601,46923,44374,91297
+Ghana,GH,Eastern,GH06,Abuakwa South,GH0602,37407,36542,73949
+Ghana,GH,Central,GH05,Abura-Asebu-Kwamankese,GH0501,64821,59644,124465
+Ghana,GH,Greater Accra,GH07,Accra Metropolis,GH0704,150079,134045,284124
+Ghana,GH,Eastern,GH06,Achiase,GH0603,28936,27412,56348
+Ghana,GH,Greater Accra,GH07,Ada East,GH0705,39377,37034,76411
+Ghana,GH,Greater Accra,GH07,Ada West,GH0706,38955,37132,76087
+Ghana,GH,Volta,GH14,Adaklu,GH1401,19686,18963,38649
+Ghana,GH,Ashanti,GH02,Adansi Akrofuom,GH0201,22976,26315,49291
+Ghana,GH,Ashanti,GH02,Adansi Asokwa,GH0202,35900,35944,71844
+Ghana,GH,Ashanti,GH02,Adansi North,GH0203,27373,26782,54155
+Ghana,GH,Ashanti,GH02,Adansi South,GH0204,42648,42552,85200
+Ghana,GH,Greater Accra,GH07,Adenta Municipal,GH0707,119705,117841,237546
+Ghana,GH,Volta,GH14,Afadzato South,GH1402,37065,36081,73146
+Ghana,GH,Ashanti,GH02,Afigya Kwabre North,GH0205,36722,36608,73330
+Ghana,GH,Ashanti,GH02,Afigya Kwabre South,GH0206,119600,115067,234667
+Ghana,GH,Central,GH05,Agona East,GH0502,50974,47350,98324
+Ghana,GH,Central,GH05,Agona West Municipal,GH0503,71380,65502,136882
+Ghana,GH,Volta,GH14,Agotime Ziope,GH1403,20762,18791,39553
+Ghana,GH,Ashanti,GH02,Ahafo Ano North,GH0207,45989,46753,92742
+Ghana,GH,Ashanti,GH02,Ahafo Ano South East,GH0208,31397,32071,63468
+Ghana,GH,Ashanti,GH02,Ahafo Ano South West,GH0209,32129,33641,65770
+Ghana,GH,Western,GH15,Ahanta West Municipal,GH1501,77921,75219,153140
+Ghana,GH,Central,GH05,Ajumako-Enyan-Essiam,GH0504,63325,57261,120586
+Ghana,GH,Volta,GH14,Akatsi North,GH1404,17395,15146,32541
+Ghana,GH,Volta,GH14,Akatsi South,GH1405,49432,43062,92494
+Ghana,GH,Eastern,GH06,Akwapem North,GH0604,55769,49546,105315
+Ghana,GH,Eastern,GH06,Akwapem South,GH0605,39821,37101,76922
+Ghana,GH,Eastern,GH06,Akyem Mansa,GH0606,45772,45266,91038
+Ghana,GH,Ashanti,GH02,Amansie Central,GH0210,44659,48393,93052
+Ghana,GH,Ashanti,GH02,Amansie South,GH0211,54906,61460,116366
+Ghana,GH,Ashanti,GH02,Amansie West,GH0212,53368,56048,109416
+Ghana,GH,Volta,GH14,Anloga,GH1406,50186,44709,94895
+Ghana,GH,Western North,GH16,Aowin,GH1601,61485,68236,129721
+Ghana,GH,Ashanti,GH02,Asante Akim Central Municipal,GH0213,47166,44507,91673
+Ghana,GH,Ashanti,GH02,Asante Akim North,GH0214,43788,42000,85788
+Ghana,GH,Ashanti,GH02,Asante Akim South,GH0215,61918,61715,123633
+Ghana,GH,Eastern,GH06,Asene Akroso Manso,GH0607,39690,37808,77498
+Ghana,GH,Greater Accra,GH07,Ashaiman Municipal,GH0708,104650,103410,208060
+Ghana,GH,Central,GH05,Asikuma-Odoben-Brakwa,GH0505,65170,61823,126993
+Ghana,GH,Ashanti,GH02,Asokore Mampong Municipal,GH0216,97896,93506,191402
+Ghana,GH,Ashanti,GH02,Asokwa  Municipal,GH0217,64642,61000,125642
+Ghana,GH,Central,GH05,Assin Fosu,GH0506,45204,43549,88753
+Ghana,GH,Central,GH05,Assin North,GH0507,40070,40469,80539
+Ghana,GH,Central,GH05,Assin South,GH0508,53912,52083,105995
+Ghana,GH,Ahafo,GH01,Asunafo North Municipal,GH0101,73852,76346,150198
+Ghana,GH,Ahafo,GH01,Asunafo South,GH0102,44737,46956,91693
+Ghana,GH,Eastern,GH06,Asuogyaman,GH0608,52533,48723,101256
+Ghana,GH,Ahafo,GH01,Asutifi North,GH0103,35893,37663,73556
+Ghana,GH,Ahafo,GH01,Asutifi South,GH0104,33462,34932,68394
+Ghana,GH,Bono East,GH04,Atebubu Amantin,GH0401,71954,72993,144947
+Ghana,GH,Eastern,GH06,Atiwa East,GH0609,31976,32671,64647
+Ghana,GH,Eastern,GH06,Atiwa West,GH0610,29931,31288,61219
+Ghana,GH,Ashanti,GH02,Atwima Kwanwoma,GH0218,120723,114123,234846
+Ghana,GH,Ashanti,GH02,Atwima Mponua,GH0219,75019,80235,155254
+Ghana,GH,Ashanti,GH02,Atwima Nwabiagya North,GH0220,78148,76877,155025
+Ghana,GH,Ashanti,GH02,Atwima Nwabiagya South,GH0221,83559,78334,161893
+Ghana,GH,Central,GH05,Awutu Senya,GH0509,83241,78219,161460
+Ghana,GH,Central,GH05,Awutu Senya East,GH0510,120997,115530,236527
+Ghana,GH,Greater Accra,GH07,Ayawaso Central Municipal,GH0709,48343,46488,94831
+Ghana,GH,Greater Accra,GH07,Ayawaso East Municipal,GH0710,27566,25438,53004
+Ghana,GH,Greater Accra,GH07,Ayawaso North Municipal,GH0711,33343,30043,63386
+Ghana,GH,Greater Accra,GH07,Ayawaso West,GH0712,36689,38614,75303
+Ghana,GH,Eastern,GH06,Ayensuano,GH0611,47433,47161,94594
+Ghana,GH,Bono,GH03,Banda,GH0301,13366,14813,28179
+Ghana,GH,Upper East,GH12,Bawku Municipal,GH1201,61429,58029,119458
+Ghana,GH,Upper East,GH12,Bawku West,GH1202,73408,70781,144189
+Ghana,GH,Ashanti,GH02,Bekwai Municipal,GH0222,71351,66616,137967
+Ghana,GH,Bono,GH03,Berekum East Municipal,GH0302,56089,50163,106252
+Ghana,GH,Bono,GH03,Berekum West,GH0303,25871,23593,49464
+Ghana,GH,Western North,GH16,Bia East,GH1602,24919,28154,53073
+Ghana,GH,Western North,GH16,Bia West,GH1603,55926,59955,115881
+Ghana,GH,Oti,GH10,Biakoye,GH1001,35758,36069,71827
+Ghana,GH,Western North,GH16,Bibiani-Anhwiaso-Bekwai Municipal,GH1604,85173,82798,167971
+Ghana,GH,Upper East,GH12,Binduri,GH1203,39688,36991,76679
+Ghana,GH,Eastern,GH06,Birim Central Municipal,GH0612,39828,36474,76302
+Ghana,GH,Eastern,GH06,Birim North,GH0613,41326,41343,82669
+Ghana,GH,Eastern,GH06,Birim South,GH0614,18234,17420,35654
+Ghana,GH,Western North,GH16,Bodi,GH1605,32095,33653,65748
+Ghana,GH,Savannah,GH11,Bole,GH1101,55897,59903,115800
+Ghana,GH,Upper East,GH12,Bolga  East,GH1204,19988,18836,38824
+Ghana,GH,Upper East,GH12,Bolgatanga Municipal,GH1205,73257,66607,139864
+Ghana,GH,Upper East,GH12,Bongo,GH1206,63334,56920,120254
+Ghana,GH,Ashanti,GH02,Bosome Freho,GH0223,30832,31427,62259
+Ghana,GH,Ashanti,GH02,Bosomtwe,GH0224,84752,80428,165180
+Ghana,GH,Upper East,GH12,Builsa North,GH1207,28239,28332,56571
+Ghana,GH,Upper East,GH12,Builsa South,GH1208,18247,18328,36575
+Ghana,GH,Northern East,GH09,Bunkpurugu Nakpanduri,GH0901,41980,40404,82384
+Ghana,GH,Central,GH05,Cape Coast Metropolitan,GH0511,97135,92790,189925
+Ghana,GH,Savannah,GH11,Central Gonja,GH1102,71127,71635,142762
+Ghana,GH,Volta,GH14,Central Tongu,GH1407,44367,39436,83803
+Ghana,GH,Northern East,GH09,Chereponi,GH0902,44342,42834,87176
+Ghana,GH,Upper West,GH13,Daffiama Bussie Issa,GH1301,19831,18923,38754
+Ghana,GH,Eastern,GH06,Denkyembour,GH0615,39163,37866,77029
+Ghana,GH,Bono,GH03,Dormaa East,GH0304,34563,33336,67899
+Ghana,GH,Bono,GH03,Dormaa Municipal,GH0305,57594,55108,112702
+Ghana,GH,Bono,GH03,Dormaa West,GH0306,22391,25522,47913
+Ghana,GH,Savannah,GH11,East Gonja Municipal,GH1103,57556,60199,117755
+Ghana,GH,Northern East,GH09,East Mamprusi,GH0903,96887,91119,188006
+Ghana,GH,Western,GH15,Effia Kwesimintsim Municipal,GH1502,88111,85864,173975
+Ghana,GH,Central,GH05,Effutu Municipal,GH0512,53075,54723,107798
+Ghana,GH,Ashanti,GH02,Ejisu Municipal,GH0225,92887,87836,180723
+Ghana,GH,Ashanti,GH02,Ejura-Sekyedumase,GH0226,69121,68551,137672
+Ghana,GH,Central,GH05,Ekumfi,GH0513,30357,26384,56741
+Ghana,GH,Western,GH15,Ellembelle,GH1503,60307,60586,120893
+Ghana,GH,Eastern,GH06,Fanteakwa North,GH0616,28130,28857,56987
+Ghana,GH,Eastern,GH06,Fanteakwa South,GH0617,27052,27582,54634
+Ghana,GH,Greater Accra,GH07,Ga Central Municipal,GH0713,170640,161592,332232
+Ghana,GH,Greater Accra,GH07,Ga East,GH0714,143364,140015,283379
+Ghana,GH,Greater Accra,GH07,Ga North Municipal,GH0715,118811,116481,235292
+Ghana,GH,Greater Accra,GH07,Ga South Municipal,GH0716,177629,172492,350121
+Ghana,GH,Greater Accra,GH07,Ga West Municipal,GH0717,158756,155543,314299
+Ghana,GH,Upper East,GH12,Garu,GH1209,37340,34434,71774
+Ghana,GH,Central,GH05,Gomoa Central,GH0514,44509,39101,83610
+Ghana,GH,Central,GH05,Gomoa East,GH0515,156459,152238,308697
+Ghana,GH,Central,GH05,Gomoa West,GH0516,70092,59420,129512
+Ghana,GH,Northern,GH08,Gushegu,GH0801,78604,75361,153965
+Ghana,GH,Volta,GH14,Ho Municipal,GH1408,95577,84843,180420
+Ghana,GH,Volta,GH14,Ho West,GH1409,42894,39992,82886
+Ghana,GH,Volta,GH14,Hohoe Municipal,GH1410,73364,69346,142710
+Ghana,GH,Bono,GH03,Jaman North,GH0307,59286,58623,117909
+Ghana,GH,Bono,GH03,Jaman South Municipal,GH0308,55821,52567,108388
+Ghana,GH,Oti,GH10,Jasikan,GH1002,29254,30441,59695
+Ghana,GH,Upper West,GH13,Jirapa,GH1302,48258,43021,91279
+Ghana,GH,Western,GH15,Jomoro,GH1504,63927,62649,126576
+Ghana,GH,Ashanti,GH02,Juaben Municipal,GH0227,32726,31203,63929
+Ghana,GH,Western North,GH16,Juaboso,GH1606,43092,45722,88814
+Ghana,GH,Oti,GH10,Kadjebi,GH1003,36057,37902,73959
+Ghana,GH,Northern,GH08,Karaga,GH0802,58548,55677,114225
+Ghana,GH,Upper East,GH12,Kasena Nankana East,GH1210,51237,48658,99895
+Ghana,GH,Upper East,GH12,Kasena Nankana West,GH1211,46826,43909,90735
+Ghana,GH,Volta,GH14,Keta Municipal,GH1411,41876,36986,78862
+Ghana,GH,Volta,GH14,Ketu North,GH1412,60914,53932,114846
+Ghana,GH,Volta,GH14,Ketu South,GH1413,131845,121277,253122
+Ghana,GH,Bono East,GH04,Kintampo North Municipal,GH0402,69988,69520,139508
+Ghana,GH,Bono East,GH04,Kintampo South,GH0403,43661,45465,89126
+Ghana,GH,Central,GH05,Komenda-Edina-Eguafo-Abirem Municipal,GH0517,85447,80570,166017
+Ghana,GH,Greater Accra,GH07,Korle Klottey Municipal,GH0718,35525,33108,68633
+Ghana,GH,Northern,GH08,Kpandai,GH0803,63332,62881,126213
+Ghana,GH,Volta,GH14,Kpando Municipal,GH1414,29258,29294,58552
+Ghana,GH,Greater Accra,GH07,Kpone Katamanso,GH0719,209294,208040,417334
+Ghana,GH,Oti,GH10,Krachi East Municipal,GH1004,54249,56186,110435
+Ghana,GH,Oti,GH10,Krachi Nchumuru,GH1005,39567,40367,79934
+Ghana,GH,Oti,GH10,Krachi West,GH1006,29919,31209,61128
+Ghana,GH,Greater Accra,GH07,Krowor Municipal,GH0720,72277,70735,143012
+Ghana,GH,Ashanti,GH02,Kumasi Metropolitan,GH0228,230319,213662,443981
+Ghana,GH,Northern,GH08,Kumbungu,GH0804,55295,55291,110586
+Ghana,GH,Ashanti,GH02,Kwabre East,GH0229,153130,143684,296814
+Ghana,GH,Ashanti,GH02,Kwadaso Municipal,GH0230,79321,75205,154526
+Ghana,GH,Eastern,GH06,Kwaebibirem,GH0618,61588,60110,121698
+Ghana,GH,Eastern,GH06,Kwahu Afram Plains North,GH0619,30988,35567,66555
+Ghana,GH,Eastern,GH06,Kwahu Afram Plains South,GH0620,34579,39423,74002
+Ghana,GH,Eastern,GH06,Kwahu East,GH0621,39407,40319,79726
+Ghana,GH,Eastern,GH06,Kwahu South,GH0622,41740,38618,80358
+Ghana,GH,Eastern,GH06,Kwahu West,GH0623,74897,70532,145429
+Ghana,GH,Greater Accra,GH07,La Dade-Kotopon,GH0721,72165,68099,140264
+Ghana,GH,Upper West,GH13,Lambussie-Karni,GH1303,26058,25060,51118
+Ghana,GH,Greater Accra,GH07,La-Nkwantanang-Madina,GH0722,123830,120846,244676
+Ghana,GH,Upper West,GH13,Lawra,GH1304,30108,28325,58433
+Ghana,GH,Greater Accra,GH07,Ledzokuku Municipal,GH0723,111205,106099,217304
+Ghana,GH,Eastern,GH06,Lower Manya,GH0624,64816,56662,121478
+Ghana,GH,Ashanti,GH02,Mampong Municipal,GH0231,59667,56965,116632
+Ghana,GH,Northern East,GH09,Mamprugu Moagduri,GH0904,34693,34053,68746
+Ghana,GH,Central,GH05,Mfantseman Municipal,GH0518,90872,78033,168905
+Ghana,GH,Northern,GH08,Mion,GH0805,47768,47162,94930
+Ghana,GH,Western,GH15,Mpohor,GH1505,25494,26979,52473
+Ghana,GH,Upper East,GH12,Nabdam,GH1212,26309,25552,51861
+Ghana,GH,Upper West,GH13,Nadowli-Kaleo,GH1305,40064,36993,77057
+Ghana,GH,Upper West,GH13,Nandom,GH1306,25751,25577,51328
+Ghana,GH,Northern,GH08,Nanton,GH0806,25510,25257,50767
+Ghana,GH,Northern,GH08,Nanumba North,GH0807,96401,92279,188680
+Ghana,GH,Northern,GH08,Nanumba South,GH0808,53863,52511,106374
+Ghana,GH,Eastern,GH06,New Juaben North Municipal,GH0625,46799,46402,93201
+Ghana,GH,Eastern,GH06,New Juaben South Municipal,GH0626,64689,60567,125256
+Ghana,GH,Greater Accra,GH07,Ningo/Prampram,GH0724,102802,101871,204673
+Ghana,GH,Bono East,GH04,Nkoranza North,GH0404,27724,28744,56468
+Ghana,GH,Bono East,GH04,Nkoranza South,GH0405,57530,57112,114642
+Ghana,GH,Oti,GH10,Nkwanta North,GH1007,63474,62622,126096
+Ghana,GH,Oti,GH10,Nkwanta South Municipal,GH1008,67793,68143,135936
+Ghana,GH,Volta,GH14,North Dayi,GH1415,20193,19075,39268
+Ghana,GH,Savannah,GH11,North East Gonja,GH1104,19487,19917,39404
+Ghana,GH,Savannah,GH11,North Gonja,GH1105,30673,30759,61432
+Ghana,GH,Volta,GH14,North Tongu,GH1416,57895,52996,110891
+Ghana,GH,Eastern,GH06,Nsawam Adoagyiri,GH0627,79180,76417,155597
+Ghana,GH,Western,GH15,Nzema East,GH1506,46031,48590,94621
+Ghana,GH,Ashanti,GH02,Obuasi East,GH0232,47474,44927,92401
+Ghana,GH,Ashanti,GH02,Obuasi Municipal,GH0233,52412,51885,104297
+Ghana,GH,Ashanti,GH02,Offinso Municipal,GH0234,70703,66569,137272
+Ghana,GH,Ashanti,GH02,Offinso North,GH0235,42483,40957,83440
+Ghana,GH,Ashanti,GH02,Oforikrom Municipal,GH0236,105700,107426,213126
+Ghana,GH,Greater Accra,GH07,Okaikwei North Municipal,GH0725,82025,78421,160446
+Ghana,GH,Eastern,GH06,Okere,GH0628,27093,24582,51675
+Ghana,GH,Ashanti,GH02,Old Tafo Municipal,GH0237,59282,55086,114368
+Ghana,GH,Western,GH15,Prestea/Huni Valley,GH1507,111557,117744,229301
+Ghana,GH,Bono East,GH04,Pru East,GH0406,50458,51087,101545
+Ghana,GH,Bono East,GH04,Pru West,GH0407,34029,35354,69383
+Ghana,GH,Upper East,GH12,Pusiga,GH1213,41764,38769,80533
+Ghana,GH,Northern,GH08,Saboba,GH0809,48511,47172,95683
+Ghana,GH,Northern,GH08,Sagnerigu,GH0810,171512,170199,341711
+Ghana,GH,Northern,GH08,Savelugu,GH0811,62498,60390,122888
+Ghana,GH,Savannah,GH11,Sawla-Tuna-Kalba,GH1106,59660,53004,112664
+Ghana,GH,Western North,GH16,Sefwi Akontombra,GH1607,33307,36918,70225
+Ghana,GH,Western North,GH16,Sefwi-Wiawso,GH1608,75315,75905,151220
+Ghana,GH,Western,GH15,Sekondi Takoradi Metropolis,GH1508,126038,119344,245382
+Ghana,GH,Ashanti,GH02,Sekyere Afram Plains North,GH0238,15138,17502,32640
+Ghana,GH,Ashanti,GH02,Sekyere Central,GH0239,36738,36490,73228
+Ghana,GH,Ashanti,GH02,Sekyere East,GH0240,39058,35731,74789
+Ghana,GH,Ashanti,GH02,Sekyere Kumawu,GH0241,33506,30890,64396
+Ghana,GH,Ashanti,GH02,Sekyere South,GH0242,62011,58065,120076
+Ghana,GH,Bono East,GH04,Sene East,GH0408,33648,38433,72081
+Ghana,GH,Bono East,GH04,Sene West,GH0409,34355,35481,69836
+Ghana,GH,Greater Accra,GH07,Shai Osudoku,GH0726,52474,53136,105610
+Ghana,GH,Western,GH15,Shama,GH1509,60014,57210,117224
+Ghana,GH,Upper West,GH13,Sissala East,GH1307,40751,39868,80619
+Ghana,GH,Upper West,GH13,Sissala West,GH1308,32272,31556,63828
+Ghana,GH,Volta,GH14,South Dayi,GH1417,28805,28721,57526
+Ghana,GH,Volta,GH14,South Tongu,GH1418,60626,52488,113114
+Ghana,GH,Western North,GH16,Suaman,GH1609,17661,20607,38268
+Ghana,GH,Ashanti,GH02,Suame Municipal,GH0243,71412,64878,136290
+Ghana,GH,Eastern,GH06,Suhum Municipal,GH0629,65177,61226,126403
+Ghana,GH,Bono,GH03,Sunyani Municipal,GH0309,97237,96358,193595
+Ghana,GH,Bono,GH03,Sunyani West,GH0310,68771,67251,136022
+Ghana,GH,Bono,GH03,Tain,GH0311,57186,58382,115568
+Ghana,GH,Upper East,GH12,Talensi,GH1214,43172,43849,87021
+Ghana,GH,Northern,GH08,Tamale Metropolitan,GH0812,189693,185051,374744
+Ghana,GH,Ahafo,GH01,Tano North Municipal,GH0105,47191,46417,93608
+Ghana,GH,Ahafo,GH01,Tano South Municipal,GH0106,44193,43026,87219
+Ghana,GH,Western,GH15,Tarkwa Nsuaem,GH1510,105609,113055,218664
+Ghana,GH,Northern,GH08,Tatale Sanguli,GH0813,37864,36941,74805
+Ghana,GH,Bono East,GH04,Techiman Municipal,GH0410,124636,118699,243335
+Ghana,GH,Bono East,GH04,Techiman North,GH0411,52281,50248,102529
+Ghana,GH,Greater Accra,GH07,Tema Metropolitan,GH0727,90395,87529,177924
+Ghana,GH,Greater Accra,GH07,Tema West Municipal,GH0728,99378,96846,196224
+Ghana,GH,Upper East,GH12,Tempane,GH1215,45725,41268,86993
+Ghana,GH,Northern,GH08,Tolon,GH0814,59589,58512,118101
+Ghana,GH,Central,GH05,Twifo Atti-Morkwa,GH0519,50853,49998,100851
+Ghana,GH,Central,GH05,Twifo Hemang Lower Denkyira,GH0520,33192,32883,66075
+Ghana,GH,Central,GH05,Upper Denkyira East Municipal,GH0521,54861,55280,110141
+Ghana,GH,Central,GH05,Upper Denkyira West,GH0522,42888,48137,91025
+Ghana,GH,Eastern,GH06,Upper Manya,GH0630,35056,35620,70676
+Ghana,GH,Eastern,GH06,Upper West Akim,GH0631,47843,45548,93391
+Ghana,GH,Upper West,GH13,Wa East,GH1309,44836,46621,91457
+Ghana,GH,Upper West,GH13,Wa Municipal,GH1310,102179,98493,200672
+Ghana,GH,Upper West,GH13,Wa West,GH1311,51077,45880,96957
+Ghana,GH,Western,GH15,Wassa Amenfi Central,GH1511,55905,63212,119117
+Ghana,GH,Western,GH15,Wassa Amenfi East,GH1512,84413,95283,179696
+Ghana,GH,Western,GH15,Wassa Amenfi West,GH1513,61590,68292,129882
+Ghana,GH,Western,GH15,Wassa East,GH1514,48441,51200,99641
+Ghana,GH,Greater Accra,GH07,Weija Gbawe Municipal,GH0729,108764,104910,213674
+Ghana,GH,Bono,GH03,Wenchi Municipal,GH0312,63798,60960,124758
+Ghana,GH,Eastern,GH06,West Akim,GH0632,61877,58268,120145
+Ghana,GH,Savannah,GH11,West Gonja,GH1107,31179,32270,63449
+Ghana,GH,Northern East,GH09,West Mamprusi Municipal,GH0905,90043,85712,175755
+Ghana,GH,Northern,GH08,Yendi Municipal,GH0815,78279,76142,154421
+Ghana,GH,Eastern,GH06,Yilo Krobo,GH0633,63049,59656,122705
+Ghana,GH,Northern East,GH09,Yunyoo-Nasuan,GH0906,28852,28027,56879
+Ghana,GH,Northern,GH08,Zabzugu,GH0816,41967,40879,82846

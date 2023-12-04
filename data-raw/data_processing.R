@@ -7,6 +7,8 @@
 library(tabulizer)
 library(dplyr)
 library(tidyr)
+library(readxl)
+library(janitor)
 
 # helper functions --------------------------------------------------------
 
@@ -1028,6 +1030,31 @@ basisghana <- basisghana_complete |>
   rename(community = community_name,
          council = area_council) |>
   relocate(partner, .after = community)
+# read in Ghana population by district ------------------------------------
+ghanapop <- read_excel("data-raw/gha_admpop_2022.xlsx") |>
+  clean_names() |>
+  rename(
+    country_en = "adm0_en",
+    country_pcode = "adm0_pcode",
+    region_en = "adm1_en",
+    region_pcode = "adm1_pcode",
+    district_en = "adm2_en",
+    district_pcode = "adm2_pcode",
+    female_pop = "f_tl",
+    male_pop = "m_tl",
+    total_pop = "t_tl"
+  ) |>
+  select(
+    country_en,
+    country_pcode,
+    region_en,
+    region_pcode,
+    district_en,
+    district_pcode,
+    female_pop,
+    male_pop,
+    total_pop
+  )
 
 # export data -------------------------------------------------------------
 
@@ -1036,3 +1063,8 @@ fs::dir_create(here::here("inst", "extdata"))
 readr::write_csv(basisghana, here::here("inst", "extdata", "basisghana.csv"))
 openxlsx::write.xlsx(basisghana, here::here("inst", "extdata", "basisghana.xlsx"))
 
+usethis::use_data(ghanapop, overwrite = TRUE)
+readr::write_csv(ghanapop, here::here("inst", "extdata", "ghanapop.csv"))
+openxlsx::write.xlsx(ghanapop, here::here("inst", "extdata", "ghanapop.xlsx"))
+
+-
