@@ -1,0 +1,32 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v0.5.0
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "basisghana" in publications use:'
+type: software
+license: CC-BY-4.0
+title: 'basisghana: Basic Sanitation Information System - BaSIS'
+version: 0.0.0.9000
+abstract: This package compiles sanitation data from established Open Defecation Free
+  (ODF) communities across different regions in Ghana.
+authors:
+- family-names: Schöbitz
+  given-names: Lars
+  email: lschoebitz@ethz.ch
+  orcid: https://orcid.org/0000-0003-2196-5015
+- family-names: Skorik
+  given-names: Sophia
+  email: sskorik@ethz.ch
+  orcid: https://orcid.org/0009-0001-4755-1649
+date-released: '2023-12-04'
+contact:
+- family-names: Schöbitz
+  given-names: Lars
+  email: lschoebitz@ethz.ch
+  orcid: https://orcid.org/0000-0003-2196-5015
+- family-names: Skorik
+  given-names: Sophia
+  email: sskorik@ethz.ch
+  orcid: https://orcid.org/0009-0001-4755-1649

@@ -1,0 +1,11 @@
+
+bibentry(bibtype = "Misc",
+         key = "schobitzskorik",
+         title = "basisghana: Basic Sanitation Information System - BaSIS",
+         author = c(person(given = "Lars",
+                           family = "Schöbitz"),
+                    person(given = "Sophia",
+                           family = "Skorik")),
+         year = "2023",
+         abstract = "This package compiles sanitation data from established Open Defecation Free (ODF) communities across different regions in Ghana.",
+         version = "0.0.0.9000")

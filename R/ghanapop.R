@@ -15,3 +15,4 @@
 #'   \item{ male_pop}{ Total male population within the corresponding District.}
 #'   \item{ total_pop}{ Total population within the corresponding District.}
 #' }
+"ghanapop"

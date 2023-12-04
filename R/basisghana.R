@@ -16,3 +16,4 @@
 #'   \item{ toilets}{ Number of toilets in the respective community.}
 #'   \item{ hwf}{ Number of handwashing facilities in the respective community.}
 #' }
+"basisghana"
