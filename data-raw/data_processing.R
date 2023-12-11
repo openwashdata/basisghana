@@ -1043,7 +1043,7 @@ ghanapop <- read_excel("data-raw/gha_admpop_2022.xlsx") |>
     female_pop = "f_tl",
     male_pop = "m_tl",
     total_pop = "t_tl"
-  ) |>
+  )  |>
   select(
     country_en,
     country_pcode,
