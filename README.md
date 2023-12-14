@@ -202,6 +202,9 @@ ggplot() +
 
 <img src="man/figures/README-unnamed-chunk-9-1.png" width="100%" style="display: block; margin: auto;" />
 
+*Note: A logarithmic scale has been employed to accentuate distinctions
+among lower percentage values.*
+
 ## License
 
 Data are available as

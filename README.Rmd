@@ -167,7 +167,7 @@ top_10_odf
 
 ### 2) Mapping the Regions with highest percentage of ODF communities in Ghana
 
-The code uses the dataset of ODF communities categorized by districts (see above), which are then aggregated based on regions in Ghana. It's important to note that the reference to Ghana's regions pertains to the former 10 regions preceding the 2018 referendum, which subsequently led to the establishment of new regions, resulting in a total of 16 regions from 2020 (Refer to [Regions of Ghana](https://en.wikipedia.org/wiki/Regions_of_Ghana)). From the collected data across 5 of these former regions, a color-coded map of Ghana depicts the varying proportions of Open Defecation Free (ODF) communities in each region.
+The code uses the dataset of ODF communities categorized by districts (see above), which are then aggregated based on regions in Ghana. It's important to note that the reference to Ghana's regions pertains to the former 10 regions preceding the 2018 referendum, which subsequently led to the establishment of new regions, resulting in a total of 16 regions from 2020 (Refer to [Regions of Ghana](https://en.wikipedia.org/wiki/Regions_of_Ghana)). From the collected data across 5 of these former regions, a color-coded map of Ghana depicts the varying proportions of Open Defecation Free (ODF) communities in each region. 
 
 
 ```{r}
@@ -216,6 +216,8 @@ ggplot() +
     plot.margin = margin(1, 1, 1, 1, "cm")  
   ) 
 ```
+
+*Note: A logarithmic scale has been employed to accentuate distinctions among lower percentage values.*
 
 ## License
 
