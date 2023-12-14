@@ -27,6 +27,7 @@ library(universityrankingafrica)
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/openwashdata/basisghana/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/openwashdata/basisghana/actions/workflows/R-CMD-check.yaml)
+[![DOI](https://zenodo.org/badge/676448371.svg)](https://zenodo.org/doi/10.5281/zenodo.10255444)
 <!-- badges: end -->
 
 This package compiles sanitation data from established Open Defecation Free (ODF) communities across different regions in Ghana.
