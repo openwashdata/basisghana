@@ -219,12 +219,12 @@ To cite this package, please use:
 
 ``` r
 citation("basisghana")
-#> Um Paket 'basisghana' in Publikationen zu zitieren, nutzen Sie bitte:
+#> To cite package 'basisghana' in publications use:
 #> 
 #>   Schöbitz L, Skorik S (2023). "basisghana: Basic Sanitation
 #>   Information System - BaSIS."
 #> 
-#> Ein BibTeX-Eintrag für LaTeX-Benutzer ist
+#> A BibTeX entry for LaTeX users is
 #> 
 #>   @Misc{schobitzskorik,
 #>     title = {basisghana: Basic Sanitation Information System - BaSIS},
