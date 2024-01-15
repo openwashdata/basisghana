@@ -12,6 +12,8 @@
 This package compiles sanitation data from established Open Defecation
 Free (ODF) communities across different regions in Ghana.
 
+<img src="man/figures/README-unnamed-chunk-2-1.png" width="100%" style="display: block; margin: auto;" />
+
 ## Installation
 
 You can install the development version of basisghana from
@@ -203,7 +205,7 @@ ggplot() +
   ) 
 ```
 
-<img src="man/figures/README-unnamed-chunk-9-1.png" width="100%" style="display: block; margin: auto;" />
+<img src="man/figures/README-unnamed-chunk-10-1.png" width="100%" style="display: block; margin: auto;" />
 
 *Note: A logarithmic scale has been employed to accentuate distinctions
 among lower percentage values.*
@@ -219,12 +221,12 @@ To cite this package, please use:
 
 ``` r
 citation("basisghana")
-#> Um Paket 'basisghana' in Publikationen zu zitieren, nutzen Sie bitte:
+#> To cite package 'basisghana' in publications use:
 #> 
 #>   Schöbitz L, Skorik S (2023). "basisghana: Basic Sanitation
 #>   Information System - BaSIS."
 #> 
-#> Ein BibTeX-Eintrag für LaTeX-Benutzer ist
+#> A BibTeX entry for LaTeX users is
 #> 
 #>   @Misc{schobitzskorik,
 #>     title = {basisghana: Basic Sanitation Information System - BaSIS},
