@@ -7,12 +7,13 @@
 
 [![R-CMD-check](https://github.com/openwashdata/basisghana/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/openwashdata/basisghana/actions/workflows/R-CMD-check.yaml)
 [![DOI](https://zenodo.org/badge/676448371.svg)](https://zenodo.org/doi/10.5281/zenodo.10255444)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10255444.svg)](https://zenodo.org/doi/10.5281/zenodo.10255444)
 <!-- badges: end -->
 
 This package compiles sanitation data from established Open Defecation
 Free (ODF) communities across different regions in Ghana.
 
-<img src="man/figures/README-unnamed-chunk-2-1.png" width="100%" style="display: block; margin: auto;" />
+<img src="man/figures/README-unnamed-chunk-2-1.png" alt="" width="100%" style="display: block; margin: auto;" />
 
 ## Installation
 
@@ -27,10 +28,10 @@ devtools::install_github("openwashdata/basisghana")
 Alternatively, you can download the individual dataset as a CSV or XLSX
 file from the table below.
 
-| dataset    | CSV                                                                                             | XLSX                                                                                              |
-|:-----------|:------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|
+| dataset | CSV | XLSX |
+|:---|:---|:---|
 | basisghana | [Download CSV](https://github.com/openwashdata/basisghana/raw/main/inst/extdata/basisghana.csv) | [Download XLSX](https://github.com/openwashdata/basisghana/raw/main/inst/extdata/basisghana.xlsx) |
-| ghanapop   | [Download CSV](https://github.com/openwashdata/basisghana/raw/main/inst/extdata/ghanapop.csv)   | [Download XLSX](https://github.com/openwashdata/basisghana/raw/main/inst/extdata/ghanapop.xlsx)   |
+| ghanapop | [Download CSV](https://github.com/openwashdata/basisghana/raw/main/inst/extdata/ghanapop.csv) | [Download XLSX](https://github.com/openwashdata/basisghana/raw/main/inst/extdata/ghanapop.xlsx) |
 
 ## Project goal
 
@@ -65,18 +66,18 @@ overview of the variable names, see the following table.
 basisghana
 ```
 
-| variable_name | variable_type | description                                                                                                                               |
-|:--------------|:--------------|:------------------------------------------------------------------------------------------------------------------------------------------|
-| no            | integer       | A running id for unique for each region.                                                                                                  |
-| region        | character     | First level of subnational government administration within the Republic of Ghana.                                                        |
-| district      | character     | Second level administrative subdivision below region.                                                                                     |
-| area_council  | character     | Third level administrative unit below district level.                                                                                     |
-| community     | character     | Open defecation free (ODF) community. The community is the smallest level of local administration in Ghana (also called unit committees). |
-| partner       | character     | Implementing partner of the CLTS (Community-Led Total Sanitation) program in the respective community.                                    |
-| population    | double        | Population size of the respective community.                                                                                              |
-| households    | double        | Number of households in the respective community.                                                                                         |
-| toilets       | double        | Number of toilets in the respective community.                                                                                            |
-| hwf           | double        | Number of handwashing facilities in the respective community.                                                                             |
+| variable_name | variable_type | description |
+|:---|:---|:---|
+| no | integer | A running id for unique for each region. |
+| region | character | First level of subnational government administration within the Republic of Ghana. |
+| district | character | Second level administrative subdivision below region. |
+| council | character | Third level administrative unit below district level. |
+| community | character | Open defecation free (ODF) community. The community is the smallest level of local administration in Ghana (also called unit committees). |
+| partner | character | Implementing partner of the CLTS (Community-Led Total Sanitation) program in the respective community. |
+| population | double | Population size of the respective community. |
+| households | double | Number of households in the respective community. |
+| toilets | double | Number of toilets in the respective community. |
+| hwf | double | Number of handwashing facilities in the respective community. |
 
 The `ghanapop` data set has 9 variables and 260 observations. For an
 overview of the variable names, see the following table.
@@ -85,17 +86,17 @@ overview of the variable names, see the following table.
 ghanapop
 ```
 
-| variable_name  | variable_type | description                                                                                        |
-|:---------------|:--------------|:---------------------------------------------------------------------------------------------------|
-| country_en     | character     | The English name denoting the country where the data was gathered (Ghana).                         |
-| country_pcode  | character     | The ISO2 code representing Ghana (country of data collection).                                     |
-| region_en      | character     | The English designation specifying the region within Ghana. (Ghana comprises 16 distinct regions.) |
-| region_pcode   | character     | The postal code linked to the specific region.                                                     |
-| district_en    | character     | The English name identifying the district in Ghana. (There are 261 districts in Ghana.)            |
-| district_pcode | character     | The postal code specific to the district.                                                          |
-| female_pop     | double        | Total female population within the corresponding District.                                         |
-| male_pop       | double        | Total male population within the corresponding District.                                           |
-| total_pop      | double        | Total population within the corresponding District.                                                |
+| variable_name | variable_type | description |
+|:---|:---|:---|
+| country_en | character | The English name denoting the country where the data was gathered (Ghana). |
+| country_pcode | character | The ISO2 code representing Ghana (country of data collection). |
+| region_en | character | The English designation specifying the region within Ghana. (Ghana comprises 16 distinct regions.) |
+| region_pcode | character | The postal code linked to the specific region. |
+| district_en | character | The English name identifying the district in Ghana. (There are 261 districts in Ghana.) |
+| district_pcode | character | The postal code specific to the district. |
+| female_pop | double | Total female population within the corresponding District. |
+| male_pop | double | Total male population within the corresponding District. |
+| total_pop | double | Total population within the corresponding District. |
 
 ## Example
 
@@ -205,7 +206,7 @@ ggplot() +
   ) 
 ```
 
-<img src="man/figures/README-unnamed-chunk-10-1.png" width="100%" style="display: block; margin: auto;" />
+<img src="man/figures/README-unnamed-chunk-10-1.png" alt="" width="100%" style="display: block; margin: auto;" />
 
 *Note: A logarithmic scale has been employed to accentuate distinctions
 among lower percentage values.*
@@ -223,16 +224,21 @@ To cite this package, please use:
 citation("basisghana")
 #> To cite package 'basisghana' in publications use:
 #> 
-#>   Schöbitz L, Skorik S (2023). "basisghana: Basic Sanitation
-#>   Information System - BaSIS."
+#>   Schöbitz L, Skorik S (2026). "basisghana: Basic Sanitation
+#>   Information System - BaSIS." doi:10.5281/zenodo.10255444
+#>   <https://doi.org/10.5281/zenodo.10255444>.
+#>   <https://github.com/openwashdata/basisghana>.
 #> 
 #> A BibTeX entry for LaTeX users is
 #> 
-#>   @Misc{schobitzskorik,
+#>   @Misc{schobitz_etall:2026,
 #>     title = {basisghana: Basic Sanitation Information System - BaSIS},
 #>     author = {Lars Schöbitz and Sophia Skorik},
-#>     year = {2023},
+#>     year = {2026},
+#>     doi = {10.5281/zenodo.10255444},
+#>     url = {https://github.com/openwashdata/basisghana},
 #>     abstract = {This package compiles sanitation data from established Open Defecation Free (ODF) communities across different regions in Ghana.},
+#>     keywords = {open data,washdata,sanitation,open defecation,Ghana,defecation,ghana,open-data,openwashdata,r,wash},
 #>     version = {0.0.0.9000},
 #>   }
 ```
