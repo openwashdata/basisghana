@@ -31,6 +31,8 @@ library(basisghana)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10255444.svg)](https://zenodo.org/doi/10.5281/zenodo.10255444)
 <!-- badges: end -->
 
+A data package published by [openwashdata](https://openwashdata.org).
+
 This package compiles sanitation data from established Open Defecation Free (ODF) communities across different regions in Ghana.
 
 ```{r, echo=FALSE}
