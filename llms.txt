@@ -1,7 +1,5 @@
 # basisghana
 
-A data package published by [openwashdata](https://openwashdata.org).
-
 This package compiles sanitation data from established Open Defecation
 Free (ODF) communities across different regions in Ghana.
 
@@ -215,6 +213,8 @@ Data are available as
 [CC-BY](https://github.com/openwashdata/basisghana/LICENSE.md).
 
 ## Citation
+
+Published by openwashdata, <https://openwashdata.org>.
 
 To cite this package, please use:
 
